@@ -1,0 +1,54 @@
+/* Three-image galleries for every classic highlight and deep attraction */
+.attraction-gallery{margin:14px 0 14px;max-width:100%}
+.gallery-images{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:7px}
+.gallery-thumb{display:block;position:relative;aspect-ratio:1.18/1;border:0;padding:0;overflow:hidden;border-radius:11px;background:linear-gradient(135deg,#e2e6ed,#b9c8d3);cursor:zoom-in}
+.gallery-thumb img{display:block;width:100%;height:100%;object-fit:cover;transition:transform .3s}
+.gallery-thumb:hover img{transform:scale(1.07)}
+.gallery-index{position:absolute;left:8px;bottom:8px;border-radius:14px;background:#121820b5;color:#fff;font-size:10px;letter-spacing:.1em;padding:4px 7px;pointer-events:none}
+.gallery-caption{display:flex;flex-wrap:wrap;justify-content:space-between;gap:6px;margin-top:8px;color:#838b94;font-size:10px;line-height:1.5}
+.gallery-source{color:#3d77bb;font-weight:650}
+.modal-highlight{padding:13px;border:1px solid #e8e9ed;background:#fcfcfd;border-radius:13px}
+.modal-highlight .highlight-head{display:flex;justify-content:space-between;align-items:start;gap:8px}
+.modal-highlight h4{margin:0;font-size:12px;letter-spacing:-.01em;line-height:1.45}
+.modal-highlight a.highlight-map{color:#3e7ec3;font-size:10px;font-weight:750;flex-shrink:0}
+.modal-highlight .gallery-images{gap:5px}
+.modal-highlight .gallery-thumb{border-radius:7px}
+.modal-highlight .attraction-gallery{margin-bottom:0}
+.modal-spot .attraction-gallery{margin:13px 0 10px}
+.spot-card .attraction-gallery{margin:10px 0 13px}
+.spot-card .gallery-images{gap:6px}
+.spot-card .gallery-thumb{border-radius:9px}
+.gallery-tip{font-size:11px;color:#9499a3;margin:5px 0 20px;line-height:1.8}
+.photo-lightbox{border:0;background:#0b0c10;color:#fff;padding:0;border-radius:21px;width:min(1000px,calc(100vw - 18px));max-height:95vh;overflow:auto;box-shadow:0 12px 80px #0008}
+.photo-lightbox::backdrop{background:#060a0de8;backdrop-filter:blur(10px)}
+.lightbox-inner{padding:22px;display:flex;flex-direction:column;gap:14px}
+.lightbox-head{display:flex;justify-content:space-between;align-items:center;gap:15px}
+.lightbox-head h3{font-size:15px;letter-spacing:-.01em;margin:0}
+.lightbox-head button,.lightbox-navigation button{border:1px solid #ffffff30;background:#ffffff1d;color:#fff;border-radius:50%;height:39px;width:39px;font-size:21px;display:grid;place-items:center}
+#lightbox-image{display:block;width:100%;max-height:67vh;object-fit:contain;min-height:140px;border-radius:12px;background:#25282c}
+.lightbox-navigation{display:flex;justify-content:space-between;align-items:center;gap:14px}
+#lightbox-credit{color:#b5bfc9;line-height:1.6;font-size:11px;min-width:0;overflow-wrap:anywhere;flex:1;text-align:center}
+#lightbox-source{font-size:11px;font-weight:650;color:#bcdcff;align-self:center}
+.planner-intro{background:linear-gradient(160deg,#f5f6f8,#e9eef5);padding:105px 0 68px;position:relative;overflow:hidden}
+.planner-intro h1{font-size:clamp(52px,6.4vw,92px);letter-spacing:-.075em;line-height:1.1;margin:18px 0 20px;color:#191a20}
+.planner-intro h1 span{color:#9297a1}
+.planner-intro p{font-size:16px;line-height:1.9;color:#6d737c;max-width:640px}
+.planner-intro .intro-meta{font-size:11px;letter-spacing:.17em;color:#818b98;font-weight:750}
+.planner-intro .intro-links{display:flex;flex-wrap:wrap;gap:13px;margin-top:26px}
+.planner-intro .intro-links a{border-radius:13px;background:#191b21;color:white;padding:13px 18px;font-size:12px}
+.planner-intro .intro-links a:nth-child(2){background:white;color:#242832;border:1px solid #dde0e6}
+.planner-page .planner-section{padding-top:74px}
+.planner-page .route-section{background:#fff}
+.planner-page .planner-intro+.planner-section{scroll-margin-top:60px}
+@media(max-width:600px){.planner-intro{padding:76px 0 48px}.planner-intro h1{font-size:54px}.planner-intro p{font-size:13px}.gallery-thumb{aspect-ratio:1/1}.gallery-caption{font-size:9px}.modal-highlight{padding:10px}.modal-highlight h4{font-size:11px}.lightbox-inner{padding:12px}.lightbox-navigation{gap:5px}.lightbox-navigation button{width:34px;height:34px;flex-shrink:0}#lightbox-credit{font-size:10px}}
+.route-promo{padding-block:96px;background:#eef2f7}
+.route-promo-panel{border-radius:28px;padding:70px 8%;background:linear-gradient(125deg,#fff 40%,#e1e9f4 100%);border:1px solid #e5e9f0}
+.route-promo-panel h2{font-size:clamp(38px,5.7vw,70px);line-height:1.18;letter-spacing:-.065em;margin:14px 0 16px}
+.route-promo-panel h2 span{color:#939ba9}
+.route-promo-panel p{font-size:14px;color:#78808a;line-height:1.8;max-width:570px;margin-bottom:25px}
+.route-promo-steps{display:flex;gap:16px;flex-wrap:wrap;margin-top:33px;color:#777f8a;font-size:11px;letter-spacing:.04em}
+@media(max-width:600px){.route-promo{padding-block:55px}.route-promo-panel{padding:42px 24px}.route-promo-panel h2{font-size:44px}}
+.spot-actions .add-city-link{color:#2674bb;font-weight:720;border:0;background:transparent}
+
+.gallery-thumb.image-unavailable::after{content:"图片需联网";position:absolute;inset:0;display:grid;place-items:center;background:linear-gradient(135deg,#e7ecf2,#c9d5df);font-size:10px;color:#6d7c88;letter-spacing:.07em}
+.gallery-thumb.image-unavailable .gallery-index{z-index:2}

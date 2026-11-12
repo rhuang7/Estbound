@@ -1,0 +1,46 @@
+/* EASTBOUND V6 — six-first catalogs, flight planner, richer destination guidance */
+.collection-more{min-width:206px;margin:30px auto 0;background:#f5f5f7;border-color:#e6e8ed;transition:all .2s}
+.collection-more:hover{background:#eaf2fc;border-color:#bed2e8;color:#1766ad}
+.collection-more[hidden]{display:none!important}
+.ferry-checklist{display:flex;align-items:center;flex-wrap:wrap;gap:12px 23px;border-top:1px solid #e7e9ed;padding:24px 0 4px;margin-top:24px;font-size:11px;color:#77808c;line-height:1.7}
+.ferry-checklist strong{font-size:12px;color:#2e3540}
+.practical-grid{grid-template-columns:repeat(3,minmax(0,1fr))}
+.origin-group input,.date-group input,.origin-group select{display:block;width:100%;background:#f8f9fb;border:1px solid #e2e5ec;padding:13px 15px;border-radius:12px;font-size:13px;color:#30343a;min-height:45px;margin-top:9px}
+.origin-group>.mini-helper,.date-group>.mini-helper{margin:9px 0 0;line-height:1.65}
+.required-star{color:#3977bd}
+.airport-label-row{display:flex;align-items:center;justify-content:space-between;gap:9px;margin-top:19px}
+.airport-label-row label{margin:0!important}.airport-label-row span{font-size:10px;color:#8c97a6;text-align:right}
+.origin-group select{appearance:auto}
+.origin-status{font-size:10px;color:#6d8096;line-height:1.6;margin:8px 0 0}
+.origin-status[data-kind="warn"]{color:#99662b}
+.flight-section{background:#f7f8fa}
+.flight-overview{background:#191b20;border-radius:24px;padding:30px 35px;color:#fff;display:flex;justify-content:space-between;align-items:center;gap:15px 30px;flex-wrap:wrap;margin-bottom:22px}
+.flight-overview .flight-hero-kicker{font-size:10px;letter-spacing:.14em;color:#aab4c6;font-weight:750}
+.flight-overview h3{font-size:clamp(23px,3.2vw,37px);line-height:1.25;letter-spacing:-.045em;margin:9px 0}
+.flight-overview p{font-size:12px;color:#b6bfcf;margin:0;line-height:1.75}
+.flight-route-tag{border:1px solid #5c6370;border-radius:50px;padding:11px 17px;color:#fff;font-size:12px;white-space:normal}
+.flight-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:15px}
+.flight-card{display:flex;flex-direction:column;background:#fff;border:1px solid #e8ebf0;border-radius:20px;padding:25px;min-height:270px;box-shadow:0 4px 24px rgba(20,30,48,.025)}
+.flight-card .flight-label{font-size:10px;font-weight:800;letter-spacing:.13em;color:#6c91b6;text-transform:uppercase}
+.flight-card .flight-airports{display:flex;align-items:center;gap:10px;margin:19px 0 13px}
+.flight-card .flight-airports b{font-size:26px;letter-spacing:-.04em;color:#252b35}
+.flight-card .flight-airports span{font-size:15px;color:#b0b7bf}
+.flight-card h3{font-size:15px;letter-spacing:-.035em;margin:4px 0 8px}
+.flight-card p{font-size:11px;line-height:1.82;color:#858a96;flex:1}
+.flight-card small{font-size:10px;color:#a4a9b3;display:block;line-height:1.65;margin-top:6px}
+.flight-card a{display:inline-flex;background:#eff5fc;color:#176db5;font-size:11px;font-weight:750;border-radius:11px;padding:12px 13px;align-self:flex-start;margin-top:11px}
+.flight-bottom-info{border-radius:18px;background:#fff;border:1px solid #e8ebf0;padding:23px 26px;margin-top:19px}
+.flight-bottom-info strong{font-size:12px}.flight-bottom-info p{font-size:11px;color:#898f9b;line-height:1.8;margin:9px 0 15px}
+.flight-bottom-info div{display:flex;flex-wrap:wrap;gap:11px 22px}.flight-bottom-info a{font-size:11px;color:#2772ba;font-weight:680}
+.flight-error{grid-column:1/-1;padding:29px;border-radius:18px;background:#fff;color:#657285;line-height:1.8}
+.destination-extra{margin:21px 0 15px;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:9px}
+.destination-extra>div{background:#f6f8fa;border-radius:12px;padding:16px}
+.destination-extra span{font-size:9px;letter-spacing:.1em;color:#8798ac;font-weight:730;display:block;margin-bottom:9px}
+.destination-extra strong{font-size:12px;color:#353a45}
+.destination-extra p{font-size:10px!important;line-height:1.8!important;margin:7px 0 0!important}
+@media(max-width:1000px){.flight-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.destination-extra{grid-template-columns:1fr 1fr}}
+@media(max-width:860px){.practical-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.practical-grid article:last-child{grid-column:auto}}
+@media(max-width:600px){.flight-grid{grid-template-columns:1fr}.flight-overview{padding:25px 22px;border-radius:17px}.flight-overview .flight-route-tag{font-size:11px}.flight-card{min-height:0;padding:22px}.flight-section{padding-block:72px}.practical-grid{grid-template-columns:1fr}.destination-extra{grid-template-columns:1fr}.flight-bottom-info{padding:22px}.ferry-checklist{flex-direction:column;align-items:flex-start;gap:5px}}
+
+.time-pref-label{display:block;margin-top:17px!important;font-size:11px!important;color:#575f6e}
+.date-group #flight-time-pref{display:block;appearance:auto;width:100%;min-height:45px;margin-top:9px;padding:12px 14px;border-radius:12px;background:#f8f9fb;border:1px solid #e2e5ec;color:#30343a;font:inherit;font-size:12px}

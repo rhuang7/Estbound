@@ -1,0 +1,5 @@
+/* EASTBOUND V8 · full-row responsive editorial grids */
+.destination-grid,.spot-grid,.shopping-grid,.dining-grid,.reading-grid,.ferry-grid{grid-template-columns:repeat(3,minmax(0,1fr))}
+@media(max-width:1100px){.destination-grid,.spot-grid,.shopping-grid,.dining-grid,.reading-grid,.ferry-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:600px){.destination-grid,.spot-grid,.shopping-grid,.dining-grid,.reading-grid,.ferry-grid{grid-template-columns:minmax(0,1fr)}}
+@media(max-width:600px){.destination-card{min-width:0}}
