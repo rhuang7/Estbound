@@ -25,7 +25,7 @@ function renderShopping(){
  const city=el('shop-city').value;
  const shops=(city==='all'?REGIONS.flatMap(r=>r.cities.flatMap(key=>(SHOPPING_GUIDES[key]||[]).map(s=>({city:key,item:s})))):(SHOPPING_GUIDES[city]||[]).map(s=>({city,item:s})));
  const shown=shops.slice(0,displayLimit(shoppingVisible,shops.length));
- el('shopping-grid').innerHTML=shown.map(({city:place,item:[name,category,find,description]},i)=>`<article class="shop-card"><div class="shop-index">${esc(cityName(place))} / ${String(i+1).padStart(2,'0')}</div><span class="shop-category">${esc(category)}</span><h3>${esc(name)}</h3><p>${esc(description)}</p><div class="shop-pick"><strong>推荐留意</strong><span>${esc(find)}</span></div>${extLink(mapSpotUrl(name,place),'地图与周边商店 ↗','shop-map-link')}</article>`).join('');
+ el('shopping-grid').innerHTML=shown.map(({city:place,item:[name,category,find,description]},i)=>`<article class="shop-card place-clickable"><a class="place-card-stretch" href="place.html?type=shopping&city=${encodeURIComponent(place)}&item=${SHOPPING_GUIDES[place].findIndex(s=>s[0]===name)}" aria-label="查看${esc(name)}购物地点详情"></a><div class="shop-index">${esc(cityName(place))} / ${String(i+1).padStart(2,'0')}</div><span class="shop-category">${esc(category)}</span><h3>${esc(name)}</h3><p>${esc(description)}</p><div class="shop-pick"><strong>推荐留意</strong><span>${esc(find)}</span></div>${extLink(mapSpotUrl(name,place),'地图与周边商店 ↗','shop-map-link')}<span class="place-detail-label">查看购物地点完整详情 ↗</span></article>`).join('');
  updateCollectionControls('shopping',shown.length,shops.length,'购物推荐');
 }
 

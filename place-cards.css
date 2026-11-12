@@ -1,0 +1,8 @@
+/* V10 — Make all restaurant and shopping cards clickable while preserving independent external links. */
+.eat-card.place-clickable,.shop-card.place-clickable{position:relative;cursor:pointer;isolation:isolate}
+.place-card-stretch{position:absolute;inset:0;z-index:1;border-radius:inherit}
+.place-card-stretch:focus-visible{outline:3px solid #1687d9;outline-offset:3px}
+.eat-card.place-clickable:hover,.shop-card.place-clickable:hover{box-shadow:0 20px 45px #1c25301c;transform:translateY(-3px)}
+.eat-card .eat-links,.shop-card .shop-map-link{position:relative;z-index:2}
+.place-detail-label{display:block;margin-top:14px;padding-top:13px;border-top:1px solid #e6eaf0;color:#126db1;font-size:11px;font-weight:750;pointer-events:none}
+.eat-card.place-clickable .place-detail-label{margin-top:4px;border-top:0;padding-top:2px}
