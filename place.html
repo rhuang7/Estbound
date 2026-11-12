@@ -1,11 +1,13 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#ffffff"><meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="description" content="EASTBOUND 加东餐厅与购物目的地：照片、特色介绍、地理位置与地图导航。">
 <title>地点详情 · EASTBOUND</title>
 <link rel="preconnect" href="https://commons.wikimedia.org"><link rel="stylesheet" href="places.css">
-<link rel="stylesheet" href="https://api.mapbox.com/mapbox-gl-js/v3.33.0/mapbox-gl.css">
+
+<link rel="stylesheet" href="i18n.css"/>
+<script defer src="i18n_catalog.js"></script><script defer src="i18n.js"></script>
 </head>
 <body>
 <header class="pheader pwrap"><a href="index.html" class="pbrand"><span class="pmark">E.</span>EASTBOUND</a><nav class="pnav" aria-label="导航"><a href="index.html#dining">精选餐厅</a><a href="index.html#shopping">购物与伴手礼</a><a href="planner.html#planner">行程规划 ↗</a></nav></header>
@@ -13,8 +15,8 @@
 <section class="phero" aria-labelledby="place-title"><div class="peye" id="place-overline">EASTBOUND / PLACE GUIDE</div><h1 id="place-title">正在载入地点…</h1><p class="plead" id="place-lead">发现加东值得停留的一站。</p><div class="pchips" id="place-chips"></div><div class="phero-actions"><a class="pbtn pbtn-primary" id="action-map" target="_blank" rel="noopener noreferrer">在 Google Maps 中定位 ↗</a><a class="pbtn" id="action-source" target="_blank" rel="noopener noreferrer" hidden>查看推荐资料 ↗</a><a class="pbtn" id="action-back" href="index.html">← 返回探索</a></div></section></div>
 <section class="gallery-band"><div class="pwrap"><div class="gallery-caption"><strong>IMAGES / 图片与城市印象</strong><span id="photo-note" aria-live="polite">正在搜索公开许可的相关图片…</span></div><div id="photo-grid" class="photogrid"><div class="photo-cell"></div><div class="photo-cell"></div><div class="photo-cell"></div></div><p class="footnote">图片优先从 Wikimedia Commons 检索并链接至作者和许可页面；不足时展示明确标注的当地或周边参考图，不能视为该商户内部实拍。</p></div></section>
 <div class="pwrap content-grid"><article class="editorial"><div class="section-tag">A CLOSER LOOK / 深入了解</div><h2 id="place-subtitle">这里有什么值得探索？</h2><p id="place-description"></p><p id="place-experience"></p><div class="insight"><strong id="place-tip-head">旅行贴士</strong><p id="place-tip"></p></div><h2 style="font-size:28px">出行信息</h2><ul class="details-list" id="place-facts"></ul><p class="footnote">本站内容是编辑整理的旅行建议，不提供实时营业时间、价格、菜单、具体库存或保证可订位的信息。部分“购物推荐”是街区／市集，而非单一商家。</p></article>
-<aside class="map-panel" id="location"><div class="section-tag">ON THE MAP / 地理位置</div><h2>找到这里。</h2><p class="map-head" id="map-title">正在准备位置查询…</p><div class="map-frame"><div class="map-poster" id="map-poster"><span id="poster-caption">地图加载前先查看地区示意；具体位置以在线搜索结果为准。</span></div><div class="map-real" id="place-map" aria-label="Mapbox 地点地图及位置标记"></div></div><p class="map-status" aria-live="polite" id="map-status">正在检查 Mapbox 设置…</p><div class="map-links"><a class="pbtn pbtn-primary" id="maps-navigation" target="_blank" rel="noopener noreferrer">Google Maps 导航 ↗</a><a class="pbtn" id="maps-search" target="_blank" rel="noopener noreferrer">核对地点 ↗</a></div><p class="map-location" id="map-address">尚未验证具体地址。</p><div class="map-credit">© Mapbox © OpenStreetMap contributors（启用 Mapbox 地图后显示）；地图搜索数据来自 Mapbox Search Box API。</div></aside></div>
+<aside class="map-panel" id="location"><div class="section-tag">ON THE MAP / 地理位置</div><h2>找到这里。</h2><p class="map-head" id="map-title">正在准备位置查询…</p><div class="map-frame google-frame" id="google-map-frame"><iframe id="place-map" class="map-iframe" title="Google Maps 地点地图" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><p class="map-status" aria-live="polite" id="map-status">正在准备 Google Maps 嵌入地图…</p><div class="map-links"><a class="pbtn pbtn-primary" id="maps-navigation" target="_blank" rel="noopener noreferrer">Google Maps 导航 ↗</a><a class="pbtn" id="maps-search" target="_blank" rel="noopener noreferrer">核对地点 ↗</a></div><p class="map-location" id="map-address">位置按名称搜索，出行前请核对实际门牌地址。</p><div class="map-credit">地图与标注内容由 Google Maps 提供，具体地点匹配以 Google Maps 为准。</div></aside></div>
 <section class="extras-section"><div class="pwrap"><div class="section-tag">MORE TO EXPLORE / 同城推荐</div><h2>顺路，再逛一逛。</h2><div class="extra-grid" id="nearby-grid"></div></div></section></main>
 <footer class="pfooter pwrap"><span>© 2026 EASTBOUND · 为旅行者制作</span><a href="index.html">回到探索首页 ↑</a></footer>
-<script defer src="place_data.js"></script><script defer src="mapbox_config.js"></script><script defer src="https://api.mapbox.com/mapbox-gl-js/v3.33.0/mapbox-gl.js"></script><script defer src="place.js"></script>
+<script defer src="place_data.js"></script><script defer src="google_maps_config.js"></script><script defer src="place.js"></script>
 </body></html>

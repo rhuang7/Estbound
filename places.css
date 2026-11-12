@@ -9,3 +9,17 @@
 [hidden]{display:none!important}
 .map-key-setup{font-size:12px;color:#61717e;margin:13px 0;padding:10px;border:1px solid #dfe5eb;border-radius:12px}
 .map-key-setup summary{font-weight:690;cursor:pointer;color:#2d536e}
+
+/* V10.1 map rendering and static fallback: show the interactive canvas only after idle. */
+.map-real{opacity:0;pointer-events:none;transition:opacity .2s ease;}
+.map-real.is-ready{opacity:1;pointer-events:auto;}
+.map-poster{z-index:1;}
+.map-static-backup{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:0;}
+.map-poster .map-static-backup ~ span{background:#fffffff0;box-shadow:0 5px 18px #00000015;}
+.map-poster:has(.map-static-backup)::before{display:none;}
+
+/* V10.3 Google iframe for restaurant & shopping location details */
+.map-frame.google-frame{background:#e6edf2;overflow:hidden;border-radius:19px;position:relative}
+.map-iframe{display:block;position:absolute;inset:0;width:100%;height:100%;border:0;background:#e6edf2}
+/* Override the older Mapbox canvas rule without affecting planner.html */
+.map-iframe{opacity:1!important;pointer-events:auto!important;transition:none!important}

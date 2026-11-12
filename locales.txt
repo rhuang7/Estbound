@@ -1,0 +1,546 @@
+目的地|Destinations|Destinations
+景点|Attractions|Attractions
+餐厅|Dining|Restaurants
+购物|Shopping|Boutiques
+游记|Travel stories|Carnets de voyage
+交通指南|Travel guide|Guide pratique
+行程规划|Trip planner|Planificateur
+智能规划|Smart planning|Planification intelligente
+经典线路|Curated routes|Itinéraires choisis
+旅行 Vlog|Travel vlogs|Vlogs de voyage
+首页|Home|Accueil
+精选推荐|Editor's picks|Sélection
+地点详情|Place details|Fiche du lieu
+开始规划|Plan your trip|Planifier mon voyage
+立即规划|Plan now|Planifier
+开启下一段加东旅程|Your next journey begins in Eastern Canada|Votre prochain voyage commence dans l'Est canadien
+由你的旅行天数决定精彩|Find the right trip for your time|Un itinéraire selon votre temps
+世界很大。|The world is wide.|Le monde est vaste.
+先向东，走一走。|Start by exploring the East.|Commencez par explorer l'Est.
+从安大略湖畔，到纽芬兰的北大西洋岸。|From the shores of Lake Ontario to Newfoundland's Atlantic coast.|Des rives du lac Ontario à la côte atlantique de Terre-Neuve.
+每一座城市，都有值得停留的理由。|Every destination is worth slowing down for.|Chaque destination mérite qu'on s'y attarde.
+定制我的旅程|Create my journey|Créer mon itinéraire
+探索目的地|Explore destinations|Explorer les destinations
+让风景，成为路上的惊喜。|Let the scenery surprise you.|Laissez-vous surprendre par les paysages.
+城市与地区|Cities & regions|Villes et régions
+自由规划天数|Flexible travel days|Jours de voyage flexibles
+专属于你的路线|Routes made for you|Itinéraires sur mesure
+一段旅程，无限种打开方式。|One journey. Endless possibilities.|Un voyage. Mille possibilités.
+目的地精选|Featured destinations|Destinations à découvrir
+心动的地方。|Places to fall for.|Des lieux à aimer.
+都在加东。|All in Eastern Canada.|Tous dans l'Est canadien.
+从世界级博物馆到北大西洋海岸，每个栏目默认完整展示一到两行；按主题筛选，或点击「显示更多」探索全部目的地。|Discover museums, historic towns and Atlantic coastlines. Filter by theme or expand the cards to see every destination.|Des musées aux littoraux de l'Atlantique : filtrez par thème ou affichez toutes les destinations.
+全部目的地|All destinations|Toutes les destinations
+全部城市及地区|All cities & regions|Toutes les villes et régions
+城市人文|City & culture|Villes et culture
+自然奇观|Natural wonders|Merveilles naturelles
+小镇慢游|Slow-paced towns|Petites villes paisibles
+大西洋海岸|Atlantic coast|Côte atlantique
+显示更多目的地 ↓|Show more destinations ↓|Voir plus de destinations ↓
+收起目的地 ↑|Show fewer destinations ↑|Réduire les destinations ↑
+景点发现|Discover attractions|Découvrir les sites
+好看的风景。|Beautiful places.|De beaux paysages.
+远不止这些。|And so much more.|Et bien plus encore.
+133 条深度景点及各城市经典地标，继续保留三图画廊。按城市和主题筛选；每处附真实评价与游记的外部阅读入口。|Browse 133 attractions and iconic landmarks, with photo galleries and links to outside reviews and travel writing.|Parcourez 133 sites et monuments, avec galeries photo et liens vers des avis et récits externes.
+城市 / 地区|City / region|Ville / région
+全部体验|All experiences|Toutes les expériences
+自然户外|Nature & outdoors|Nature et plein air
+历史艺术|History & art|Histoire et art
+美食市集|Food & markets|Gastronomie et marchés
+慢游小镇|Small-town escapes|Escapades en petites villes
+亲子体验|Family friendly|En famille
+显示更多景点 ↓|Show more attractions ↓|Voir plus de sites ↓
+收起景点 ↑|Show fewer attractions ↑|Réduire les sites ↑
+精选餐厅|Featured restaurants|Restaurants recommandés
+一座城市。|Discover a city.|Découvrez une ville.
+从餐桌开始认识。|Start at the table.|Commencez à table.
+为 19 个目的地精选各两家具体餐厅，也标注附近小镇的餐饮选项。支持按城市查看菜单方向、位置与推荐依据；不展示未经核实的评分和价格。|Discover two restaurant recommendations for each of our 19 destinations, with location links and dining tips. Ratings and prices are not live.|Découvrez deux restaurants recommandés dans chacune de nos 19 destinations, avec liens et conseils. Prix et notes non actualisés.
+寻找城市里的餐厅|Find restaurants by city|Trouver des restaurants par ville
+显示更多餐厅 ↓|Show more restaurants ↓|Voir plus de restaurants ↓
+收起餐厅 ↑|Show fewer restaurants ↑|Réduire les restaurants ↑
+购物与伴手礼|Shopping & souvenirs|Magasins et souvenirs
+买一点当地的。|Bring something home.|Ramenez un souvenir.
+留一点记忆。|Keep the memories.|Gardez les souvenirs.
+探索当地街市、独立书店、设计小店、农产品与海洋工艺。每个推荐提供适合购买的商品和地图入口，营业时间与价格请出行前核实。|Discover local markets, boutiques, books, regional produce and coastal crafts. Check shop hours and prices before you visit.|Découvrez marchés, boutiques, livres, produits régionaux et artisanat maritime. Vérifiez les horaires et prix avant votre visite.
+选择购物城市|Choose a shopping city|Choisir une ville pour magasiner
+选择「全部目的地」可以一次浏览所有城市的购物灵感|Select “All destinations” to browse shopping ideas across every city.|Choisissez « Toutes les destinations » pour découvrir toutes les idées magasinage.
+显示更多购物推荐 ↓|Show more shopping tips ↓|Voir plus d'idées magasinage ↓
+收起购物推荐 ↑|Show fewer shopping tips ↑|Réduire les suggestions ↑
+走得远一点。|Go a little farther.|Partez un peu plus loin.
+生活，慢一点。|Live a little slower.|Vivez un peu plus lentement.
+不必赶路去打卡所有风景。看看旅人如何放慢脚步，让沿途的真实片刻，成为下一次出发的灵感。|You don't have to see everything. Follow real travellers as they slow down and discover memorable moments along the way.|Pas besoin de tout voir. Suivez des voyageurs qui prennent le temps de profiter de chaque instant.
+找到我的旅行节奏|Find my travel rhythm|Trouver mon rythme de voyage
+旅行者视角|Travel perspectives|Regards de voyageurs
+风景之外。|Beyond the scenery.|Au-delà des paysages.
+听听别人怎么走。|Hear travellers' stories.|Écoutez les voyageurs.
+精选带署名的简短原文摘录，并汇集各城市的真实评价、旅行游记和攻略入口。景点详情也可直接查看其对应的外部评价与游记。|Read attributed short excerpts and explore original reviews, travel notes and guides. Links take you to the source sites.|Lisez de courts extraits attribués et consultez les avis et carnets sur leurs sites d'origine.
+原文短摘录 ≠ 真实顾客评分|A short quotation is not a customer rating|Une citation courte n'est pas une note client
+带引号部分为可追溯来源的短摘录，可能来自旅游机构或投稿者；不代表随机游客评价。其他概述均为本站独立整理，请点击来源阅读完整游记。|Quoted text is attributed to its source; it may come from tourism organizations or contributors, not independent customer reviews. Follow the links for full stories.|Les citations sont attribuées à leur source : offices de tourisme ou contributeurs, pas nécessairement des clients. Consultez les liens pour lire les récits complets.
+按景点查看游客反馈 ↗|Explore attraction reviews ↗|Consulter les avis par site ↗
+筛选城市游记|Filter travel notes by city|Filtrer les récits par ville
+评论与游记保留在原平台，避免擅自转载全文及原图|Reviews and original photos remain on their source websites.|Avis et photos d'origine restent sur leurs sites sources.
+查看更多城市游记 ↓|Show more travel notes ↓|Voir plus de carnets ↓
+收起城市游记 ↑|Show fewer travel notes ↑|Réduire les carnets ↑
+出行实用指南|Practical travel guide|Guide pratique du voyage
+交通、住宿、美食。|Transport, stays, food.|Transport, séjour, cuisine.
+把细节也安排好。|Plan the little details.|Organisez aussi les détails.
+结合航班、城际交通、住宿区域、餐厅选择、天气和轮渡安排。每个城市都可查看具体餐厅及原始推荐依据。|Plan flights, intercity travel, where to stay, dining, seasonal weather and ferries, with links to original sources.|Organisez vols, transports, hébergements, restaurants, météo saisonnière et traversiers, avec liens sources.
+城市间交通|Getting between cities|Se déplacer entre les villes
+安省和魁省可以查询 VIA Rail；海洋省份可比较自驾与 Maritime Bus。PEI 通过联邦大桥连接新不伦瑞克，纽芬兰另需飞机或跨海轮渡。|Ontario and Québec have VIA Rail connections. In the Maritimes compare driving and regional buses. PEI connects via Confederation Bridge; Newfoundland requires a flight or ferry.|En Ontario et au Québec, consultez VIA Rail. Dans les Maritimes, comparez voiture et autocars. L'Î.-P.-É. est reliée par pont; Terre-Neuve exige avion ou traversier.
+查询铁路路线 ↗|Explore train routes ↗|Consulter les trajets en train ↗
+推荐住宿区域|Where to stay|Où dormir
+提供每站适合过夜的市中心、海滨、老城区或自然景区基地，并附上住宿搜索链接。未接入酒店库存，因此不显示未经核实的房价或空房。|Find suggested neighbourhoods and bases for each stop, with links to hotel searches. No live availability or unverified prices are shown.|Trouvez les quartiers où séjourner avec des liens pour rechercher un hôtel. Pas de disponibilités ni de prix non vérifiés.
+浏览目的地指南 ↗|Browse destination guides ↗|Explorer les guides des destinations ↗
+当地餐饮灵感|Local food inspiration|Saveurs locales
+从蒙特利尔贝果、PEI 牡蛎，到哈利法克斯龙虾和纽芬兰鳕鱼，按城市提示特色料理与适合觅食的街区。|Try Montréal bagels, PEI oysters, Halifax lobster or Newfoundland cod. Discover regional favourites by city.|Goûtez aux bagels de Montréal, aux huîtres de l'Î.-P.-É., au homard d'Halifax et à la morue de Terre-Neuve.
+生成每日餐饮建议 ↗|Get daily dining ideas ↗|Obtenir des idées de restaurants ↗
+航班与抵达机场|Flights & arrival airports|Vols et aéroports d'arrivée
+从加拿大任何城市出发，输入日期后优先匹配行程首站机场；如行程终点不同，还可比较多城市机票。并提供 Google Flights 与比价入口。|Start from anywhere in Canada and compare recommended airports, outbound flights and multi-city returns. Links open airline and flight-search sites.|Partez de n'importe où au Canada : comparez les aéroports d'arrivée, les vols aller et les retours multivilles.
+选择出发地与航班 ↗|Choose origin & flights ↗|Choisir départ et vols ↗
+季节与行李准备|Seasons & packing|Saisons et bagages
+春秋温差较大，海洋省份风雨多变；冬季驾驶需提前评估雪况与轮渡运行，夏季热门海岸景点及住宿需预留预约时间。|Dress in layers for spring and fall. Coastal weather changes quickly; winter road conditions and ferry schedules need extra care. Reserve popular summer stays early.|Prévoyez plusieurs couches au printemps et à l'automne. La météo côtière change vite; vérifiez routes d'hiver et traversiers. Réservez tôt en été.
+按主题挑选景点 ↗|Browse attractions by theme ↗|Explorer les sites par thème ↗
+自驾与跨海提醒|Driving & crossings|Conduite et traversées
+自驾前确认异地还车、轮渡载车许可、过桥费和保险；纽芬兰必须另行安排航班或 Marine Atlantic 跨海运输，并预留缓冲日。|Check one-way rental charges, ferry vehicle permissions, bridge tolls and insurance. Reaching Newfoundland needs a flight or a Marine Atlantic ferry, plus buffer time.|Vérifiez frais de retour ailleurs, autorisations de traversier, péages et assurance. Terre-Neuve exige avion ou traversier Marine Atlantic et du temps de réserve.
+查看轮渡官方链接 ↗|Official ferry links ↗|Liens des traversiers ↗
+官方交通与旅游参考|Official transport & tourism resources|Ressources officielles de transport et tourisme
+轮渡及租车|Ferries & car rental|Traversiers et location de voiture
+跨过海峡。|Cross the water.|Traversez le détroit.
+下一站更远。|Go beyond the shore.|Allez encore plus loin.
+涵盖 PEI、纽芬兰、芬迪湾、魁北克和多伦多观景渡轮；附航程、季节性、乘车建议、换乘提醒及运营方时刻表。|Discover ferry services around PEI, Newfoundland, the Bay of Fundy, Québec and Toronto, with duration estimates, seasonal advice and official schedules.|Découvrez les traversiers de l'Î.-P.-É., Terre-Neuve, la baie de Fundy, du Québec et de Toronto, avec durées indicatives et horaires officiels.
+重要提示|Important reminder|Important à savoir
+轮渡时间仅为预计海上航程，不含提前报到、排队、装卸车辆和码头之间的公路接驳。天气和季节都可能导致变化。|Ferry durations are sailing estimates only. Add check-in, boarding, vehicle loading and road transfers. Weather may affect service.|Les durées indiquées concernent la traversée seulement. Ajoutez enregistrement, embarquement et transferts. La météo peut perturber le service.
+显示更多轮渡线路 ↓|Show more ferry routes ↓|Voir plus de traversées ↓
+收起轮渡线路 ↑|Show fewer ferry routes ↑|Réduire les traversées ↑
+登船前建议确认|Before boarding|Avant d'embarquer
+① 车辆、乘客及宠物预订限制|① Vehicle, passenger and pet rules|① Règles pour véhicules, passagers et animaux
+② 截止报到时间与天气取消安排|② Check-in deadline and weather cancellations|② Heure limite et annulations météo
+③ 航程之外的码头接驳与租车公司许可|③ Port transfers and rental company permissions|③ Transferts au port et autorisation du loueur
+PEI 不一定需要坐轮渡|PEI doesn't always require a ferry|L'Î.-P.-É. est aussi accessible par pont
+从新不伦瑞克省可经 Confederation Bridge 联邦大桥开车上岛；也可根据路线选择新斯科舍省 Caribou — PEI Wood Islands 轮渡。自驾时请比较往返路径、车辆收费与天气。|Drive to PEI via Confederation Bridge from New Brunswick, or consider the Caribou–Wood Islands ferry from Nova Scotia. Compare routes, tolls and weather.|Rejoignez l'Î.-P.-É. par le pont de la Confédération depuis le Nouveau-Brunswick, ou par le traversier Caribou–Wood Islands depuis la Nouvelle-Écosse.
+联邦大桥官网 ↗|Confederation Bridge ↗|Pont de la Confédération ↗
+租好车。|Pick up a car.|Louez une voiture.
+走得更自由。|Travel on your terms.|Voyagez librement.
+三个平台均提供官方网站入口。页面不代替租车公司实时报价、预订或保险条款。|Compare three rental providers on their official websites. This site does not provide live rates or insurance terms.|Comparez trois loueurs sur leurs sites officiels. Leurs tarifs et assurances ne sont pas affichés en temps réel.
+租车建议：确认租车年龄及驾照要求、信用卡押金、保险和车损免赔额；跨省或乘轮渡运输租赁车辆前，务必询问租车公司是否允许，纽芬兰可能涉及跨海和异地还车限制。|Confirm licence and age requirements, deposits, insurance, ferry permissions and one-way charges before renting.|Vérifiez permis, âge minimum, caution, assurance, autorisations de traversier et frais de retour ailleurs.
+城市由你选。|Choose your cities.|Choisissez vos villes.
+每天都恰到好处。|Make every day count.|Profitez de chaque journée.
+已经看过景点、餐厅和旅行心得？打开专属规划页，设定加拿大出发城市与日期，串联每天的行程、航班与地图。|Ready to put it together? Set your departure city and date, then create a day-by-day trip with flight ideas and maps.|Prêt à tout organiser ? Choisissez votre ville de départ et date pour créer un itinéraire quotidien avec vols et cartes.
+打开独立规划页面 ↗|Open trip planner ↗|Ouvrir le planificateur ↗
+01 加拿大任意城市出发|01 Depart from anywhere in Canada|01 Départ partout au Canada
+02 设定旅行日期|02 Set your travel date|02 Choisir la date
+03 智能规划每日行程|03 Plan each day|03 Planifier chaque journée
+04 航班与地图|04 Flights & maps|04 Vols et cartes
+下一段故事，|Your next story|Votre prochaine histoire
+从这里开始。|starts here.|commence ici.
+不用填写任何城市或日期。直接翻阅来自马蜂窝、Tripadvisor 旅行者与 Lonely Planet 的经典多日路线，查看完整逐日安排，找到下一段旅行灵感。|No form needed. Browse complete multi-day routes inspired by travel forums, Mafengwo and Lonely Planet, with links to their sources.|Sans formulaire : découvrez des itinéraires de plusieurs jours inspirés de voyageurs et de Lonely Planet, avec leurs sources.
+浏览经典旅行线路 ↗|Explore curated routes ↗|Voir les itinéraires choisis ↗
+去探索。去遇见。去记住。|Explore. Connect. Remember.|Explorez. Rencontrez. Souvenez-vous.
+加拿大东部，等你慢慢发现。|Eastern Canada awaits.|L'Est canadien vous attend.
+探索|Explore|Explorer
+精选目的地|Featured destinations|Destinations à découvrir
+智能行程|Trip planner|Planificateur
+景点百科|Attraction guide|Guide des sites
+购物推荐|Shopping picks|Sélection magasinage
+路线地图|Route map|Carte des trajets
+交通住宿餐饮|Transport, stays & food|Transport, séjour et cuisine
+经典旅行线路|Curated itineraries|Itinéraires choisis
+官方旅行信息|Official travel resources|Ressources touristiques officielles
+安大略省旅游|Ontario tourism|Tourisme Ontario
+蒙特利尔旅游|Visit Montréal|Visiter Montréal
+魁北克城旅游|Visit Québec City|Visiter Québec
+魁北克省旅游|Québec tourism|Tourisme Québec
+新斯科舍省旅游|Nova Scotia tourism|Tourisme Nouvelle-Écosse
+爱德华王子岛旅游|PEI tourism|Tourisme Î.-P.-É.
+纽芬兰旅游|Newfoundland tourism|Tourisme Terre-Neuve
+摄影版权及署名信息|Photography & credits|Photos et crédits
+图片链接需联网加载。|Images require an internet connection.|Les images nécessitent Internet.
+独立旅行灵感项目，非 Apple 官方网站。摄影素材来自 Unsplash 及公开旅游图片来源。|Independent travel project, not affiliated with Apple. Photos are sourced from Unsplash and publicly credited travel images.|Projet de voyage indépendant, sans affiliation avec Apple. Photos issues d'Unsplash et de sources touristiques créditées.
+回到顶部 ↑|Back to top ↑|Retour en haut ↑
+景点图片|Attraction images|Photos des sites
+来源和版权信息|Sources & image credits|Sources et crédits photo
+查看原始图片及许可 ↗|View original file & licence ↗|Voir le fichier et sa licence ↗
+返回景点首页 ↗|Back to attractions ↗|Retour aux sites ↗
+我的路线 ↗|My itinerary ↗|Mon itinéraire ↗
+你的路线。|Your journey.|Votre voyage.
+由你决定。|Your way.|À votre façon.
+从加拿大任意城市出发，输入出发日期与旅行天数；选择加东首站后生成每日行程、适合比较的航班路线和 Mapbox 互动地图。|Depart from anywhere in Canada. Choose a date, trip length and first stop to build daily itineraries, flight searches and a Mapbox map.|Partez de n'importe où au Canada. Choisissez une date, une durée et une première étape pour créer vos journées, vols et carte Mapbox.
+开始智能规划 ↗|Start planning ↗|Commencer à planifier ↗
+查抵达航班 ↗|Explore arriving flights ↗|Rechercher des vols d'arrivée ↗
+查看独立地图 ↗|View route map ↗|Voir la carte ↗
+智能旅行规划|Smart travel planner|Planificateur intelligent
+好旅行，|A great journey|Un beau voyage
+从好计划开始。|starts with a plan.|commence par un bon plan.
+告诉我们，你有多少天。|How many days do you have?|Combien de jours avez-vous ?
+接下来的每一天，交给灵感与路线规划。|We'll help you make the most of every day.|Nous vous aiderons à profiter de chaque journée.
+先定义，|First, choose|D'abord, définissez
+你的旅行方式。|your travel style.|votre style de voyage.
+几个简单选择，生成更适合你的加东路线。|A few choices help us shape your journey across Eastern Canada.|Quelques choix suffisent pour créer votre circuit dans l'Est canadien.
+计划玩几天？|How many travel days?|Combien de jours de voyage ?
+天|days|jours
+加拿大出发城市|Canadian departure city|Ville de départ au Canada
+可自由输入任何加拿大城市或城镇，中英文均可。未匹配到城市时可手动指定实际登机机场。|Enter any Canadian city or town. If the airport cannot be detected, select one manually.|Saisissez une ville canadienne. Si l'aéroport n'est pas reconnu, choisissez-le manuellement.
+起飞机场|Departure airport|Aéroport de départ
+根据出发城市推荐|Suggested from your departure city|Suggéré selon votre ville de départ
+智能推荐机场|Recommend an airport|Recommander un aéroport
+计划出发日期|Departure date|Date de départ
+按本地日期规划第一天行程；飞行跨日时请自行增加抵达缓冲。|The first day uses your local departure date. Allow extra time for overnight flights.|La première journée utilise votre date locale. Prévoyez du temps pour les vols de nuit.
+希望的起飞时段|Preferred departure time|Horaire de départ souhaité
+不限时段 · 优先比价|Any time · compare prices|Tous horaires · comparer les prix
+早间 · 05:00–12:00|Morning · 05:00–12:00|Matin · 05 h–12 h
+下午 · 12:00–18:00|Afternoon · 12:00–18:00|Après-midi · 12 h–18 h
+晚间 · 18:00–次日 05:00|Evening · 18:00–05:00 next day|Soir · 18 h–05 h lendemain
+时段仅作为筛选建议，不代表该时段一定有航班。|This is a preference, not a guarantee that flights are available.|Il s'agit d'une préférence, pas d'une garantie de disponibilité.
+加东行程首站 / 自驾起点|First stop / driving start in Eastern Canada|Première étape / départ en voiture dans l'Est
+自选想去的城市 / 地区|Choose cities & regions|Choisissez vos villes et régions
+智能推荐模式|Automatic suggestions|Suggestions automatiques
+勾选的目的地会全部纳入行程；不勾选则由系统推荐。按省份自由组合，大西洋海岸同样支持。|Selected destinations are included in your itinerary. Leave them unselected for automatic suggestions.|Toutes les destinations cochées seront incluses. Sinon, laissez-nous vous suggérer un parcours.
+安省 + 魁省|Ontario + Québec|Ontario + Québec
+海洋三省精选|The Maritime provinces|Les provinces maritimes
+纽芬兰|Newfoundland|Terre-Neuve
+清空 / 智能推荐|Clear / auto-select|Effacer / choix auto
+偏爱的旅行主题|Preferred travel theme|Thème de voyage préféré
+选一个|Select one|Choisissez-en un
+✦ 经典必游|✦ Classic highlights|✦ Les incontournables
+♧ 自然风景|♧ Nature & scenery|♧ Nature et paysages
+▤ 人文艺术|▤ Culture & art|▤ Culture et art
+◒ 美食慢游|◒ Food & slow travel|◒ Gastronomie et lenteur
+希望的旅行节奏|Your travel pace|Rythme de voyage
+慢慢走 · 舒适|Relaxed · comfortable|Détendu · confortable
+多看看 · 充实|Active · see more|Dynamique · voir davantage
+主要交通方式|Primary transport|Moyen de transport principal
+自驾 / 租车|Driving / car rental|Voiture / location
+火车 / 公共交通|Train / transit|Train / transport en commun
+为我生成行程|Build my itinerary|Créer mon itinéraire
+本地规则智能规划，无需注册；地图使用 Mapbox 免费额度内的服务。|Client-side itinerary planning; no account required. Mapbox usage follows your account plan.|Planification dans le navigateur, sans compte. L'utilisation de Mapbox dépend de votre forfait.
+旅行提示|Travel reminder|Conseil de voyage
+景点开放时间、酒店与餐厅价格、公交班次均非实时信息。跨海轮渡和纽芬兰航班应单独核实；手动勾选的偏远地点会保留，并提示交通限制。|Opening hours, prices and public transport schedules are not live. Check cross-sea ferries and Newfoundland flights separately.|Horaires, prix et transports ne sont pas en temps réel. Vérifiez les traversiers et vols vers Terre-Neuve.
+航班与抵达建议|Flight & arrival ideas|Conseils vols et arrivée
+从你的城市。|From your city.|Depuis votre ville.
+飞向下一段旅程。|Fly into your next adventure.|Envolez-vous vers l'aventure.
+综合行程首站、结束城市与出发日期，推荐适合查询的抵达机场和返程路线。真实票价、直飞情况与航班时间请在航空平台查询。|Compare suggested inbound and return airports based on your trip. Confirm actual fares, nonstop flights and schedules with the airlines.|Comparez les aéroports d'arrivée et de retour conseillés. Vérifiez les tarifs, directs et horaires auprès des compagnies.
+如何阅读这些建议|About these suggestions|À propos de ces conseils
+这里展示的是|These are|Il s'agit de
+航线与机场选择建议|suggested routes and airports|suggestions de vols et d'aéroports
+，并非实时航班搜索结果：不保证每天有航班，也不显示虚构机票价格。比价链接会打开第三方平台；若日期或机场未自动填入，请按卡片上的代码在页面内确认。跨城自驾、轮渡或火车可能比短途航班更合适。|, not live flight inventory. Availability and pricing are not guaranteed. Compare options on external booking sites.|, non de disponibilités en direct. Les prix et les horaires sont à confirmer sur les sites externes.
+Google Flights 实时比价 ↗|Compare flights on Google ↗|Comparer les vols sur Google ↗
+Air Canada 官网 ↗|Air Canada website ↗|Site d'Air Canada ↗
+WestJet 官网 ↗|WestJet website ↗|Site de WestJet ↗
+Porter 官网 ↗|Porter website ↗|Site de Porter ↗
+Mapbox 路线地图|Mapbox route map|Carte d'itinéraire Mapbox
+每段旅程。|Every leg.|Chaque étape.
+一图掌握。|One map.|Une carte.
+Mapbox 在线底图与真实驾车路线，支持自选城市、19 个目的地、轮渡示意和 Google Maps 导航。|Explore 19 destinations on Mapbox with driving routes and ferry links, plus Google Maps navigation.|Explorez 19 destinations avec des trajets routiers et traversées, plus la navigation Google Maps.
+我的行程路线|My itinerary|Mon itinéraire
+全部城市|All cities|Toutes les villes
+轮渡线路|Ferry routes|Traversiers
+起点|Origin|Départ
+终点|Destination|Arrivée
+规划两地路线 ↗|Plan route between cities ↗|Planifier le trajet ↗
+正在检查地图配置…|Checking map settings…|Vérification de la carte…
+地图配置|Map setup|Configuration de la carte
+使用你的 Mapbox|Use your Mapbox|Utilisez votre Mapbox
+公开令牌|public token|jeton public
+激活真实道路路线。只需要以|Enable real road routing with a|Activez les trajets routiers avec un
+开头的令牌，不要输入|token. Never enter an|jeton. Ne saisissez jamais un
+私密令牌。|private token.|jeton privé.
+保存并加载地图|Save & load map|Enregistrer et charger la carte
+清除|Clear|Effacer
+获取公开令牌 ↗|Get public token ↗|Obtenir un jeton public ↗
+开启你的路线地图。|Enable your route map.|Activez votre carte.
+在上方配置公开 Mapbox 令牌，即可显示在线地图、城市标记与真实道路线路。|Configure your public Mapbox token to display maps, markers and real driving routes.|Configurez votre jeton public Mapbox pour afficher carte, repères et trajets réels.
+前往 Mapbox 申请免费令牌 ↗|Get a Mapbox token ↗|Obtenir un jeton Mapbox ↗
+你的加东路线|Your Eastern Canada route|Votre itinéraire dans l'Est
+地图城市之间的连线仅表示访问顺序，不代表实际道路或铁路。真实路径请点击下方分段导航。|Lines between cities show travel order, not actual driving or rail tracks. Check each leg before departing.|Les lignes entre villes indiquent l'ordre du voyage, pas les routes réelles. Vérifiez chaque étape.
+在 Google Maps 规划路线 ↗|Plan route in Google Maps ↗|Planifier sur Google Maps ↗
+纽芬兰与大陆之间需要航班或轮渡，不可按普通连续自驾路线计算。|Newfoundland requires a flight or ferry and cannot be treated as a continuous drive from the mainland.|Terre-Neuve exige avion ou traversier : impossible de conduire directement depuis le continent.
+探索首页|Explore homepage|Page d'accueil
+轮渡及租车|Ferries & rentals|Traversiers et location
+摄影版权及署名信息|Photo credits & licences|Crédits photo et licences
+路线看够了？|Found some inspiration?|Une idée d'itinéraire ?
+下一次，换你出发。|Now make it yours.|À vous de partir.
+有人走过的路。|Journeys others have taken.|Des voyages déjà parcourus.
+也许正是你的下一程。|Your next adventure might be here.|Votre prochaine aventure est peut-être ici.
+不必先选城市，也不必先决定出发日期。翻阅旅人分享、论坛路线与旅行编辑的灵感，直接查看从第一天到最后一天的完整行程。|No form required. Discover journeys inspired by travellers, forums and travel editors, complete with day-by-day itineraries.|Sans formulaire. Découvrez des voyages inspirés de voyageurs, de forums et de rédacteurs avec un programme jour par jour.
+浏览全部线路 ↓|Explore all routes ↓|Explorer tous les itinéraires ↓
+我想自己规划 ↗|Plan my own trip ↗|Planifier mon propre voyage ↗
+条完整路线|complete routes|itinéraires complets
+个内容来源|sources|sources
+天不同节奏|days to explore|jours de voyage
+发现你的理想路线。|Discover your ideal route.|Découvrez votre itinéraire idéal.
+精选旅程|Curated journeys|Voyages sélectionnés
+先看看别人怎么走。|See where others go.|Découvrez leurs parcours.
+再走出自己的故事。|Then make your own story.|Puis créez votre histoire.
+每张卡片都包含完整逐日行程、主要停留城市、交通提醒与原文出处。点击「查看完整行程」，无需填写任何信息。|Every card contains a day-by-day plan, main stops, transport notes and a source link. No details required.|Chaque carte contient un programme quotidien, les étapes, des conseils de transport et le lien source.
+关于外部来源：|About our sources:|À propos des sources :
+重新撰写的中文行程摘要|newly written itinerary summaries|des résumés d'itinéraires rédigés par nos soins
+全部线路|All routes|Tous les itinéraires
+3–7 天|3–7 days|3 à 7 jours
+8–12 天|8–12 days|8 à 12 jours
+13 天以上|13+ days|13 jours et plus
+马蜂窝|Mafengwo|Mafengwo
+灵感来自旅人。|Inspired by travellers.|Inspiré par les voyageurs.
+细节归于原作者。|Credit to the creators.|Les auteurs à l'honneur.
+阅读路线不必注册账户。外部内容的版权、是否曾实际成行以及最新开放信息，以原始网站及相关运营方为准。|Browse freely without signing in. Source websites retain their copyrights and provide the latest details.|Parcourez librement sans vous inscrire. Les sites sources conservent les droits et les dernières informations.
+中文旅行者多日行程 ↗|Traveller itineraries ↗|Itinéraires de voyageurs ↗
+真实论坛讨论与路线计划 ↗|Traveller forum routes ↗|Parcours des forums ↗
+专业旅行编辑策划 ↗|Editorial travel itineraries ↗|Itinéraires éditoriaux ↗
+想控制天数、出发机场或交通方式？在独立规划页，按照自己的节奏生成另一条路。|Want a different pace, departure airport or trip length? Create a custom itinerary in the planner.|Envie d'un autre rythme, aéroport ou durée ? Créez un circuit sur mesure.
+打开智能行程规划 ↗|Open trip planner ↗|Ouvrir le planificateur ↗
+旅行不只有一种答案|There's more than one way to travel|Il y a mille façons de voyager
+来源清楚的路线灵感|Traceable itinerary inspiration|Des itinéraires avec sources
+或定制专属行程 ↗|Or create your own ↗|Ou créer votre propre itinéraire ↗
+定制路线 ↗|Plan a trip ↗|Planifier un voyage ↗
+旅行电影收藏|Travel film collection|Collection de films de voyage
+看见旅人的真实旅程|Real stories from the road|De vraies histoires de voyage
+发现旅行灵感 ↗|Find inspiration ↗|Trouver l'inspiration ↗
+打开一个视频。|Press play.|Lancez une vidéo.
+出发的心就近一点。|Get closer to the journey.|Rapprochez-vous du voyage.
+关于加拿大东部的那些真实片刻。海风、老城、绵延公路，和镜头里恰好出现的一顿早餐。打开一支旅行 Vlog，找到属于自己的出发理由。|Explore real moments in Eastern Canada: ocean air, old towns, open roads and the little things along the way. Watch a vlog to get inspired.|Découvrez l'Est canadien en images : air marin, vieilles villes, routes ouvertes et petits plaisirs. Regardez un vlog et laissez-vous inspirer.
+开始看片|Watch films|Regarder les vidéos
+也看看完整旅行线路 ↗|See complete itineraries ↗|Voir les itinéraires complets ↗
+支精选影片|featured films|vidéos sélectionnées
+种旅行主题|travel themes|thèmes de voyage
+原作者视频链接|links to original videos|liens vers les vidéos d'origine
+让影像带你走进加东。|Discover the East on screen.|Découvrez l'Est en images.
+从安大略到北大西洋 · 旅行的另一个视角|From Ontario to the Atlantic · Another perspective|De l'Ontario à l'Atlantique · Un autre regard
+全部影片|All videos|Toutes les vidéos
+加东大环线|Grand Eastern Canada tour|Grand tour de l'Est canadien
+魁北克|Québec|Québec
+安大略|Ontario|Ontario
+显示更多影片 ↓|Show more videos ↓|Voir plus de vidéos ↓
+收起影片 ↑|Show fewer videos ↑|Réduire les vidéos ↑
+每一段旅程。|Every journey|Chaque voyage
+都属于拍摄它的人。|belongs to its creator.|appartient à son créateur.
+看完别人的旅行。|Inspired by the journey?|Inspiré par le voyage ?
+下一次，轮到你。|Now it's your turn.|À votre tour de partir.
+浏览别人已经走过的完整路线，或者按照你自己的城市、日期与节奏规划旅程。|Explore journeys others have planned, or create your own route based on your cities, dates and pace.|Explorez les voyages d'autres personnes ou créez le vôtre selon vos villes, dates et rythme.
+浏览经典旅行线路 ↗|Browse curated routes ↗|Explorer les circuits choisis ↗
+返回顶部 ↑|Back to top ↑|Retour en haut ↑
+探索加东 · 经典线路 · 旅行影像|Eastern Canada · Routes · Travel films|Est canadien · Itinéraires · Vidéos
+在 YouTube 观看 ↗|Watch on YouTube ↗|Regarder sur YouTube ↗
+视频无法嵌入时，可通过原作者页面正常观看。|If embedding fails, watch on the creator's channel.|Si la vidéo ne s'intègre pas, regardez-la sur la chaîne de l'auteur.
+旅行贴士|Travel tips|Conseils de voyage
+出行信息|Visitor information|Informations pratiques
+找到这里。|Find this place.|Trouver ce lieu.
+顺路，再逛一逛。|Explore more nearby.|À voir aussi à proximité.
+正在载入地点…|Loading place details…|Chargement de la fiche…
+发现加东值得停留的一站。|Discover a place worth exploring in Eastern Canada.|Découvrez un lieu à ne pas manquer dans l'Est canadien.
+在 Google Maps 中定位 ↗|Locate on Google Maps ↗|Voir sur Google Maps ↗
+查看推荐资料 ↗|View sources ↗|Voir les sources ↗
+← 返回探索|← Back to explore|← Retour à l'exploration
+正在搜索公开许可的相关图片…|Searching for openly licensed photos…|Recherche de photos sous licence ouverte…
+这里有什么值得探索？|What makes it special?|Pourquoi y aller ?
+正在准备位置查询…|Preparing location search…|Préparation de la recherche…
+正在准备 Google Maps 嵌入地图…|Loading Google Maps…|Chargement de Google Maps…
+Google Maps 导航 ↗|Navigate with Google Maps ↗|Itinéraire Google Maps ↗
+核对地点 ↗|Verify the location ↗|Vérifier le lieu ↗
+位置按名称搜索，出行前请核对实际门牌地址。|Location is name-based. Verify the address before visiting.|Position recherchée par nom : vérifiez l'adresse avant de partir.
+回到探索首页 ↑|Back to homepage ↑|Retour à l'accueil ↑
+用餐前建议确认|Before your meal|Avant de manger
+购物前建议确认|Before shopping|Avant de magasiner
+地点类型|Place type|Type de lieu
+所属地区|Region|Région
+推荐体验|What to try|À essayer
+值得寻找|Worth looking for|À découvrir
+线上定位|Map location|Localisation
+出行方式|Getting there|Accès
+查看独立详情 ↗|Open place details ↗|Voir la fiche du lieu ↗
+选择城市|Choose city|Choisir la ville
+全部景点|All attractions|Tous les sites
+城市探索|City discovery|Découverte urbaine
+经典必游|Must-see highlights|Incontournables
+自然风景|Scenic nature|Nature et paysages
+人文艺术|Arts & culture|Arts et culture
+美食慢游|Food & slow travel|Gastronomie et douceur de vivre
+购物推荐|Shopping ideas|Idées magasinage
+推荐留意|Look for|À chercher
+官方班次 ↗|Official schedules ↗|Horaires officiels ↗
+费用及预订信息 ↗|Fares & bookings ↗|Tarifs et réservations ↗
+前往官方网站 ↗|Official website ↗|Site officiel ↗
+地点地图 ↗|View on map ↗|Voir sur la carte ↗
+加入行程 ↗|Add to trip ↗|Ajouter au voyage ↗
+地图与周边商店 ↗|Map & nearby shops ↗|Carte et boutiques proches ↗
+查看购物地点完整详情 ↗|View shopping details ↗|Voir la fiche du magasin ↗
+搜索当地酒店 ↗|Find nearby hotels ↗|Trouver des hôtels ↗
+加入我的行程 ↗|Add to my trip ↗|Ajouter à mon itinéraire ↗
+查看当地地图 ↗|View local map ↗|Voir la carte locale ↗
+查看全部天数|Show all days|Afficher toutes les journées
+收起全部天数|Collapse all days|Réduire les journées
+每日旅行提案|Daily itinerary|Programme quotidien
+住宿区域|Where to stay|Où dormir
+美食建议|Dining ideas|Idées repas
+当地交通|Local transport|Transport local
+旅行总时长|Trip length|Durée du voyage
+主要交通|Main transport|Transport principal
+目的地|Destinations|Destinations
+A NEW WAY TO PLAN / 独立路线规划|A NEW WAY TO PLAN / YOUR PLANNER|UNE NOUVELLE FAÇON DE VOYAGER / PLANIFICATEUR
+图库部分图片来自 Unsplash；以下景点图片来自 Wikimedia Commons（页面按尺寸自动显示，保留原始许可和作者署名）：|Some photography comes from Unsplash and Wikimedia Commons, with author and licence information credited.|Certaines images proviennent d’Unsplash et de Wikimedia Commons, avec les crédits d’auteur et de licence.
+Halifax 海滨 / Daeva Trạc / CC BY-SA/4.0|Halifax waterfront / Daeva Trạc / CC BY-SA 4.0|Front de mer d'Halifax / Daeva Trạc / CC BY-SA 4.0
+。图片链接需联网加载。|. Photos require an internet connection.|. Les photos nécessitent Internet.
+景点三图画廊会联网检索 Wikimedia Commons 的景点照片，并提供原始文件页面、作者及许可信息；检索结果不足时会明确标注使用「地区参考图，非景点实拍」。自动搜索的匹配度与版权标签应在正式商业上线前人工复核。|The three-photo galleries search Wikimedia Commons and link to original files and licences. Regional reference images are labelled when exact matches are unavailable. Check image attribution before commercial use.|Les galeries de trois photos recherchent Wikimedia Commons et fournissent les sources et licences. Les images régionales sont identifiées si aucune photo précise n’est trouvée. Vérifiez les crédits avant usage commercial.
+独立行程规划页面 · 选城市，探索加东|Independent trip planner · Explore Eastern Canada|Planificateur indépendant · Découvrez l’Est canadien
+航班|Flights|Vols
+01 / 你的旅程|01 / YOUR JOURNEY|01 / VOTRE VOYAGE
+02 / 你的专属行程|02 / YOUR ITINERARY|02 / VOTRE ITINÉRAIRE
+· 输入后仅保存在当前浏览器；网站正式上线可配置|· Your token is saved in this browser; for public sites, configure|· Le jeton est conservé dans ce navigateur; en ligne, configurez
+，建议限制允许访问的域名。| and restrict it to your website domain.| et limitez l’accès au domaine de votre site.
+地图数据 © Mapbox © OpenStreetMap contributors（仅在令牌配置后加载）。|Map data © Mapbox © OpenStreetMap contributors (loaded after token configuration).|Données © Mapbox © contributeurs OpenStreetMap (après configuration du jeton).
+蓝色实线为 Mapbox Directions API 返回的参考公路路径（默认尝试避开轮渡）|Solid blue lines are suggested road routes from Mapbox Directions API (ferries avoided where possible)|Les lignes bleues indiquent les itinéraires routiers suggérés par Mapbox (sans traversier si possible)
+；橙色虚线表示跨海、公共交通或路线计算失败等示意连接。跨海、轮渡及铁路请参考运营方实际班次。地图与路线 API 计入 Mapbox 账户用量。|; dashed orange lines indicate crossings, transit or missing route data. Verify ferry and rail schedules. API use counts toward your Mapbox plan.|; les pointillés orange indiquent traversées, transports ou trajets non disponibles. Vérifiez les horaires de traversier et train. Les appels comptent dans votre forfait Mapbox.
+地点详情 · EASTBOUND|Place guide · EASTBOUND|Guide des lieux · EASTBOUND
+行程规划 ↗|Trip planner ↗|Planificateur ↗
+IMAGES / 图片与城市印象|IMAGES / PLACE & REGION|IMAGES / LIEU ET RÉGION
+图片优先从 Wikimedia Commons 检索并链接至作者和许可页面；不足时展示明确标注的当地或周边参考图，不能视为该商户内部实拍。|Photos are sourced from Wikimedia Commons with credits and licences. Clearly labelled regional images are not photographs of the business interior.|Les photos proviennent de Wikimedia Commons, avec crédits et licences. Les images régionales identifiées ne montrent pas nécessairement le commerce.
+A CLOSER LOOK / 深入了解|A CLOSER LOOK / PLACE GUIDE|EN DÉTAIL / GUIDE DU LIEU
+本站内容是编辑整理的旅行建议，不提供实时营业时间、价格、菜单、具体库存或保证可订位的信息。部分“购物推荐”是街区／市集，而非单一商家。|Editorial travel suggestions only: no live opening hours, prices, menus, inventory or booking guarantees. Some shopping picks are streets or markets, not a single business.|Conseils éditoriaux uniquement : pas d'horaires, prix, menus, stocks ou réservations en direct. Certains choix sont des rues ou des marchés.
+ON THE MAP / 地理位置|ON THE MAP / LOCATION|SUR LA CARTE / LOCALISATION
+地图与标注内容由 Google Maps 提供，具体地点匹配以 Google Maps 为准。|Maps and location results are provided by Google Maps; verify the exact location there.|Les cartes et résultats proviennent de Google Maps. Vérifiez-y l’emplacement exact.
+MORE TO EXPLORE / 同城推荐|MORE TO EXPLORE / NEARBY|À DÉCOUVRIR / À PROXIMITÉ
+© 2026 EASTBOUND · 为旅行者制作|© 2026 EASTBOUND · Made for travellers|© 2026 EASTBOUND · Pour les voyageurs
+马蜂窝与 Tripadvisor 中的部分内容来自旅行者本人发表的计划或路线；Lonely Planet 的内容属于编辑策划。本站提供|Some Mafengwo and Tripadvisor items are traveller-submitted plans, while Lonely Planet offers editorial itineraries. EASTBOUND provides|Certaines sources Mafengwo et Tripadvisor sont des projets de voyageurs; Lonely Planet propose des circuits éditoriaux. EASTBOUND fournit
+，不复制完整游记及原文图片。请点击「阅读原始线路」查看作者全文、回复与更新。|, not copies of the original article or photos. Follow each source link for the original content.|, sans reproduire les textes ou photos d’origine. Suivez chaque lien pour consulter la source.
+旅程摘要由 EASTBOUND 编辑整理，非外部网站官方内容。景点开放、交通和轮渡信息请以运营方当期公告为准。|EASTBOUND’s summaries are independent and not endorsed by the source sites. Check current attraction, transport and ferry announcements.|Les résumés d’EASTBOUND sont indépendants des sites sources. Consultez les horaires actuels des sites et transporteurs.
+探索经典线路 ↗|Explore curated routes ↗|Explorer les itinéraires ↗
+独立行程规划|Independent trip planner|Planificateur indépendant
+精选公开发布的真实旅行 Vlog，按目的地分类。在 GitHub Pages 等正式网站上可尝试站内播放；本地预览时请使用原作者 YouTube 入口。|Browse public travel vlogs by destination. Embedded playback may work on GitHub Pages; in local previews, use the original YouTube links.|Parcourez les vlogs publics par destination. La lecture intégrée peut fonctionner sur GitHub Pages ; en local, utilisez YouTube.
+视频、封面和播放权归原作者及 YouTube 所有。EASTBOUND 仅引用公开视频入口，并在用户主动点击后使用 YouTube 官方嵌入播放器；本站不下载、转载或托管原视频。个别视频可能因地区限制或作者设置而无法嵌入，届时可点击「到 YouTube 观看」。|Videos and artwork belong to their creators and YouTube. EASTBOUND links to public videos and uses the official player when requested; some videos cannot be embedded, so open them on YouTube.|Vidéos et images appartiennent à leurs auteurs et à YouTube. EASTBOUND renvoie aux vidéos et utilise le lecteur officiel ; certaines ne peuvent être intégrées, consultez-les sur YouTube.
+访问 YouTube 官网 ↗|Visit YouTube ↗|Visiter YouTube ↗
+智能行程规划 ↗|Smart trip planner ↗|Planificateur intelligent ↗
+摩登城市|Modern metropolis|Métropole moderne
+河畔小镇|Riverside towns|Villages riverains
+首都人文|Capital culture|Culture de la capitale
+法式生活|French-Canadian charm|Charme francophone
+四季山野|Four-season mountains|Montagnes quatre saisons
+探索亮点|Discover highlights|Découvrir les incontournables
+尼亚加拉|Niagara|Niagara
+爱德华王子县|Prince Edward County|Comté de Prince Edward
+劳伦琴山脉|Laurentian Mountains|Laurentides
+蒙特朗布朗|Mont-Tremblant|Mont-Tremblant
+毛里西|Mauricie|Mauricie
+鹿湖 Deer Lake|Deer Lake|Deer Lake
+马洪湾|Mahone Bay|Mahone Bay
+环线|Grand tour|Grand circuit
+海洋省份|Maritime provinces|Provinces maritimes
+新斯科舍|Nova Scotia|Nouvelle-Écosse
+纽芬兰|Newfoundland|Terre-Neuve
+跨省串游|Multi-province journey|Voyage interprovincial
+旅行者分享|Traveller story|Récit de voyage
+旅行者论坛|Traveller forum|Forum de voyageurs
+旅行者讨论|Traveller discussion|Discussion de voyageurs
+编辑策划|Editorial itinerary|Itinéraire éditorial
+作者游记|Author's travel notes|Carnet de voyage de l’auteur
+用户线路改编|Adapted traveller route|Circuit adapté d’un voyageur
+查看原文 ↗|Read original ↗|Voir la source ↗
+3 张地区参考图 · 正在搜索景点实拍|3 regional reference photos · searching for exact images|3 photos régionales · recherche de photos précises
+更多相关图片 ↗|More photos ↗|Plus de photos ↗
+查看此景点的评论与游记|Read reviews & travel notes|Lire avis et carnets
+3 个来源 ↗|3 sources ↗|3 sources ↗
+上方为 EASTBOUND 编辑整理，非游客原话。为尊重版权，外部评论请在来源网站阅读。|EASTBOUND’s text is editorial, not a customer quote. Read original reviews at the source.|Le texte est éditorial, pas un avis client. Consultez les avis sur leurs sites sources.
+Google Maps · 实际评价 ↗|Google Maps · User reviews ↗|Google Maps · Avis clients ↗
+Tripadvisor · 旅行者评论 ↗|Tripadvisor · Traveller reviews ↗|Tripadvisor · Avis de voyageurs ↗
+游记 · 文章搜索 ↗|Travel notes · Find articles ↗|Carnets · Trouver des articles ↗
+推荐留意|Look for|À découvrir
+查看此景点的评论与游记|Read reviews and travel stories|Lire les avis et carnets
+安大略 ON|Ontario ON|Ontario ON
+魁北克 QC|Québec QC|Québec QC
+新斯科舍 NS|Nova Scotia NS|Nouvelle-Écosse NS
+爱德华王子岛 PEI|Prince Edward Island PEI|Île-du-Prince-Édouard PEI
+新不伦瑞克 NB|New Brunswick NB|Nouveau-Brunswick NB
+纽芬兰 NL|Newfoundland NL|Terre-Neuve NL
+夏洛特敦 · 爱德华王子岛|Charlottetown · Prince Edward Island|Charlottetown · Île-du-Prince-Édouard
+卡文迪许 · 绿山墙|Cavendish · Green Gables|Cavendish · Green Gables
+芬迪湾 · 霍普韦尔岩|Bay of Fundy · Hopewell Rocks|Baie de Fundy · Hopewell Rocks
+圣约翰 · 新不伦瑞克|Saint John · New Brunswick|Saint John · Nouveau-Brunswick
+圣约翰斯 · 纽芬兰|St. John’s · Newfoundland|St. John’s · Terre-Neuve
+博纳维斯塔 · 特里尼蒂|Bonavista · Trinity|Bonavista · Trinity
+请选择有效的旅行出发日期。|Please choose a valid departure date.|Veuillez choisir une date de départ valide.
+为你按出发地和天数推荐连贯线路。|A logical itinerary based on your origin and trip length.|Un parcours cohérent selon votre départ et la durée.
+行程可行性提醒|Travel feasibility notes|Conseils de faisabilité
+点击天数查看安排|Select a day to view details|Sélectionnez un jour pour les détails
+城市初印象|City highlights|Découvertes urbaines
+查地点与导航 ↗|View place & directions ↗|Voir le lieu et l’itinéraire ↗
+⌂ 住宿区域|⌂ Where to stay|⌂ Où dormir
+查看附近住宿 ↗|Find nearby stays ↗|Trouver un hébergement ↗
+◒ 美食建议|◒ Dining tips|◒ Conseils gourmands
+查找餐厅 ↗|Find restaurants ↗|Trouver des restaurants ↗
+↗ 当地交通|↗ Local transit|↗ Transports locaux
+♧ 购物灵感|♧ Shopping ideas|♧ Idées magasinage
+查看购物指南 ↗|Explore shopping guide ↗|Explorer les boutiques ↗
+所有交通和开放信息仅供规划参考|All transport and opening details are planning estimates.|Transport et horaires sont fournis à titre indicatif.
+↓ 下载行程与旅行贴士|↓ Download itinerary & tips|↓ Télécharger le circuit et les conseils
+↗ 查看路线（分段核实跨海交通）|↗ View route (verify crossings)|↗ Voir l’itinéraire (vérifier les traversées)
+自动推荐机场|Automatically suggest an airport|Suggérer un aéroport
+其他加拿大机场（输入代码）|Other Canadian airport (enter code)|Autre aéroport canadien (saisir le code)
+城市匹配的常用机场|Airport commonly serving this city|Aéroport habituel de cette ville
+比较这段行程的航班 ↗|Compare flights for this leg ↗|Comparer les vols de ce trajet ↗
+01 / 推荐抵达|01 / ARRIVAL AIRPORT|01 / AÉROPORT D’ARRIVÉE
+02 / 备选机场|02 / ALTERNATE AIRPORT|02 / AUTRE AÉROPORT
+03 / 返程或开口程|03 / RETURN OR MULTI-CITY|03 / RETOUR OU MULTIVILLES
+并非保证更便宜或更便利|Not guaranteed cheaper or more convenient|Ni moins cher ni plus pratique garanti
+返程日期按旅行末日推算，建议预留航班缓冲|Estimated return date: allow a flight buffer|Date de retour estimée : prévoyez une marge
+3 张城市／周边参考图（非店铺实拍） · 点击查看图片来源|3 city / region reference photos (not business photos) · view sources|3 photos régionales (pas du commerce) · voir les sources
+查看第|View photo|Voir la photo
+正在连接 YouTube 播放器…|Connecting to YouTube…|Connexion à YouTube…
+原作者视频 ↗|Watch original video ↗|Voir la vidéo originale ↗
+在此播放 ↗|Play here ↗|Lire ici ↗
+继续在 YouTube 观看|Continue on YouTube|Continuer sur YouTube
+打开原作者视频 ↗|Open original video ↗|Ouvrir la vidéo originale ↗
+重新尝试站内播放|Retry embedded player|Réessayer le lecteur intégré
+视频播放受限|Video playback restricted|Lecture vidéo restreinte
+无法加载播放器|Player could not load|Lecteur indisponible
+请输入 1 至 30 之间的整数天数。|Enter a whole number between 1 and 30.|Saisissez un nombre entier entre 1 et 30.
+请填写加拿大出发城市。|Enter a Canadian departure city.|Saisissez une ville de départ canadienne.
+旅程可行性提醒|Feasibility tips|Conseils de faisabilité
+21天横跨加东：从多伦多到新斯科舍|21 days across Eastern Canada|21 jours dans l'Est canadien
+新斯科舍一周海岸公路旅行|One-week Nova Scotia coastal road trip|Une semaine sur les côtes de Nouvelle-Écosse
+爱德华王子岛的三日慢旅行|Three slow days on Prince Edward Island|Trois jours tranquilles à l'Île-du-Prince-Édouard
+卡伯特步道：一周的山海自驾|Cabot Trail: one-week mountain and coast drive|Cabot Trail : une semaine entre mer et montagne
+蒙特利尔 24 小时：街头美食与慢逛|24 hours in Montréal: food and neighbourhoods|24 heures à Montréal : cuisine et quartiers
+蒙特利尔日常与魁北克城周末|Montréal life and a Québec City weekend|Vie montréalaise et week-end à Québec
+尼亚加拉瀑布真的值得去吗？|Are Niagara Falls worth the trip?|Les chutes du Niagara valent-elles le détour ?
+哈利法克斯、佩姬湾与布雷顿角|Halifax, Peggy’s Cove and Cape Breton|Halifax, Peggy’s Cove et le Cap-Breton
+海洋四省：最不能错过的体验|Four Atlantic provinces: essential experiences|Quatre provinces atlantiques : expériences à vivre
+第一次探索多伦多和尼亚加拉|First trip to Toronto and Niagara|Première visite de Toronto et Niagara
+地图／实际评价 ↗|Map & reviews ↗|Carte et avis ↗
+推荐依据 ↗|Recommendation source ↗|Source de recommandation ↗
+查看餐厅完整详情 ↗|Explore restaurant details ↗|Voir la fiche du restaurant ↗
+百货与品牌|Department stores & brands|Grands magasins et marques
+精品奢侈|Designer & luxury|Créateurs et luxe
+创意小店|Independent boutiques|Boutiques indépendantes
+手作与设计|Crafts & design|Artisanat et design
+本地美食|Local food|Produits gourmands
+小镇手信|Local souvenirs|Souvenirs locaux
+原文 ↗|Read source ↗|Lire la source ↗
+旅游攻略／编辑游记 ↗|Travel guides & stories ↗|Guides et récits de voyage ↗
+VIA Rail 加拿大铁路 ↗|VIA Rail train ↗|VIA Rail train ↗
+Maritime Bus 海洋省巴士 ↗|Maritime Bus ↗|Maritime Bus ↗
+Confederation Bridge 联邦大桥 ↗|Confederation Bridge ↗|Pont de la Confédération ↗
+PEI ↔ NS 轮渡 ↗|PEI ↔ Nova Scotia ferry ↗|Traversier Î.-P.-É. ↔ N.-É. ↗
+Marine Atlantic 纽芬兰轮渡 ↗|Marine Atlantic ferry ↗|Traversier Marine Atlantic ↗
+新斯科舍旅游局 ↗|Visit Nova Scotia ↗|Tourisme Nouvelle-Écosse ↗
+爱德华王子岛旅游局 ↗|Visit Prince Edward Island ↗|Tourisme Î.-P.-É. ↗
+纽芬兰与拉布拉多旅游局 ↗|Visit Newfoundland & Labrador ↗|Tourisme Terre-Neuve-et-Labrador ↗
+新不伦瑞克旅游局 ↗|Visit New Brunswick ↗|Tourisme Nouveau-Brunswick ↗
+参考航程|Approx. crossing time|Durée indicative
+航线运营|Operator|Exploitant
+具体开航日与班次见官方时刻表|Check operating days and departures on the official schedule.|Consultez les jours d’exploitation et horaires officiels.
+全年服务，时刻随日期调整|Year-round service; schedules vary by date.|Service annuel ; horaires variables.
+行程起点|Route start|Début du trajet
+等待路线计算…|Calculating route…|Calcul de l’itinéraire…
+分段导航 ↗|Directions for this leg ↗|Itinéraire de l’étape ↗
+在 Google Maps 查看完整路线 ↗|View complete route on Google Maps ↗|Voir le trajet complet sur Google Maps ↗
+未配置 Mapbox · 仍可查看城市与外部导航|Mapbox not configured · external directions available|Mapbox non configuré · navigation externe disponible
+开启 Mapbox 地图|Enable Mapbox map|Activer la carte Mapbox
+查看地点与导航 ↗|View location & directions ↗|Voir lieu et trajet ↗
+院内/附近|On site / nearby|Sur place / à proximité
+地图区域|Map area|Zone de carte
+多伦多港湾湖岸步道|Toronto Harbourfront boardwalk|Promenade du Harbourfront de Toronto
+推荐季节|Best season|Saison conseillée
+交通与风险提醒|Transport & safety notes|Transports et précautions
+主要亮点|Main highlights|Points forts
+建议访问顺序|Suggested visit order|Ordre de visite suggéré
+阅读原始线路 ↗|Read source itinerary ↗|Lire l’itinéraire source ↗
+复制此路线链接|Copy itinerary link|Copier le lien de l’itinéraire
+查看推荐依据 ↗|View recommendation source ↗|Voir la source de recommandation ↗
+寻常 · 多伦多3日游（2015）|Xunchang · 3 days in Toronto (2015)|Xunchang · Trois jours à Toronto (2015)

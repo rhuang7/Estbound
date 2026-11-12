@@ -1,7 +1,8 @@
 'use strict';
-/* EASTBOUND V10 / Venue detail. Shared page template, unique URL for every card.
- * Location is a Mapbox Search Box live POI result, NEVER a guessed venue coordinate.
- * An unverified result stays unpinned with a Google Maps lookup fallback.
+/* EASTBOUND V10.3 / Venue detail. Shared template, unique URL for every card.
+ * Detail map uses a Google Maps iframe. This page no longer depends on Mapbox GL JS.
+ * The public Google Maps query is NOT a manually verified street address.
+ * Optional official Maps Embed API uses the site owner's separate Google API key.
  */
 (() => {
  const db=window.EASTBOUND_PLACE_DATA,params=new URLSearchParams(location.search);
@@ -40,78 +41,43 @@
   ['地点类型',isDining?'餐厅 · '+category:'购物 · '+category],
   ['所属地区',displayCity+' · '+cityInfo.province],
   [isDining?'推荐体验':'值得寻找',isDining?summary:find],
-  ['线上定位','通过 Mapbox 搜索该地点，或进入 Google Maps 核对地址'],
+  ['线上定位','通过 Google Maps 嵌入地图搜索，建议在 Google Maps 中确认具体地点'],
   ['出行方式','以实时地图路线、营业信息与目的地公告为准']
  ].map(([k,v])=>`<li><strong>${esc(k)}</strong><span>${esc(v)}</span></li>`).join('');
  el('action-back').href=`index.html#${isDining?'dining':'shopping'}`;
  for(const id of ['action-map','maps-navigation','maps-search'])el(id).href=googleUrl;
  if(isDining&&source&&/^https:\/\//.test(source)){el('action-source').hidden=false;el('action-source').href=source;el('action-source').textContent=sourceLabel+' ↗'}
  el('map-title').textContent=`${name} · ${cityInfo.en} · Canada`;
- const coords=db.gps[city],lat=coords[0],lng=coords[1];
- const posterCaption=el('poster-caption');posterCaption.textContent=`${displayCity}地区示意中心 · 非「${name}」的精确地址`;
- const poster=el('map-poster');
+ // Google Maps iframe for restaurant / shopping details only.
+ // Neither the old Mapbox public token nor Mapbox POI Search is required here.
  const mapStatus=el('map-status'),mapAddress=el('map-address');
- mapAddress.textContent=`位置查询：${placeQuery}。如无法确认精确点位，请通过 Google Maps 核对。`;
- const tokenKey='eastbound.mapbox.public_token';
- function mapboxToken(){try{return(localStorage.getItem(tokenKey)||window.EASTBOUND_MAPBOX_TOKEN||'').trim()}catch(_){return(window.EASTBOUND_MAPBOX_TOKEN||'').trim()}}
- function tokenOk(t){return /^pk\.[\w.-]{15,}$/.test(t||'')}
- const mapFrame=el('place-map');
- function status(text){mapStatus.textContent=text}
- function insertKeySetup(){
-  const details=document.createElement('details');details.className='map-key-setup';
-  details.innerHTML=`<summary>配置 Mapbox 地图访问令牌</summary><p style="font-size:12px;color:#67717d;line-height:1.7">使用你自己的 pk. 公开令牌（与行程规划页共用），保存到此浏览器。令牌会用于地图和实时地点搜索，并可能计入 Mapbox 使用量。</p><div style="display:flex;gap:6px;flex-wrap:wrap"><input aria-label="Mapbox Public Token" placeholder="pk. 开头的 Mapbox 公开令牌" type="password" style="flex:1;min-width:140px;border:1px solid #dce0e5;border-radius:9px;padding:12px" id="place-map-key"><button class="pbtn" type="button" id="place-map-key-save">保存并加载</button></div>`;
-  mapStatus.insertAdjacentElement('afterend',details);
-  el('place-map-key-save').addEventListener('click',()=>{const t=el('place-map-key').value.trim();if(!tokenOk(t)){status('令牌无效：只可使用以 pk. 开头的公开访问令牌');return}try{localStorage.setItem(tokenKey,t)}catch(_){};details.open=false;loadMap(t)});
- }
- insertKeySetup();
- let mapInstance=null;
- async function fetchPlace(token){
-  const url=new URL('https://api.mapbox.com/search/searchbox/v1/forward');
-  // POI search, including street/neighborhood matches for shopping districts.
-  url.searchParams.set('q',placeQuery.slice(0,250));url.searchParams.set('access_token',token);
-  url.searchParams.set('country','CA');url.searchParams.set('limit','5');url.searchParams.set('language','en');
-  url.searchParams.set('proximity',`${lng},${lat}`);
-  const r=await fetch(url.toString());if(!r.ok)throw new Error('Search Box '+r.status);
-  const data=await r.json();return(data.features||[]);
- }
- function norm(s){return String(s||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]+/g,' ').trim()}
- function distanceKm(a,b){const R=6371,rad=x=>x*Math.PI/180;const dlat=rad(b[1]-a[1]),dlng=rad(b[0]-a[0]);const z=Math.sin(dlat/2)**2+Math.cos(rad(a[1]))*Math.cos(rad(b[1]))*Math.sin(dlng/2)**2;return R*2*Math.asin(Math.sqrt(z))}
- function chooseMatched(features){
-  const simplified=norm(name).split(' ').filter(w=>w.length>2&&!['restaurant','shops','boutiques','and','the','cafe','market','stores','local'].includes(w));
-  const essential=simplified.slice(0,2);
-  for(const f of features){
-   const pt=f.geometry?.coordinates;
-   if(!Array.isArray(pt)||!pt.every(Number.isFinite))continue;
-   const km=distanceKm([lng,lat],pt);if(km>130)continue;
-   const n=norm(f.properties?.name||f.properties?.name_preferred||'');
-   const good=essential.length ? essential.some(w=>n.includes(w)) : n.includes(norm(name));
-   if(good)return f;
-  }
-  return null;
- }
- async function loadMap(token){
-  if(!tokenOk(token)){status('未配置 Mapbox：下面是城市位置示意，非店铺精确位置。可直接点击「Google Maps 导航」查看地点。');return}
-  if(!window.mapboxgl||!(window.mapboxgl.supported?.()??true)){status('Mapbox 地图库无法加载或浏览器不支持 WebGL，请用 Google Maps 核对位置。');return}
-  status('正在使用 Mapbox Search Box 查找精确地点…');
-  try{
-   const matches=await fetchPlace(token);
-   const chosen=chooseMatched(matches);
-   if(!chosen){status('未能验证该店铺或街区的精确坐标，未放置可能错误的标记。请使用 Google Maps 查询。');return}
-   const point=chosen.geometry.coordinates;
-   if(mapInstance){mapInstance.remove();mapInstance=null}
-   window.mapboxgl.accessToken=token;
-   mapInstance=new window.mapboxgl.Map({container:mapFrame,style:'mapbox://styles/mapbox/light-v11',center:point,zoom:14.4,scrollZoom:false,attributionControl:true});
-   mapInstance.addControl(new window.mapboxgl.NavigationControl({showCompass:false}),'top-right');
-   mapInstance.on('load',()=>{
-    poster.style.display='none';
-    new window.mapboxgl.Marker({color:'#1a7bd1',scale:1.2}).setLngLat(point).setPopup(new window.mapboxgl.Popup({offset:24}).setText(chosen.properties?.name||name)).addTo(mapInstance);
-    status('已在地图上标记 Mapbox 匹配地点；建议出行前再核对地址。');
-   });
-   mapInstance.on('error',()=>{status('Mapbox 地图加载出现问题，请使用外部导航核实位置。')});
-   mapAddress.textContent=`Mapbox 搜索结果：${chosen.properties?.full_address||chosen.properties?.place_formatted||chosen.properties?.name||name}。这不是本站人工核实的门牌地址。`;
-  }catch(e){status(`地图服务暂时无法查询（${String(e.message).slice(0,70)}），可通过 Google Maps 导航。`)}
- }
- loadMap(mapboxToken());
+ const iframe=el('place-map');
+ // For dynamic venues without Places IDs, do not claim to have verified coordinates.
+ mapAddress.textContent=`搜索关键词：${placeQuery}。地图结果根据名称匹配，并非本站核实的门牌地址；前往前请检查。`;
+ const officialKey=String(window.EASTBOUND_GOOGLE_MAPS_EMBED_KEY||'').trim();
+ const useOfficial=Boolean(officialKey);
+ const googleEmbedSrc=useOfficial
+  ? `https://www.google.com/maps/embed/v1/place?key=${encodeURIComponent(officialKey)}&q=${encodeURIComponent(placeQuery)}&zoom=15&language=zh-CN`
+  : `https://maps.google.com/maps?q=${encodeURIComponent(placeQuery)}&z=15&output=embed`;
+ iframe.title=`Google Maps — ${name}，${cityInfo.en}`;
+ iframe.src=googleEmbedSrc;
+ const helpNote=useOfficial
+  ? '使用 Google Maps Embed API 地点视图（已配置网站公开 API Key）。请在 Google Cloud 账户中启用 Maps Embed API，并为部署域名配置 HTTP Referrer 限制。'
+  : '正在使用免 Key 的 Google Maps 查询 iframe 预览。此方式并非 Google 官方保证长期支持的动态 Embed API；如地图未显示，请点击下方 Google Maps 查看地点。';
+ mapStatus.textContent=helpNote;
+ iframe.addEventListener('load',()=>{
+  // Cross-origin: iframe load does NOT prove that the Google map is visible.
+  mapStatus.textContent=useOfficial
+   ? '已发出 Google Maps Embed API 嵌入请求。若显示授权或计费错误，请检查 Google Cloud 项目配置；也可在下方打开 Google Maps。'
+   : '已尝试加载 Google Maps 地图。若显示空白、拒绝嵌入或地点不准确，请点击下方「Google Maps 导航」在原站查看。';
+ });
+ iframe.addEventListener('error',()=>{
+  mapStatus.textContent='Google 地图嵌入请求未成功。请使用下方 Google Maps 导航；或为网站配置官方 Maps Embed API Key。';
+ });
+ const mapCredit=el('map-credit');
+ if(mapCredit)mapCredit.textContent=useOfficial
+  ? 'Google Maps Embed API · 由 Google 提供底图与位置搜索结果。'
+  : 'Google Maps 查询嵌入（免 Key 预览，不保证在所有浏览器中可用）；地图和地点数据由 Google 提供。';
  // Photo area: venue-name matches first; locale shots are clearly labeled fallback.
  const group=Object.entries(db.cities).filter(([k,c])=>k!==city&&c.province===cityInfo.province).map(([k,c])=>c);
  const refs=[cityInfo,...group,...Object.values(db.cities).filter(c=>c!==cityInfo&&!group.includes(c))];
