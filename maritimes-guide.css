@@ -53,3 +53,29 @@
 @media(max-width:900px){.eb-guide-hero{gap:28px;padding-top:50px;padding-bottom:45px}.eb-guide-layout{grid-template-columns:1fr;gap:19px}.eb-guide-sidebar{position:static}.eb-guide-sidebar .eb-guide-toc-note{margin-top:15px}.eb-guide-article{padding:35px}}
 @media(max-width:650px){.eb-guide-nav{padding:0 20px}.eb-guide-shell{padding:0 16px}.eb-guide-hero{grid-template-columns:1fr;gap:24px;padding-top:34px;padding-bottom:30px}.eb-guide-title{font-size:38px}.eb-guide-lede{font-size:14px;margin-bottom:16px}.eb-guide-hero-art img{aspect-ratio:16/9}.eb-guide-article{padding:23px 17px}.eb-guide-copy p{font-size:15px;line-height:1.93}.eb-guide-figure figcaption{display:block}.eb-guide-figure figcaption span{display:block}.eb-guide-figure a{border-radius:9px}.eb-guide-next-inner{align-items:start;flex-direction:column;padding:23px}.eb-guide-next-inner a{white-space:normal}}
 @media(prefers-reduced-motion:reduce){.eb-special-link,.eb-special-art img,.eb-guide-figure img{transition:none}}
+
+.eb-guide-content-stack{display:grid;gap:28px}
+.eb-guide-callout{margin:2px 0 28px;padding:16px 18px;background:#f4f7fa;border-radius:15px;border:1px solid #e6edf3;display:flex;flex-wrap:wrap;gap:10px 9px;align-items:center;font-size:12px;color:#627585}
+.eb-guide-callout strong{color:#29475e;margin-right:2px}.eb-guide-callout span{display:inline-flex;align-items:center;padding:7px 12px;background:#fff;border:1px solid #dbe5ee;border-radius:999px;color:#456274;font-weight:670}
+.eb-guide-mobile-gallery{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:26px;align-items:start}
+.eb-guide-mobile-shot{margin:0}.eb-guide-mobile-shot a{display:block;max-width:100%;padding:14px;border-radius:28px;background:linear-gradient(180deg,#162938,#0b1823);box-shadow:0 18px 48px #17354b22;line-height:0}
+.eb-guide-mobile-shot img{display:block;width:100%;height:auto;border-radius:16px;background:#fff}
+.eb-guide-mobile-shot figcaption{margin:11px 3px 0;display:block;font-size:12px;line-height:1.75;color:#6a7c88}.eb-guide-mobile-shot figcaption strong{display:block;color:#385569;font-size:13px;margin-bottom:2px}
+.eb-guide-mobile-shot--narrow a{max-width:370px;margin:0 auto}
+@media(max-width:900px){.eb-guide-content-stack{gap:19px}.eb-guide-mobile-gallery{grid-template-columns:1fr}}
+@media(max-width:650px){.eb-guide-mobile-shot a{padding:10px;border-radius:20px}.eb-guide-callout{padding:14px 14px}}
+
+/* V35 · 长图文专题章节（第3至15章） */
+.eb-guide-sidebar{scrollbar-width:thin;max-height:calc(100vh - 48px);overflow-y:auto;scroll-behavior:smooth}
+.eb-guide-sidebar a{margin-top:13px;font-size:12px;line-height:1.45;gap:11px;padding:6px 0;border-radius:7px;transition:color .15s}
+.eb-guide-sidebar a:hover{color:#1479ac}
+.eb-guide-chapter{scroll-margin-top:22px}.eb-guide-article h2{overflow-wrap:anywhere}
+.eb-guide-chapter-intro{background:#f3f7fa;border:1px solid #e7edf2;border-radius:14px;padding:15px 18px;margin:0 0 25px}
+.eb-guide-chapter-location{color:#28678d;font-size:12px;font-weight:780}.eb-guide-chapter-intro p{font-size:14px;color:#667787;margin:8px 0 0;line-height:1.8}
+.eb-guide-chapter-gallery{display:grid;gap:27px}.eb-guide-chapter-figure{margin:0;min-width:0}.eb-guide-chapter-figure>a{max-width:100%;display:block;border:1px solid #e4e9ee;border-radius:12px;overflow:hidden;background:#fff;line-height:0}
+.eb-guide-chapter-figure img{width:100%;height:auto;display:block;image-rendering:auto}
+.eb-guide-chapter-figure figcaption{display:flex;flex-wrap:wrap;gap:5px 12px;justify-content:space-between;font-size:12px;color:#8191a0;margin:10px 5px 0;line-height:1.6}
+.eb-guide-chapter-figure figcaption strong{font-weight:760;color:#3c586b}.eb-guide-chapter-footnote{font-size:12px;color:#7a8895;line-height:1.8;background:#f7f9fa;padding:14px 17px;margin:28px 0 16px;border-radius:12px}
+.eb-guide-backtoc{display:inline-flex!important;margin-top:8px;color:#166697!important;font-size:13px;font-weight:780;text-decoration:underline!important;text-underline-offset:4px}
+@media(max-width:900px){.eb-guide-sidebar{max-height:none;overflow:visible}.eb-guide-chapter-intro{padding:13px 14px}.eb-guide-chapter-gallery{gap:20px}}
+@media(max-width:650px){.eb-guide-chapter-figure>a{border-radius:6px}.eb-guide-chapter-figure figcaption{display:block}.eb-guide-chapter-figure figcaption span{display:block}.eb-guide-article h2{font-size:29px}}
