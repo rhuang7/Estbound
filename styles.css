@@ -71,3 +71,13 @@
 .photo-credits{max-width:1200px;margin:0 auto;padding:0 28px 18px;color:#90909a;font-size:10px;line-height:1.8}
 .photo-credits summary{cursor:pointer;color:#858592;font-size:10px}
 .photo-credits a{color:#3678af;text-decoration:underline;text-underline-offset:2px}
+
+/* V13: traveler reading room search */
+.reading-direct-search{display:flex;align-items:center;gap:15px;flex-wrap:wrap;margin:20px 0 25px;padding:14px 18px;background:#f2f5f7;border-radius:19px}
+.reading-direct-search-label{display:flex;gap:12px;align-items:center;flex:1 1 260px;background:#fff;padding:2px 16px;border:1px solid #e1e7eb;border-radius:14px;min-width:0}
+.reading-direct-search-label>span{font-size:28px;line-height:1;color:#647583}.reading-direct-search input{width:100%;min-width:0;background:transparent;outline:0;border:0;font:inherit;height:45px;color:#1b2732}
+.reading-direct-search>a{font-size:13px;font-weight:740;text-decoration:none;color:#14629b;white-space:nowrap}
+@media(max-width:580px){.reading-direct-search>a{white-space:normal}}
+
+/* EASTBOUND V17 | footer attribution */
+.footer-creator-credit{display:inline-block;font-weight:800;color:#3c454f;margin-left:.5em;letter-spacing:.02em;white-space:nowrap}

@@ -1,5 +1,4 @@
-// Curated public YouTube video references; video media are never copied or re-hosted.
-// All descriptions are original EASTBOUND editorial summaries.
+// EASTBOUND V16 curated external video metadata. Video media are never copied or re-hosted.
 const EASTBOUND_VLOGS = [
   {
     "id": "9oZHPIzmS1M",
@@ -8,7 +7,9 @@ const EASTBOUND_VLOGS = [
     "creator": "JJ Extra",
     "intro": "从尼亚加拉、渥太华、魁北克城一路走向哈利法克斯、佩姬湾，再回到蒙特利尔。适合想看完整长线自驾实录的旅人。",
     "places": "多伦多 · 尼亚加拉 · 哈利法克斯",
-    "year": "2026"
+    "year": "2026",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=9oZHPIzmS1M"
   },
   {
     "id": "wVR92Ctk2ng",
@@ -17,7 +18,9 @@ const EASTBOUND_VLOGS = [
     "creator": "Mike’s Road Trip",
     "intro": "从 Halifax、Peggy’s Cove、Lunenburg 到沿途渔港，看看大西洋海岸的乡村、公路与日常。",
     "places": "Halifax · Peggy’s Cove · Lunenburg",
-    "year": "2020"
+    "year": "2020",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=wVR92Ctk2ng"
   },
   {
     "id": "CuX-ls1EiNU",
@@ -26,7 +29,9 @@ const EASTBOUND_VLOGS = [
     "creator": "Scott Escapes",
     "intro": "沿着夏洛特敦、绿山墙的安妮、灯塔和沙丘，寻找适合慢旅行的 PEI 节奏。",
     "places": "Charlottetown · Green Gables · PEI",
-    "year": "2024"
+    "year": "2024",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=CuX-ls1EiNU"
   },
   {
     "id": "gGiccARuZqU",
@@ -35,7 +40,9 @@ const EASTBOUND_VLOGS = [
     "creator": "Divine Eye Adventures",
     "intro": "真实自驾记录，经过 Ingonish、Neil’s Harbour、Skyline Trail 周边与 Cape Breton 海岸。",
     "places": "Cape Breton · Cabot Trail",
-    "year": "2023"
+    "year": "2023",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=gGiccARuZqU"
   },
   {
     "id": "h01YtsMWr_A",
@@ -44,7 +51,9 @@ const EASTBOUND_VLOGS = [
     "creator": "Travel For Phoebe",
     "intro": "走访老蒙特利尔、咖啡馆、贝果店与美术馆，以城市生活的方式了解 Montréal。",
     "places": "Old Montréal · Bagels · Museum",
-    "year": "2025"
+    "year": "2025",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=h01YtsMWr_A"
   },
   {
     "id": "90v55kzL_Jg",
@@ -53,7 +62,9 @@ const EASTBOUND_VLOGS = [
     "creator": "Jackie Vlogs",
     "intro": "从 Montréal 的日常生活出发，到 Québec City 的老街、餐厅和观景点度过一个周末。",
     "places": "Montréal · Québec City",
-    "year": "2025"
+    "year": "2025",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=90v55kzL_Jg"
   },
   {
     "id": "B2uPrRxm14o",
@@ -62,7 +73,9 @@ const EASTBOUND_VLOGS = [
     "creator": "Travel For Phoebe",
     "intro": "从 Toronto 到 Niagara Falls，再漫步 Niagara-on-the-Lake，包含旅行感受与城市转场。",
     "places": "Niagara Falls · Niagara-on-the-Lake",
-    "year": "2025"
+    "year": "2025",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=B2uPrRxm14o"
   },
   {
     "id": "0DHDMERaRK8",
@@ -71,7 +84,9 @@ const EASTBOUND_VLOGS = [
     "creator": "Martin Moore",
     "intro": "从 Halifax 港口和 Peggy’s Cove 向北出发，经 Cabot Trail、Skyline Trail 与林间步道。",
     "places": "Halifax · Peggy’s Cove · Cape Breton",
-    "year": "2025"
+    "year": "2025",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=0DHDMERaRK8"
   },
   {
     "id": "Tgkx8_GbcEc",
@@ -80,7 +95,9 @@ const EASTBOUND_VLOGS = [
     "creator": "Scott Escapes",
     "intro": "纽芬兰、PEI、新不伦瑞克与新斯科舍四省的旅行亮点串联，适合比较目的地。",
     "places": "Atlantic Canada · 4 Provinces",
-    "year": "2025"
+    "year": "2025",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=Tgkx8_GbcEc"
   },
   {
     "id": "xGCYGP3ksSk",
@@ -89,6 +106,452 @@ const EASTBOUND_VLOGS = [
     "creator": "Ayesatu .G",
     "intro": "游客视角跟随家人走进 CN Tower、尼亚加拉瀑布，看看第一次到访安大略的节奏。",
     "places": "Toronto · Niagara Falls",
-    "year": "2025"
+    "year": "2025",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=xGCYGP3ksSk"
+  },
+  {
+    "id": "_4zin1w00fg",
+    "category": "海洋省份",
+    "title": "新斯科舍家庭自驾：哈利法克斯与佩姬湾",
+    "creator": "Samuel and Audrey – Travel and Food Videos",
+    "intro": "和家人在哈利法克斯游览历史博物馆、港口、佩姬湾灯塔与当地餐厅。",
+    "en": "A family road trip exploring Halifax museums, the waterfront, local food, and Peggy’s Cove.",
+    "fr": "Road trip en famille à Halifax : musées, front de mer, gastronomie et Peggy’s Cove.",
+    "places": "Halifax · Peggy’s Cove · Nova Scotia",
+    "year": "2025",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=_4zin1w00fg"
+  },
+  {
+    "id": "tVo7e6frNfs",
+    "category": "魁北克",
+    "title": "独自探索魁北克城：老城与温达克",
+    "creator": "Daphne Xplores",
+    "intro": "漫游魁北克城上下城区、城堡与防御工事，也体验温达克与奥尔良岛。",
+    "en": "A solo visit to Old Québec, Wendake, the Citadelle, and Île d’Orléans.",
+    "fr": "Voyage en solo dans le Vieux-Québec, à Wendake, à la Citadelle et à l’île d’Orléans.",
+    "places": "Québec City · Wendake · Old Québec",
+    "year": "2025",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=tVo7e6frNfs"
+  },
+  {
+    "id": "lvrb9CPTMeQ",
+    "category": "魁北克",
+    "title": "蒙特利尔秋季周末：贝果、旧港和二手店",
+    "creator": "Celine ♡",
+    "intro": "秋日独自游蒙特利尔，从圣维亚特尔贝果、旧港到街区小店与美食。",
+    "en": "An autumn solo weekend in Montréal with bagels, the Old Port, thrifting, and street food.",
+    "fr": "Un week-end solo automnal à Montréal : bagels, Vieux-Port, friperies et spécialités locales.",
+    "places": "Montréal · Old Port · Bagels",
+    "year": "2025",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=lvrb9CPTMeQ"
+  },
+  {
+    "id": "F3-gWI-3vlw",
+    "category": "安大略",
+    "title": "尼亚加拉湖滨小镇与大瀑布慢旅行",
+    "creator": "Mo Goes Miles",
+    "intro": "先看 Niagara-on-the-Lake 的历史街道，再到瀑布感受水雾与河谷景致。",
+    "en": "A relaxed visit to Niagara-on-the-Lake followed by the dramatic Niagara Falls.",
+    "fr": "Escapade paisible à Niagara-on-the-Lake, suivie d’une visite des chutes du Niagara.",
+    "places": "Niagara-on-the-Lake · Niagara Falls",
+    "year": "2025",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=F3-gWI-3vlw"
+  },
+  {
+    "id": "KvgOrxZfFHw",
+    "category": "安大略",
+    "title": "尼亚加拉瀑布家庭自驾 Vlog",
+    "creator": "heyitsridaa ♡",
+    "intro": "从跨境公路到瀑布观景平台，记录家庭旅行中的白天和夜景。",
+    "en": "A family road trip to Niagara Falls, capturing the falls by day and night.",
+    "fr": "Road trip familial aux chutes du Niagara, entre vues de jour et illuminations nocturnes.",
+    "places": "Niagara Falls · Ontario",
+    "year": "2025",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=KvgOrxZfFHw"
+  },
+  {
+    "id": "LwOPWzQaruw",
+    "category": "安大略",
+    "title": "渥太华旅行：国会山、拜沃德市场与里多运河",
+    "creator": "Lens of Saika",
+    "intro": "乘火车抵达渥太华，参观国会山、拜沃德市场、加拿大铸币厂与运河。",
+    "en": "A VIA Rail trip to Ottawa, visiting Parliament Hill, ByWard Market, and the Rideau Canal.",
+    "fr": "Arrivée à Ottawa en train VIA Rail, puis visite du Parlement, du marché By et du canal Rideau.",
+    "places": "Ottawa · Parliament Hill · ByWard Market",
+    "year": "2025",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=LwOPWzQaruw"
+  },
+  {
+    "id": "o8Tc9P8MhYE",
+    "category": "安大略",
+    "title": "多伦多独行：CN 塔、美食和购物",
+    "creator": "jamyas life",
+    "intro": "独自旅行的第二、三天：城市购物、早午餐与加拿大国家电视塔。",
+    "en": "A solo Toronto city break with shopping, brunch, and the CN Tower.",
+    "fr": "Escapade solo à Toronto : boutiques, brunch et tour CN.",
+    "places": "Toronto · CN Tower · Shopping",
+    "year": "2026",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=o8Tc9P8MhYE"
+  },
+  {
+    "id": "2ppdZi3Qvrs",
+    "category": "海洋省份",
+    "title": "纽芬兰 14 天自驾路线：格罗莫讷到圣约翰斯",
+    "creator": "Mitch & Jan",
+    "intro": "实用路线涵盖格罗莫讷国家公园、冰山小镇、博纳维斯塔与圣约翰斯。",
+    "en": "A two-week Newfoundland itinerary covering Gros Morne, Twillingate, Bonavista, and St. John’s.",
+    "fr": "Itinéraire de deux semaines à Terre-Neuve : Gros-Morne, Twillingate, Bonavista et St. John’s.",
+    "places": "Gros Morne · Twillingate · St. John’s",
+    "year": "2026",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=2ppdZi3Qvrs"
+  },
+  {
+    "id": "Lgv7Ag6fJXM",
+    "category": "海洋省份",
+    "title": "大西洋夏日：哈利法克斯、佩姬湾与卢嫩堡",
+    "creator": "Izzy Dilger",
+    "intro": "以旅人视角重访哈利法克斯，顺道探访佩姬湾、卢嫩堡和滨海公园。",
+    "en": "A nostalgic summer return to Halifax with stops in Peggy’s Cove and Lunenburg.",
+    "fr": "Retour estival à Halifax, avec des arrêts à Peggy’s Cove et Lunenburg.",
+    "places": "Halifax · Peggy’s Cove · Lunenburg",
+    "year": "2025",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=Lgv7Ag6fJXM"
+  },
+  {
+    "id": "Y-FbQaDtzlY",
+    "category": "海洋省份",
+    "title": "新不伦瑞克三日：芬迪湾与霍普韦尔岩",
+    "creator": "JJ Extra",
+    "intro": "从霍普韦尔岩的潮汐变化到芬迪步道、圣约翰与哈特兰廊桥。",
+    "en": "Three days exploring Hopewell Rocks, Fundy Trail, Saint John, and the covered bridge.",
+    "fr": "Trois jours à Hopewell Rocks, sur la Fundy Trail, à Saint John et au pont couvert.",
+    "places": "Hopewell Rocks · Fundy Trail · Saint John",
+    "year": "2025",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=Y-FbQaDtzlY"
+  },
+  {
+    "id": "Jq_gr-_PY3Q",
+    "category": "海洋省份",
+    "title": "爱德华王子岛一日游：夏洛特敦与卡文迪什",
+    "creator": "The Adventures of Meg & Greg",
+    "intro": "从夏洛特敦的海鲜出发，探索卡文迪什和绿山墙主题村落。",
+    "en": "A PEI day trip from Charlottetown to Cavendish and Avonlea Village.",
+    "fr": "Excursion à l’Île-du-Prince-Édouard, de Charlottetown à Cavendish et Avonlea Village.",
+    "places": "Charlottetown · Cavendish · Avonlea Village",
+    "year": "2023",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=Jq_gr-_PY3Q"
+  },
+  {
+    "id": "vVMWTZ6ewGo",
+    "category": "海洋省份",
+    "title": "新不伦瑞克自驾：蒙克顿与芬迪湾",
+    "creator": "Nicole Bellmore",
+    "intro": "短途旅行实录，途经霍普韦尔岩、芬迪湾与蒙克顿市中心。",
+    "en": "A New Brunswick road trip stopping at Hopewell Rocks, the Bay of Fundy, and Moncton.",
+    "fr": "Road trip au Nouveau-Brunswick, avec Hopewell Rocks, la baie de Fundy et Moncton.",
+    "places": "Moncton · Hopewell Rocks · Bay of Fundy",
+    "year": "2024",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=vVMWTZ6ewGo"
+  },
+  {
+    "id": "0Kw7rySdik8",
+    "category": "环线",
+    "title": "VIA Rail 火车穿越加东：哈利法克斯至尼亚加拉",
+    "creator": "Karl Watson: Travel Documentaries",
+    "intro": "从哈利法克斯乘海洋号列车至魁北克城，再途经蒙特利尔、渥太华、多伦多和尼亚加拉。",
+    "en": "An eastbound rail documentary from Halifax through Québec, Montréal, Ottawa, Toronto, and Niagara.",
+    "fr": "Documentaire ferroviaire de Halifax à Québec, Montréal, Ottawa, Toronto et Niagara.",
+    "places": "Halifax · Québec City · Montréal · Ottawa · Toronto",
+    "year": "2026",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=0Kw7rySdik8"
+  },
+  {
+    "id": "jKbt_86rpVg",
+    "category": "海洋省份",
+    "title": "海洋三省四日自驾：灯塔、潮汐与龙虾",
+    "creator": "Karl Watson: Travel Documentaries",
+    "intro": "跨越新斯科舍与新不伦瑞克的四日路线，经历佩姬湾、卢嫩堡、潮汐漂流和霍普韦尔岩。",
+    "en": "Four days in Nova Scotia and New Brunswick, from lighthouses and Lunenburg to Fundy tides.",
+    "fr": "Quatre jours en Nouvelle-Écosse et au Nouveau-Brunswick : phares, Lunenburg et marées de Fundy.",
+    "places": "Peggy’s Cove · Lunenburg · Shediac · Hopewell Rocks",
+    "year": "2026",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=jKbt_86rpVg"
+  }
+];
+const EASTBOUND_BILIBILI = [
+  {
+    "id": "BV1PuxYz2Eh5",
+    "provider": "bilibili",
+    "category": "环线",
+    "title": "加拿大东部海洋三省十天九晚自驾",
+    "creator": "温哥华大头",
+    "year": "2025",
+    "places": "海洋三省 · NS / NB / PEI",
+    "intro": "沿大西洋海岸自驾十天九晚，涵盖新斯科舍、新不伦瑞克与爱德华王子岛，还分享行程和餐厅。",
+    "en": "Ten-day road trip through Nova Scotia, New Brunswick and PEI, with stops, restaurants and coastal highlights.",
+    "fr": "Circuit routier de dix jours en Nouvelle-Écosse, au Nouveau-Brunswick et à l’Î.-P.-É.",
+    "url": "https://www.bilibili.com/video/BV1PuxYz2Eh5/"
+  },
+  {
+    "id": "BV1Ge411n7AH",
+    "provider": "bilibili",
+    "category": "魁北克",
+    "title": "纽约至蒙特利尔：跨境火车旅拍",
+    "creator": "摄影师EDI",
+    "year": "2024",
+    "places": "蒙特利尔 · 火车",
+    "intro": "坐 Amtrak 从纽约前往蒙特利尔，记录跨境铁路体验和沿途风光。",
+    "en": "A rail journey from New York to Montréal, with travel photography and onboard impressions.",
+    "fr": "De New York à Montréal en train : paysages et expérience ferroviaire.",
+    "url": "https://www.bilibili.com/video/BV1Ge411n7AH/"
+  },
+  {
+    "id": "BV1Wh411N7rX",
+    "provider": "bilibili",
+    "category": "魁北克",
+    "title": "蒙特利尔游记：城市美食打卡",
+    "creator": "_Zincum_Cuprum_",
+    "year": "2023",
+    "places": "蒙特利尔 · 美食",
+    "intro": "跟随创作者探访蒙特利尔的熏肉、法餐和经典小吃。",
+    "en": "A food-focused Montréal vlog featuring local specialties and neighbourhood stops.",
+    "fr": "Un vlog gourmand à Montréal, entre spécialités locales et quartiers animés.",
+    "url": "https://www.bilibili.com/video/BV1Wh411N7rX/"
+  },
+  {
+    "id": "BV1Zz4y197WC",
+    "provider": "bilibili",
+    "category": "安大略",
+    "title": "零下30度：渥太华暴雪旅行",
+    "creator": "猫本Shawn",
+    "year": "2020",
+    "places": "渥太华 · 冬日",
+    "intro": "一部电影感旅行短片，记录冰雪天气下的渥太华街道、美食与运河滑冰。",
+    "en": "Cinematic winter footage of Ottawa during a snowstorm, with food and canal skating.",
+    "fr": "Un court film hivernal sur Ottawa, ses rues enneigées et son canal.",
+    "url": "https://www.bilibili.com/video/BV1Zz4y197WC/"
+  },
+  {
+    "id": "BV1QA411N7V4",
+    "provider": "bilibili",
+    "category": "安大略",
+    "title": "治愈系旅拍：六天多伦多",
+    "creator": "猫本Shawn",
+    "year": "2021",
+    "places": "多伦多 · 旅拍",
+    "intro": "以短片形式回顾六天多伦多城市旅行，适合感受城市街景与氛围。",
+    "en": "A cinematic six-day Toronto travel montage capturing the city’s mood.",
+    "fr": "Un montage de six jours à Toronto, pour découvrir l’atmosphère de la ville.",
+    "url": "https://www.bilibili.com/video/BV1QA411N7V4/"
+  },
+  {
+    "id": "BV1kKsUe8EoX",
+    "provider": "bilibili",
+    "category": "安大略",
+    "title": "多伦多三日游：皇家安大略博物馆",
+    "creator": "玉米熊 CORNBEAR",
+    "year": "2024",
+    "places": "多伦多 · 博物馆",
+    "intro": "游览皇家安大略博物馆，关注馆藏与文化展览的游客视角。",
+    "en": "A Toronto museum visit focused on the Royal Ontario Museum and its exhibitions.",
+    "fr": "Visite du Musée royal de l’Ontario et de ses collections.",
+    "url": "https://www.bilibili.com/video/BV1kKsUe8EoX/"
+  },
+  {
+    "id": "BV1hZ4y1H7Du",
+    "provider": "bilibili",
+    "category": "安大略",
+    "title": "多伦多网红甜品店探店",
+    "creator": "Vickie北美日记",
+    "year": "2020",
+    "places": "多伦多 · 甜点",
+    "intro": "多伦多当地甜点店的试吃记录，适合想补充美食打卡点的旅人。",
+    "en": "A Toronto pastry-shop stop with a firsthand tasting of popular desserts.",
+    "fr": "Découverte d’une pâtisserie torontoise et dégustation de desserts.",
+    "url": "https://www.bilibili.com/video/BV1hZ4y1H7Du/"
+  },
+  {
+    "id": "BV1wt411E7Sw",
+    "provider": "bilibili",
+    "category": "魁北克",
+    "title": "魁北克城一日游：法式老城",
+    "creator": "FANTA帆达",
+    "year": "2019",
+    "places": "魁北克城 · 老城",
+    "intro": "第一次到访魁北克城的游客镜头，游览充满法式风情的历史街区。",
+    "en": "A visitor’s first day exploring the historic streets of Québec City.",
+    "fr": "Première visite dans les rues historiques du Vieux-Québec.",
+    "url": "https://www.bilibili.com/video/BV1wt411E7Sw/"
+  },
+  {
+    "id": "BV1eY4y1M7b5",
+    "provider": "bilibili",
+    "category": "魁北克",
+    "title": "魁北克城度假：水族馆与旋转餐厅",
+    "creator": "蟹老板kristin",
+    "year": "2022",
+    "places": "魁北克城 · 度假",
+    "intro": "在魁北克城体验水族馆、旋转餐厅和朋友相聚的旅行日常。",
+    "en": "A relaxed Québec City trip featuring an aquarium, a revolving restaurant and friends.",
+    "fr": "Escapade à Québec avec aquarium, restaurant panoramique et amis.",
+    "url": "https://www.bilibili.com/video/BV1eY4y1M7b5/"
+  },
+  {
+    "id": "BV1g84y1x7mT",
+    "provider": "bilibili",
+    "category": "魁北克",
+    "title": "蒙特利尔旅行攻略：老城与法餐",
+    "creator": "Lumie简生活",
+    "year": "2022",
+    "places": "蒙特利尔 · 城市游",
+    "intro": "从渥太华乘火车抵达蒙特利尔，漫游街区、咖啡馆和大教堂。",
+    "en": "A Montréal arrival by train, followed by cafés, historic streets and cultural sights.",
+    "fr": "Arrivée en train à Montréal, puis cafés, rues anciennes et sites culturels.",
+    "url": "https://www.bilibili.com/video/BV1g84y1x7mT/"
+  },
+  {
+    "id": "BV1bo4y117Fi",
+    "provider": "bilibili",
+    "category": "魁北克",
+    "title": "蒙特利尔周边：徒步与灯塔日落",
+    "creator": "罐罐罐罐罐子w",
+    "year": "2021",
+    "places": "魁北克 · 户外",
+    "intro": "在蒙特利尔周边短途出游，沿徒步路线前往观景点并欣赏日落。",
+    "en": "A short outdoor escape from Montréal with hiking and sunset scenery.",
+    "fr": "Une petite escapade depuis Montréal, avec randonnée et coucher de soleil.",
+    "url": "https://www.bilibili.com/video/BV1bo4y117Fi/"
+  },
+  {
+    "id": "BV1U34y197kB",
+    "provider": "bilibili",
+    "category": "魁北克",
+    "title": "魁北克秋日旅行日记：童话老城",
+    "creator": "irene_xxuan",
+    "year": "2021",
+    "places": "魁北克城 · 秋季",
+    "intro": "以旅行镜头记录魁北克城的秋景、城堡和影视取景路线。",
+    "en": "Autumn colours and fairytale streets in Québec City, captured through a travel diary.",
+    "fr": "Couleurs d’automne, château et ruelles de Québec dans un carnet vidéo.",
+    "url": "https://www.bilibili.com/video/BV1U34y197kB/"
+  },
+  {
+    "id": "BV1jKnqziE1k",
+    "provider": "bilibili",
+    "category": "魁北克",
+    "title": "八分钟游遍蒙特利尔：城市与地下城",
+    "creator": "两颗太阳Show",
+    "year": "2025",
+    "places": "蒙特利尔 · 城市漫游",
+    "intro": "结合老城、地下城、艺术广场等地点的视频城市导览。",
+    "en": "A compact visual city guide covering Montréal’s old town, underground city and arts district.",
+    "fr": "Guide visuel de Montréal : vieux quartiers, ville souterraine et arts.",
+    "url": "https://www.bilibili.com/video/BV1jKnqziE1k/"
+  },
+  {
+    "id": "BV11z4y1k7hZ",
+    "provider": "bilibili",
+    "category": "海洋省份",
+    "title": "纽芬兰旅行攻略：冰山与轮渡",
+    "creator": "庄也杂谈",
+    "year": "2020",
+    "places": "纽芬兰 · 交通",
+    "intro": "介绍前往纽芬兰的轮渡与机场，以及圣约翰斯、Twillingate 观冰山的旅行方式。",
+    "en": "Practical travel tips for Newfoundland ferries, airports, St. John’s and iceberg viewing.",
+    "fr": "Conseils pour Terre-Neuve : traversiers, aéroports, St. John’s et icebergs.",
+    "url": "https://www.bilibili.com/video/BV11z4y1k7hZ/"
+  },
+  {
+    "id": "BV1NhU5BuEkb",
+    "provider": "bilibili",
+    "category": "海洋省份",
+    "title": "爱德华王子岛：走进绿山墙的安妮",
+    "creator": "吉高由里子吧",
+    "year": "2025",
+    "places": "爱德华王子岛 · 文化",
+    "intro": "从文学作品的角度走访爱德华王子岛的红发安妮相关地点，视频有中文字幕。",
+    "en": "A subtitled travel documentary exploring Anne of Green Gables sites on PEI.",
+    "fr": "Documentaire de voyage sous-titré sur les lieux d’Anne… la maison aux pignons verts.",
+    "url": "https://www.bilibili.com/video/BV1NhU5BuEkb/"
+  },
+  {
+    "id": "BV1nNyZB3EG1",
+    "provider": "bilibili",
+    "category": "海洋省份",
+    "title": "爱德华王子岛：安妮的故乡",
+    "creator": "账号已注销",
+    "year": "2025",
+    "places": "爱德华王子岛 · 影像",
+    "intro": "另一版本的 PEI 文学主题旅行影像，聚焦《绿山墙的安妮》的文化背景。",
+    "en": "An alternate PEI travel video exploring the world of Anne of Green Gables.",
+    "fr": "Autre vidéo sur l’Î.-P.-É. à travers l’univers d’Anne… la maison aux pignons verts.",
+    "url": "https://www.bilibili.com/video/BV1nNyZB3EG1/"
+  },
+  {
+    "id": "BV1go4y1V7Rx",
+    "provider": "bilibili",
+    "category": "海洋省份",
+    "title": "哈利法克斯初体验：海港与城市美食",
+    "creator": "海叔在路上",
+    "year": "2023",
+    "places": "哈利法克斯 · 海港",
+    "intro": "从第一次到访者角度体验哈利法克斯市中心和当地餐饮，也包含生活观察。",
+    "en": "A first visit to downtown Halifax, its restaurants and everyday atmosphere.",
+    "fr": "Première visite au centre-ville d’Halifax, entre restaurants et vie locale.",
+    "url": "https://www.bilibili.com/video/BV1go4y1V7Rx/"
+  },
+  {
+    "id": "BV1x8411f7nj",
+    "provider": "bilibili",
+    "category": "海洋省份",
+    "title": "哈利法克斯旅行中的城市见闻",
+    "creator": "海叔在路上",
+    "year": "2023",
+    "places": "哈利法克斯 · 人文",
+    "intro": "以哈利法克斯旅途见闻为主线，结合当地生活、餐厅与人文故事。",
+    "en": "Observations from a Halifax visit, mixing city life, food and personal encounters.",
+    "fr": "Rencontres et découvertes à Halifax : gastronomie et vie locale.",
+    "url": "https://www.bilibili.com/video/BV1x8411f7nj/"
+  },
+  {
+    "id": "BV14ya8eTEcg",
+    "provider": "bilibili",
+    "category": "魁北克",
+    "title": "蒙特利尔夏日日常 MiniVlog",
+    "creator": "是兜兜不是邹邹",
+    "year": "2024",
+    "places": "蒙特利尔 · 生活",
+    "intro": "创作者记录在蒙特利尔的夏日日常，适合体验本地城市节奏。",
+    "en": "Everyday summer moments in Montréal, offering a local perspective on the city.",
+    "fr": "Petits instants d’été à Montréal, pour découvrir le rythme de la ville.",
+    "url": "https://www.bilibili.com/video/BV14ya8eTEcg/"
+  },
+  {
+    "id": "BV1g5411d7TK",
+    "provider": "bilibili",
+    "category": "环线",
+    "title": "跨城 Vlog：多伦多与蒙特利尔",
+    "creator": "JZ张稼",
+    "year": "2022",
+    "places": "多伦多 · 蒙特利尔",
+    "intro": "一周工作行程中的多伦多、蒙特利尔及温哥华片段；含加东城市见闻。",
+    "en": "A work-week vlog that includes Toronto and Montréal, plus Vancouver footage.",
+    "fr": "Vlog d’une semaine de déplacements comprenant Toronto, Montréal et Vancouver.",
+    "url": "https://www.bilibili.com/video/BV1g5411d7TK/"
   }
 ];
