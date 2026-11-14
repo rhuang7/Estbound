@@ -2,6 +2,13 @@
 
 <html lang="en">
 <head>
+<script>/* Keep background music running across page changes. */
+if (window.self === window.top) {
+  var ebPath = location.pathname.split('/').pop() + location.search + location.hash;
+  location.replace('player.html?view=' + encodeURIComponent(ebPath));
+}
+</script>
+
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1" name="viewport"/>
 <meta content="#f5f5f7" name="theme-color"/>
@@ -14,7 +21,7 @@
 <link href="gallery.css" rel="stylesheet"/>
 <link href="v6.css" rel="stylesheet"/><link href="v7.css" rel="stylesheet"/><link rel="stylesheet" href="i18n.css"/>
 <script defer src="i18n_catalog.js"></script><script defer src="i18n.js"></script>
-</head>
+<script defer src="shell-bridge.js?v=31.0"></script></head>
 <body class="planner-page">
 <div class="topline">独立行程规划页面 · 选城市，探索加东 <a href="index.html">返回景点首页 ↗</a></div>
 <header class="site-header" id="top">

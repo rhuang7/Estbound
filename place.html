@@ -1,6 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<script>/* Keep background music running across page changes. */
+if (window.self === window.top) {
+  var ebPath = location.pathname.split('/').pop() + location.search + location.hash;
+  location.replace('player.html?view=' + encodeURIComponent(ebPath));
+}
+</script>
+
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#ffffff"><meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="description" content="EASTBOUND 加东餐厅与购物目的地：照片、特色介绍、地理位置与地图导航。">
 <title>地点详情 · EASTBOUND</title>
@@ -8,7 +15,7 @@
 
 <link rel="stylesheet" href="i18n.css"/>
 <script defer src="i18n_catalog.js"></script><script defer src="i18n.js"></script>
-</head>
+<script defer src="shell-bridge.js?v=31.0"></script></head>
 <body>
 <header class="pheader pwrap"><a href="index.html" class="pbrand"><span class="pmark">E.</span>EASTBOUND</a><nav class="pnav" aria-label="导航"><a href="index.html#dining">精选餐厅</a><a href="index.html#shopping">购物与伴手礼</a><a href="planner.html#planner">行程规划 ↗</a></nav></header>
 <main id="page-main"><div class="pwrap"><nav class="backline"><a href="index.html">首页</a><span>›</span><a href="index.html" id="crumb-section">精选推荐</a><span>›</span><span id="crumb-name">地点详情</span></nav>

@@ -1,5 +1,65 @@
-/* EASTBOUND V27: 9 user supplied Mafengwo page archives; permissions not verified. */
+/* EASTBOUND V31 · 13 articles · 3 new Mafengwo PDFs; rights pending. */
 window.EASTBOUND_REAL_REPORTS=[
+  {
+    "id": "mafengwo-10575422",
+    "title": "环游新斯科舍省：苏格兰版的加拿大",
+    "region": "ns",
+    "city": "halifax",
+    "source": "马蜂窝",
+    "url": "https://www.mafengwo.cn/i/10575422.html",
+    "author": "飘尘Marco（北京）",
+    "date": "2018-09-20",
+    "language": "zh",
+    "languageBasis": "user-provided screenshot PDF",
+    "summary": "从哈利法克斯、佩吉湾、卢嫩堡一路驶向布雷顿角和海边小镇，记录灯塔、港湾、沿海公路与当地海鲜。",
+    "rights": "not_verified",
+    "originNote": "用户提供的马蜂窝原帖 PDF 截图，转载授权待核实"
+  },
+  {
+    "id": "mafengwo-24404355",
+    "title": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩",
+    "region": "nb",
+    "city": "saint-john",
+    "source": "马蜂窝",
+    "url": "https://www.mafengwo.cn/i/24404355.html",
+    "author": "X的二次方（北京）",
+    "date": "2024-02-02",
+    "language": "zh",
+    "languageBasis": "user-provided screenshot PDF",
+    "summary": "沿着新不伦瑞克省海岸探访历史遗迹、芬迪湾海岸徒步与海上观鲸，记录鲸鱼浮出水面的一刻。",
+    "rights": "not_verified",
+    "originNote": "用户提供的马蜂窝原帖 PDF 截图，转载授权待核实"
+  },
+  {
+    "id": "mafengwo-24811244",
+    "title": "Nova Scotia 四天三晚自驾：大西洋海岸线探索之旅",
+    "region": "ns",
+    "city": "halifax",
+    "source": "马蜂窝",
+    "url": "https://www.mafengwo.cn/i/24811244.html",
+    "author": "焦阿来（朝阳区）",
+    "date": "2026-01-27",
+    "language": "zh",
+    "languageBasis": "user-provided screenshot PDF",
+    "summary": "四天三晚走访布雷顿角高地国家公园、Cabot Trail、哈利法克斯和佩吉湾，穿插行程路线、海岸照片与当地美食。",
+    "rights": "not_verified",
+    "originNote": "用户提供的马蜂窝原帖 PDF 截图，转载授权待核实"
+  },
+  {
+    "id": "maritimes-2025-roadtrip",
+    "title": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋",
+    "region": "maritimes",
+    "city": "halifax",
+    "source": "马蜂窝",
+    "url": "",
+    "author": "几何馨球（上海）",
+    "date": "2025-08-23",
+    "language": "zh",
+    "languageBasis": "3 PDF screenshots supplied in part1, part2, part3 order",
+    "summary": "2025年夏，8天自驾走访加拿大海洋三省。沿着大西洋海岸寻找灯塔、海滨小镇与当地风味，按原帖 part1 → part2 → part3 的顺序阅读完整图文。",
+    "rights": "not_verified",
+    "originNote": "按用户提供的3份PDF连续合并为1篇；原帖网址未提供，文字与照片的转载授权待核实"
+  },
   {
     "title": "行摄哈利法克斯——追寻蓝海幻梦的应许之地",
     "region": "ns",

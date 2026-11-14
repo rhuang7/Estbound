@@ -1,0 +1,10 @@
+<!doctype html><html lang="zh"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>EASTBOUND · 加拿大东部旅行</title><meta name="theme-color" content="#152c3f">
+<style>html,body{margin:0;height:100%;width:100%;overflow:hidden;background:#f6f7f9;}#eb-page{position:fixed;inset:0;border:0;width:100%;height:100%;display:block;background:#fff;}#eb-loading{position:fixed;inset:0;display:grid;place-items:center;color:#182838;font:700 15px system-ui;pointer-events:none}#eb-loading[hidden]{display:none}</style>
+<link rel="stylesheet" href="bgm-player.css?v=31.0"></head>
+<body><div id="eb-loading">EASTBOUND · 正在打开旅行页面…</div><iframe id="eb-page" title="EASTBOUND 旅行内容" allow="autoplay; fullscreen; geolocation" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<audio id="eb-home-music" src="assets/audio/eastbound-home-bgm.mp3" autoplay loop preload="auto" playsinline></audio>
+<div class="eb-bgm" id="eastbound-bgm" data-playing="false" role="group" aria-label="全站背景音乐控制" data-no-i18n="true">
+<span class="eb-bgm-icon" aria-hidden="true">♫</span><span class="eb-bgm-copy"><span class="eb-bgm-name">EASTBOUND · BGM</span><span class="eb-bgm-status" id="eb-bgm-status" aria-live="polite">点击开启音乐</span></span>
+<button id="eb-bgm-toggle" class="eb-bgm-toggle" type="button" aria-label="播放背景音乐" title="播放背景音乐" aria-pressed="false"><svg class="eb-play-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.3c0-.7.75-1.15 1.36-.78l10.1 6.7a.95.95 0 0 1 0 1.56l-10.1 6.7A.92.92 0 0 1 8 18.7z"/></svg><svg class="eb-pause-icon" viewBox="0 0 24 24" aria-hidden="true"><rect x="6" y="4.5" width="4.5" height="15" rx="1"/><rect x="13.5" y="4.5" width="4.5" height="15" rx="1"/></svg></button></div>
+<script src="shell-player.js?v=31.0"></script><script src="bgm-player.js?v=31.0"></script></body></html>

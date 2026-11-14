@@ -1,10 +1,17 @@
 <!DOCTYPE html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#f5f6f8"><meta name="referrer" content="strict-origin-when-cross-origin">
+<html lang="en"><head>
+<script>/* Keep background music running across page changes. */
+if (window.self === window.top) {
+  var ebPath = location.pathname.split('/').pop() + location.search + location.hash;
+  location.replace('player.html?view=' + encodeURIComponent(ebPath));
+}
+</script>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#f5f6f8"><meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="description" content="EASTBOUND 加东旅行 Vlog：多伦多、尼亚加拉、蒙特利尔、魁北克、爱德华王子岛、哈利法克斯、新斯科舍和大西洋海岸的真实旅行视频。">
 <title>EASTBOUND V16 — 旅行 Vlog · 走得远一点，生活慢一点</title>
 <link rel="preconnect" href="https://i.ytimg.com" crossorigin><link href="styles.css" rel="stylesheet"><link href="vlog.css" rel="stylesheet"><link rel="stylesheet" href="i18n.css"/>
 <script defer src="i18n_catalog.js"></script><script defer src="i18n.js"></script>
-</head>
+<script defer src="shell-bridge.js?v=31.0"></script></head>
 <body class="vlog-page">
 <div class="topline">EASTBOUND / TRAVEL FILMS <span class="line-sep">·</span> 看见旅人的真实旅程 <a href="stories.html">探索经典线路 ↗</a></div>
 <header class="site-header" id="top"><nav class="nav wrap" aria-label="主导航">

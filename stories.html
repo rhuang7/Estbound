@@ -1,12 +1,19 @@
 <!DOCTYPE html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<html lang="en"><head>
+<script>/* Keep background music running across page changes. */
+if (window.self === window.top) {
+  var ebPath = location.pathname.split('/').pop() + location.search + location.hash;
+  location.replace('player.html?view=' + encodeURIComponent(ebPath));
+}
+</script>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="#f6f7f8"><meta name="description" content="EASTBOUND 精选马蜂窝、Tripadvisor、Lonely Planet 等来源的加东旅行路线灵感，无需输入城市或日期，直接浏览完整逐日行程。">
 <title>EASTBOUND V11 — 经典旅行线路 · 旅人走过的加拿大东部</title>
 <link rel="preconnect" href="https://images.unsplash.com" crossorigin>
 <link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="v8.css"><link rel="stylesheet" href="stories.css">
 <link rel="stylesheet" href="i18n.css"/>
 <script defer src="i18n_catalog.js"></script><script defer src="i18n.js"></script>
-</head><body class="stories-page">
+<script defer src="shell-bridge.js?v=31.0"></script></head><body class="stories-page">
 <div class="topline">旅行不只有一种答案 <span class="line-sep">·</span> 来源清楚的路线灵感 <a href="planner.html#planner">或定制专属行程 ↗</a></div>
 <header class="site-header" id="top"><nav aria-label="主导航" class="nav wrap">
 <a aria-label="EASTBOUND 首页" class="brand" href="index.html"><span class="brand-mark">E<span class="brand-dot">.</span></span><span>EASTBOUND</span></a>

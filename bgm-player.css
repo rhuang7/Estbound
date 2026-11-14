@@ -1,0 +1,22 @@
+/* EASTBOUND V30 — fixed home background music player */
+.eb-bgm {position:fixed;z-index:70;right:clamp(12px,2vw,28px);bottom:clamp(72px,13vh,146px);display:flex;align-items:center;gap:11px;width:max-content;max-width:calc(100vw - 24px);padding:10px 10px 10px 13px;color:#f6faff;background:rgba(18,37,54,.96);border:1px solid rgba(233,244,255,.18);border-radius:40px;box-shadow:0 10px 38px rgba(18,35,48,.23);font-family:inherit;backdrop-filter:blur(18px);-webkit-backdrop-filter:blur(18px);transition:transform .2s ease, box-shadow .2s ease}
+.eb-bgm:hover{transform:translateY(-2px);box-shadow:0 16px 44px rgba(18,35,48,.3)}
+.eb-bgm-icon{display:grid;place-items:center;position:relative;flex:none;width:33px;height:33px;border-radius:50%;background:rgba(114,178,236,.15);color:#b9daff;font-size:19px}
+.eb-bgm-icon::after{content:'';position:absolute;inset:-3px;border-radius:50%;border:1px solid rgba(133,196,248,.2)}
+.eb-bgm[data-playing="true"] .eb-bgm-icon{animation:eb-bgm-pulse 2.3s ease-in-out infinite}
+.eb-bgm-copy{display:flex;flex-direction:column;gap:2px;white-space:nowrap;min-width:106px}
+.eb-bgm-name{font-size:11px;font-weight:800;letter-spacing:.09em}
+.eb-bgm-status{font-size:10px;color:#b9cbd9;line-height:1.45}
+.eb-bgm-toggle{width:37px;height:37px;flex:none;display:grid;place-items:center;border-radius:50%;border:1px solid rgba(255,255,255,.17);color:#14293a;background:#f7fbff;padding:0;cursor:pointer;transition:background .2s,transform .2s}
+.eb-bgm-toggle:hover{background:#d7eafa;transform:scale(1.04)}
+.eb-bgm-toggle:focus-visible{outline:3px solid #80c3ff;outline-offset:3px}
+.eb-bgm-toggle svg{height:18px;width:18px;fill:currentColor}
+.eb-bgm .eb-pause-icon{display:none}
+.eb-bgm[data-playing="true"] .eb-play-icon{display:none}
+.eb-bgm[data-playing="true"] .eb-pause-icon{display:block}
+@keyframes eb-bgm-pulse{50%{box-shadow:0 0 0 5px rgba(145,200,255,.1)}}
+@media(max-width:600px){.eb-bgm{right:12px;bottom:calc(72px + env(safe-area-inset-bottom,0px));padding:8px 8px 8px 10px;gap:8px}.eb-bgm-icon{width:29px;height:29px;font-size:17px}.eb-bgm-copy{min-width:83px}.eb-bgm-name{font-size:10px}.eb-bgm-status{font-size:9px}.eb-bgm-toggle{height:34px;width:34px}}
+@media(prefers-reduced-motion:reduce){.eb-bgm,.eb-bgm-toggle{transition:none}.eb-bgm[data-playing="true"] .eb-bgm-icon{animation:none}}
+
+/* V31 music is always above shared browsing frame. */
+.eb-bgm{z-index:99999;font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}

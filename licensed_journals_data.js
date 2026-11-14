@@ -1,5 +1,3009 @@
-/* EASTBOUND V27: screenshot sequence preserved; verify republication rights. */
+/* EASTBOUND V31 · 13 articles · 3 new Mafengwo PDFs; rights pending. */
 window.EASTBOUND_LICENSED_JOURNALS=[
+  {
+    "id": "mafengwo-10575422",
+    "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+    "author": "飘尘Marco（北京）",
+    "rights": "not_verified",
+    "rightsRef": "原文图片来自马蜂窝网页截图；转载授权待核实",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "journal_media/mafengwo-10575422/cover.jpg",
+        "credit": "马蜂窝原帖",
+        "alt": "环游新斯科舍省：苏格兰版的加拿大",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html"
+      }
+    ],
+    "screenshots": [
+      {
+        "src": "journal_media/mafengwo-10575422/p01-s01.jpg",
+        "page": 1,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 1 / 阅读片段 1",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 1
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p01-s02.jpg",
+        "page": 2,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 1 / 阅读片段 2",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 1
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p01-s03.jpg",
+        "page": 3,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 1 / 阅读片段 3",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 1
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p02-s01.jpg",
+        "page": 4,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 2 / 阅读片段 1",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 2
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p02-s02.jpg",
+        "page": 5,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 2 / 阅读片段 2",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 2
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p02-s03.jpg",
+        "page": 6,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 2 / 阅读片段 3",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 2
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p02-s04.jpg",
+        "page": 7,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 2 / 阅读片段 4",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 2
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p03-s01.jpg",
+        "page": 8,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 3 / 阅读片段 1",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 3
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p03-s02.jpg",
+        "page": 9,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 3 / 阅读片段 2",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 3
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p03-s03.jpg",
+        "page": 10,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 3 / 阅读片段 3",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 3
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p03-s04.jpg",
+        "page": 11,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 3 / 阅读片段 4",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 3
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p04-s01.jpg",
+        "page": 12,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 4 / 阅读片段 1",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 4
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p04-s02.jpg",
+        "page": 13,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 4 / 阅读片段 2",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 4
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p04-s03.jpg",
+        "page": 14,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 4 / 阅读片段 3",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 4
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p04-s04.jpg",
+        "page": 15,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 4 / 阅读片段 4",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 4
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p05-s01.jpg",
+        "page": 16,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 5 / 阅读片段 1",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 5
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p05-s02.jpg",
+        "page": 17,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 5 / 阅读片段 2",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 5
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p05-s03.jpg",
+        "page": 18,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 5 / 阅读片段 3",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 5
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p05-s04.jpg",
+        "page": 19,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 5 / 阅读片段 4",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 5
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p06-s01.jpg",
+        "page": 20,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 6 / 阅读片段 1",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 6
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p06-s02.jpg",
+        "page": 21,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 6 / 阅读片段 2",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 6
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p06-s03.jpg",
+        "page": 22,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 6 / 阅读片段 3",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 6
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p06-s04.jpg",
+        "page": 23,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 6 / 阅读片段 4",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 6
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p07-s01.jpg",
+        "page": 24,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 7 / 阅读片段 1",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 7
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p07-s02.jpg",
+        "page": 25,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 7 / 阅读片段 2",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 7
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p07-s03.jpg",
+        "page": 26,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 7 / 阅读片段 3",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 7
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p07-s04.jpg",
+        "page": 27,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 7 / 阅读片段 4",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 7
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p08-s01.jpg",
+        "page": 28,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 8 / 阅读片段 1",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 8
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p08-s02.jpg",
+        "page": 29,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 8 / 阅读片段 2",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 8
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p08-s03.jpg",
+        "page": 30,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 8 / 阅读片段 3",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 8
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p08-s04.jpg",
+        "page": 31,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 8 / 阅读片段 4",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 8
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p09-s01.jpg",
+        "page": 32,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 9 / 阅读片段 1",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 9
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p09-s02.jpg",
+        "page": 33,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 9 / 阅读片段 2",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 9
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p09-s03.jpg",
+        "page": 34,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 9 / 阅读片段 3",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 9
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p09-s04.jpg",
+        "page": 35,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 9 / 阅读片段 4",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 9
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p10-s01.jpg",
+        "page": 36,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 10 / 阅读片段 1",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 10
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p10-s02.jpg",
+        "page": 37,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 10 / 阅读片段 2",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 10
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p10-s03.jpg",
+        "page": 38,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 10 / 阅读片段 3",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 10
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p10-s04.jpg",
+        "page": 39,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 10 / 阅读片段 4",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 10
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p11-s01.jpg",
+        "page": 40,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 11 / 阅读片段 1",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 11
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p11-s02.jpg",
+        "page": 41,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 11 / 阅读片段 2",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 11
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p11-s03.jpg",
+        "page": 42,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 11 / 阅读片段 3",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 11
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p11-s04.jpg",
+        "page": 43,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 11 / 阅读片段 4",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 11
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p12-s01.jpg",
+        "page": 44,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 12 / 阅读片段 1",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 12
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p12-s02.jpg",
+        "page": 45,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 12 / 阅读片段 2",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 12
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p12-s03.jpg",
+        "page": 46,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 12 / 阅读片段 3",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 12
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p12-s04.jpg",
+        "page": 47,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 12 / 阅读片段 4",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 12
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p13-s01.jpg",
+        "page": 48,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 13 / 阅读片段 1",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 13
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p13-s02.jpg",
+        "page": 49,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 13 / 阅读片段 2",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 13
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p13-s03.jpg",
+        "page": 50,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 13 / 阅读片段 3",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 13
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p13-s04.jpg",
+        "page": 51,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 13 / 阅读片段 4",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 13
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p14-s01.jpg",
+        "page": 52,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 14 / 阅读片段 1",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 14
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p14-s02.jpg",
+        "page": 53,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 14 / 阅读片段 2",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 14
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p14-s03.jpg",
+        "page": 54,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 14 / 阅读片段 3",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 14
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p14-s04.jpg",
+        "page": 55,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 14 / 阅读片段 4",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 14
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p15-s01.jpg",
+        "page": 56,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 15 / 阅读片段 1",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 15
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p15-s02.jpg",
+        "page": 57,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 15 / 阅读片段 2",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 15
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p15-s03.jpg",
+        "page": 58,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 15 / 阅读片段 3",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 15
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p15-s04.jpg",
+        "page": 59,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 15 / 阅读片段 4",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 15
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p16-s01.jpg",
+        "page": 60,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 16 / 阅读片段 1",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 16
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p16-s02.jpg",
+        "page": 61,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 16 / 阅读片段 2",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 16
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p16-s03.jpg",
+        "page": 62,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 16 / 阅读片段 3",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 16
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p16-s04.jpg",
+        "page": 63,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 16 / 阅读片段 4",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 16
+      },
+      {
+        "src": "journal_media/mafengwo-10575422/p17-s01.jpg",
+        "page": 64,
+        "alt": "环游新斯科舍省：苏格兰版的加拿大 · 原稿页 17 / 阅读片段 1",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
+        "originalPdfPage": 17
+      }
+    ],
+    "chapters": [
+      {
+        "p": 1,
+        "name": "新斯科舍省港湾与灯塔",
+        "detail": "哈利法克斯及海滨的第一段旅程"
+      },
+      {
+        "p": 16,
+        "name": "海岸公路与沿海小镇",
+        "detail": "从港口到自然海岸的连续记录"
+      },
+      {
+        "p": 36,
+        "name": "布雷顿角与沿途风景",
+        "detail": "记录山海、灯塔与社区生活"
+      },
+      {
+        "p": 52,
+        "name": "旅行中的餐桌与住宿",
+        "detail": "旅程尾声与新鲜的当地味道"
+      }
+    ]
+  },
+  {
+    "id": "mafengwo-24404355",
+    "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+    "author": "X的二次方（北京）",
+    "rights": "not_verified",
+    "rightsRef": "原文图片来自马蜂窝网页截图；转载授权待核实",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "journal_media/mafengwo-24404355/cover.jpg",
+        "credit": "马蜂窝原帖",
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html"
+      }
+    ],
+    "screenshots": [
+      {
+        "src": "journal_media/mafengwo-24404355/p01-s01.jpg",
+        "page": 1,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 1 / 阅读片段 1",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 1
+      },
+      {
+        "src": "journal_media/mafengwo-24404355/p01-s02.jpg",
+        "page": 2,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 1 / 阅读片段 2",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 1
+      },
+      {
+        "src": "journal_media/mafengwo-24404355/p01-s03.jpg",
+        "page": 3,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 1 / 阅读片段 3",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 1
+      },
+      {
+        "src": "journal_media/mafengwo-24404355/p02-s01.jpg",
+        "page": 4,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 2 / 阅读片段 1",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 2
+      },
+      {
+        "src": "journal_media/mafengwo-24404355/p02-s02.jpg",
+        "page": 5,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 2 / 阅读片段 2",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 2
+      },
+      {
+        "src": "journal_media/mafengwo-24404355/p02-s03.jpg",
+        "page": 6,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 2 / 阅读片段 3",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 2
+      },
+      {
+        "src": "journal_media/mafengwo-24404355/p02-s04.jpg",
+        "page": 7,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 2 / 阅读片段 4",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 2
+      },
+      {
+        "src": "journal_media/mafengwo-24404355/p03-s01.jpg",
+        "page": 8,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 3 / 阅读片段 1",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 3
+      },
+      {
+        "src": "journal_media/mafengwo-24404355/p03-s02.jpg",
+        "page": 9,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 3 / 阅读片段 2",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 3
+      },
+      {
+        "src": "journal_media/mafengwo-24404355/p03-s03.jpg",
+        "page": 10,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 3 / 阅读片段 3",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 3
+      },
+      {
+        "src": "journal_media/mafengwo-24404355/p03-s04.jpg",
+        "page": 11,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 3 / 阅读片段 4",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 3
+      },
+      {
+        "src": "journal_media/mafengwo-24404355/p04-s01.jpg",
+        "page": 12,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 4 / 阅读片段 1",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 4
+      },
+      {
+        "src": "journal_media/mafengwo-24404355/p04-s02.jpg",
+        "page": 13,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 4 / 阅读片段 2",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 4
+      },
+      {
+        "src": "journal_media/mafengwo-24404355/p04-s03.jpg",
+        "page": 14,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 4 / 阅读片段 3",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 4
+      },
+      {
+        "src": "journal_media/mafengwo-24404355/p04-s04.jpg",
+        "page": 15,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 4 / 阅读片段 4",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 4
+      },
+      {
+        "src": "journal_media/mafengwo-24404355/p05-s01.jpg",
+        "page": 16,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 5 / 阅读片段 1",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 5
+      },
+      {
+        "src": "journal_media/mafengwo-24404355/p05-s02.jpg",
+        "page": 17,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 5 / 阅读片段 2",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 5
+      },
+      {
+        "src": "journal_media/mafengwo-24404355/p05-s03.jpg",
+        "page": 18,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 5 / 阅读片段 3",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 5
+      },
+      {
+        "src": "journal_media/mafengwo-24404355/p05-s04.jpg",
+        "page": 19,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 5 / 阅读片段 4",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 5
+      },
+      {
+        "src": "journal_media/mafengwo-24404355/p06-s01.jpg",
+        "page": 20,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 6 / 阅读片段 1",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 6
+      },
+      {
+        "src": "journal_media/mafengwo-24404355/p06-s02.jpg",
+        "page": 21,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 6 / 阅读片段 2",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 6
+      },
+      {
+        "src": "journal_media/mafengwo-24404355/p06-s03.jpg",
+        "page": 22,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 6 / 阅读片段 3",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 6
+      },
+      {
+        "src": "journal_media/mafengwo-24404355/p06-s04.jpg",
+        "page": 23,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 6 / 阅读片段 4",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 6
+      },
+      {
+        "src": "journal_media/mafengwo-24404355/p07-s01.jpg",
+        "page": 24,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 7 / 阅读片段 1",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 7
+      },
+      {
+        "src": "journal_media/mafengwo-24404355/p07-s02.jpg",
+        "page": 25,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 7 / 阅读片段 2",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 7
+      },
+      {
+        "src": "journal_media/mafengwo-24404355/p07-s03.jpg",
+        "page": 26,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 7 / 阅读片段 3",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 7
+      },
+      {
+        "src": "journal_media/mafengwo-24404355/p07-s04.jpg",
+        "page": 27,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 7 / 阅读片段 4",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 7
+      },
+      {
+        "src": "journal_media/mafengwo-24404355/p08-s01.jpg",
+        "page": 28,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 8 / 阅读片段 1",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 8
+      },
+      {
+        "src": "journal_media/mafengwo-24404355/p08-s02.jpg",
+        "page": 29,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 8 / 阅读片段 2",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 8
+      },
+      {
+        "src": "journal_media/mafengwo-24404355/p08-s03.jpg",
+        "page": 30,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 8 / 阅读片段 3",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 8
+      },
+      {
+        "src": "journal_media/mafengwo-24404355/p08-s04.jpg",
+        "page": 31,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 8 / 阅读片段 4",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 8
+      },
+      {
+        "src": "journal_media/mafengwo-24404355/p09-s01.jpg",
+        "page": 32,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 9 / 阅读片段 1",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 9
+      },
+      {
+        "src": "journal_media/mafengwo-24404355/p09-s02.jpg",
+        "page": 33,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 9 / 阅读片段 2",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 9
+      },
+      {
+        "src": "journal_media/mafengwo-24404355/p09-s03.jpg",
+        "page": 34,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 9 / 阅读片段 3",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 9
+      },
+      {
+        "src": "journal_media/mafengwo-24404355/p09-s04.jpg",
+        "page": 35,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 9 / 阅读片段 4",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 9
+      },
+      {
+        "src": "journal_media/mafengwo-24404355/p10-s01.jpg",
+        "page": 36,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 10 / 阅读片段 1",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 10
+      },
+      {
+        "src": "journal_media/mafengwo-24404355/p10-s02.jpg",
+        "page": 37,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 10 / 阅读片段 2",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 10
+      },
+      {
+        "src": "journal_media/mafengwo-24404355/p10-s03.jpg",
+        "page": 38,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 10 / 阅读片段 3",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 10
+      },
+      {
+        "src": "journal_media/mafengwo-24404355/p10-s04.jpg",
+        "page": 39,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 10 / 阅读片段 4",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 10
+      },
+      {
+        "src": "journal_media/mafengwo-24404355/p11-s01.jpg",
+        "page": 40,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 11 / 阅读片段 1",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 11
+      },
+      {
+        "src": "journal_media/mafengwo-24404355/p11-s02.jpg",
+        "page": 41,
+        "alt": "芬迪湾观鲸鱼，它竟然冲我招手！还偶遇了花少同款黑沙滩岩 · 原稿页 11 / 阅读片段 2",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24404355.html",
+        "originalPdfPage": 11
+      }
+    ],
+    "chapters": [
+      {
+        "p": 1,
+        "name": "海岸遗迹与历史风景",
+        "detail": "沿海城市与历史故事"
+      },
+      {
+        "p": 12,
+        "name": "芬迪湾岩岸与徒步",
+        "detail": "奇特岩柱、海岸步道与潮汐景色"
+      },
+      {
+        "p": 28,
+        "name": "出海观鲸",
+        "detail": "追随鲸鱼和大海的相遇"
+      }
+    ]
+  },
+  {
+    "id": "mafengwo-24811244",
+    "sourceUrl": "https://www.mafengwo.cn/i/24811244.html",
+    "author": "焦阿来（朝阳区）",
+    "rights": "not_verified",
+    "rightsRef": "原文图片来自马蜂窝网页截图；转载授权待核实",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "journal_media/mafengwo-24811244/cover.jpg",
+        "credit": "马蜂窝原帖",
+        "alt": "Nova Scotia 四天三晚自驾：大西洋海岸线探索之旅",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24811244.html"
+      }
+    ],
+    "screenshots": [
+      {
+        "src": "journal_media/mafengwo-24811244/p01-s01.jpg",
+        "page": 1,
+        "alt": "Nova Scotia 四天三晚自驾：大西洋海岸线探索之旅 · 原稿页 1 / 阅读片段 1",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24811244.html",
+        "originalPdfPage": 1
+      },
+      {
+        "src": "journal_media/mafengwo-24811244/p01-s02.jpg",
+        "page": 2,
+        "alt": "Nova Scotia 四天三晚自驾：大西洋海岸线探索之旅 · 原稿页 1 / 阅读片段 2",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24811244.html",
+        "originalPdfPage": 1
+      },
+      {
+        "src": "journal_media/mafengwo-24811244/p01-s03.jpg",
+        "page": 3,
+        "alt": "Nova Scotia 四天三晚自驾：大西洋海岸线探索之旅 · 原稿页 1 / 阅读片段 3",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24811244.html",
+        "originalPdfPage": 1
+      },
+      {
+        "src": "journal_media/mafengwo-24811244/p02-s01.jpg",
+        "page": 4,
+        "alt": "Nova Scotia 四天三晚自驾：大西洋海岸线探索之旅 · 原稿页 2 / 阅读片段 1",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24811244.html",
+        "originalPdfPage": 2
+      },
+      {
+        "src": "journal_media/mafengwo-24811244/p02-s02.jpg",
+        "page": 5,
+        "alt": "Nova Scotia 四天三晚自驾：大西洋海岸线探索之旅 · 原稿页 2 / 阅读片段 2",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24811244.html",
+        "originalPdfPage": 2
+      },
+      {
+        "src": "journal_media/mafengwo-24811244/p02-s03.jpg",
+        "page": 6,
+        "alt": "Nova Scotia 四天三晚自驾：大西洋海岸线探索之旅 · 原稿页 2 / 阅读片段 3",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24811244.html",
+        "originalPdfPage": 2
+      },
+      {
+        "src": "journal_media/mafengwo-24811244/p02-s04.jpg",
+        "page": 7,
+        "alt": "Nova Scotia 四天三晚自驾：大西洋海岸线探索之旅 · 原稿页 2 / 阅读片段 4",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24811244.html",
+        "originalPdfPage": 2
+      },
+      {
+        "src": "journal_media/mafengwo-24811244/p03-s01.jpg",
+        "page": 8,
+        "alt": "Nova Scotia 四天三晚自驾：大西洋海岸线探索之旅 · 原稿页 3 / 阅读片段 1",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24811244.html",
+        "originalPdfPage": 3
+      },
+      {
+        "src": "journal_media/mafengwo-24811244/p03-s02.jpg",
+        "page": 9,
+        "alt": "Nova Scotia 四天三晚自驾：大西洋海岸线探索之旅 · 原稿页 3 / 阅读片段 2",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24811244.html",
+        "originalPdfPage": 3
+      },
+      {
+        "src": "journal_media/mafengwo-24811244/p03-s03.jpg",
+        "page": 10,
+        "alt": "Nova Scotia 四天三晚自驾：大西洋海岸线探索之旅 · 原稿页 3 / 阅读片段 3",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24811244.html",
+        "originalPdfPage": 3
+      },
+      {
+        "src": "journal_media/mafengwo-24811244/p03-s04.jpg",
+        "page": 11,
+        "alt": "Nova Scotia 四天三晚自驾：大西洋海岸线探索之旅 · 原稿页 3 / 阅读片段 4",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24811244.html",
+        "originalPdfPage": 3
+      },
+      {
+        "src": "journal_media/mafengwo-24811244/p04-s01.jpg",
+        "page": 12,
+        "alt": "Nova Scotia 四天三晚自驾：大西洋海岸线探索之旅 · 原稿页 4 / 阅读片段 1",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24811244.html",
+        "originalPdfPage": 4
+      },
+      {
+        "src": "journal_media/mafengwo-24811244/p04-s02.jpg",
+        "page": 13,
+        "alt": "Nova Scotia 四天三晚自驾：大西洋海岸线探索之旅 · 原稿页 4 / 阅读片段 2",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24811244.html",
+        "originalPdfPage": 4
+      },
+      {
+        "src": "journal_media/mafengwo-24811244/p04-s03.jpg",
+        "page": 14,
+        "alt": "Nova Scotia 四天三晚自驾：大西洋海岸线探索之旅 · 原稿页 4 / 阅读片段 3",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24811244.html",
+        "originalPdfPage": 4
+      },
+      {
+        "src": "journal_media/mafengwo-24811244/p04-s04.jpg",
+        "page": 15,
+        "alt": "Nova Scotia 四天三晚自驾：大西洋海岸线探索之旅 · 原稿页 4 / 阅读片段 4",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24811244.html",
+        "originalPdfPage": 4
+      },
+      {
+        "src": "journal_media/mafengwo-24811244/p05-s01.jpg",
+        "page": 16,
+        "alt": "Nova Scotia 四天三晚自驾：大西洋海岸线探索之旅 · 原稿页 5 / 阅读片段 1",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24811244.html",
+        "originalPdfPage": 5
+      },
+      {
+        "src": "journal_media/mafengwo-24811244/p05-s02.jpg",
+        "page": 17,
+        "alt": "Nova Scotia 四天三晚自驾：大西洋海岸线探索之旅 · 原稿页 5 / 阅读片段 2",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24811244.html",
+        "originalPdfPage": 5
+      },
+      {
+        "src": "journal_media/mafengwo-24811244/p05-s03.jpg",
+        "page": 18,
+        "alt": "Nova Scotia 四天三晚自驾：大西洋海岸线探索之旅 · 原稿页 5 / 阅读片段 3",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24811244.html",
+        "originalPdfPage": 5
+      },
+      {
+        "src": "journal_media/mafengwo-24811244/p05-s04.jpg",
+        "page": 19,
+        "alt": "Nova Scotia 四天三晚自驾：大西洋海岸线探索之旅 · 原稿页 5 / 阅读片段 4",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24811244.html",
+        "originalPdfPage": 5
+      },
+      {
+        "src": "journal_media/mafengwo-24811244/p06-s01.jpg",
+        "page": 20,
+        "alt": "Nova Scotia 四天三晚自驾：大西洋海岸线探索之旅 · 原稿页 6 / 阅读片段 1",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24811244.html",
+        "originalPdfPage": 6
+      },
+      {
+        "src": "journal_media/mafengwo-24811244/p06-s02.jpg",
+        "page": 21,
+        "alt": "Nova Scotia 四天三晚自驾：大西洋海岸线探索之旅 · 原稿页 6 / 阅读片段 2",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24811244.html",
+        "originalPdfPage": 6
+      },
+      {
+        "src": "journal_media/mafengwo-24811244/p06-s03.jpg",
+        "page": 22,
+        "alt": "Nova Scotia 四天三晚自驾：大西洋海岸线探索之旅 · 原稿页 6 / 阅读片段 3",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24811244.html",
+        "originalPdfPage": 6
+      },
+      {
+        "src": "journal_media/mafengwo-24811244/p06-s04.jpg",
+        "page": 23,
+        "alt": "Nova Scotia 四天三晚自驾：大西洋海岸线探索之旅 · 原稿页 6 / 阅读片段 4",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24811244.html",
+        "originalPdfPage": 6
+      },
+      {
+        "src": "journal_media/mafengwo-24811244/p07-s01.jpg",
+        "page": 24,
+        "alt": "Nova Scotia 四天三晚自驾：大西洋海岸线探索之旅 · 原稿页 7 / 阅读片段 1",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24811244.html",
+        "originalPdfPage": 7
+      },
+      {
+        "src": "journal_media/mafengwo-24811244/p07-s02.jpg",
+        "page": 25,
+        "alt": "Nova Scotia 四天三晚自驾：大西洋海岸线探索之旅 · 原稿页 7 / 阅读片段 2",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24811244.html",
+        "originalPdfPage": 7
+      },
+      {
+        "src": "journal_media/mafengwo-24811244/p07-s03.jpg",
+        "page": 26,
+        "alt": "Nova Scotia 四天三晚自驾：大西洋海岸线探索之旅 · 原稿页 7 / 阅读片段 3",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24811244.html",
+        "originalPdfPage": 7
+      },
+      {
+        "src": "journal_media/mafengwo-24811244/p07-s04.jpg",
+        "page": 27,
+        "alt": "Nova Scotia 四天三晚自驾：大西洋海岸线探索之旅 · 原稿页 7 / 阅读片段 4",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24811244.html",
+        "originalPdfPage": 7
+      },
+      {
+        "src": "journal_media/mafengwo-24811244/p08-s01.jpg",
+        "page": 28,
+        "alt": "Nova Scotia 四天三晚自驾：大西洋海岸线探索之旅 · 原稿页 8 / 阅读片段 1",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24811244.html",
+        "originalPdfPage": 8
+      },
+      {
+        "src": "journal_media/mafengwo-24811244/p08-s02.jpg",
+        "page": 29,
+        "alt": "Nova Scotia 四天三晚自驾：大西洋海岸线探索之旅 · 原稿页 8 / 阅读片段 2",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24811244.html",
+        "originalPdfPage": 8
+      },
+      {
+        "src": "journal_media/mafengwo-24811244/p08-s03.jpg",
+        "page": 30,
+        "alt": "Nova Scotia 四天三晚自驾：大西洋海岸线探索之旅 · 原稿页 8 / 阅读片段 3",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24811244.html",
+        "originalPdfPage": 8
+      },
+      {
+        "src": "journal_media/mafengwo-24811244/p08-s04.jpg",
+        "page": 31,
+        "alt": "Nova Scotia 四天三晚自驾：大西洋海岸线探索之旅 · 原稿页 8 / 阅读片段 4",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24811244.html",
+        "originalPdfPage": 8
+      },
+      {
+        "src": "journal_media/mafengwo-24811244/p09-s01.jpg",
+        "page": 32,
+        "alt": "Nova Scotia 四天三晚自驾：大西洋海岸线探索之旅 · 原稿页 9 / 阅读片段 1",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24811244.html",
+        "originalPdfPage": 9
+      },
+      {
+        "src": "journal_media/mafengwo-24811244/p09-s02.jpg",
+        "page": 33,
+        "alt": "Nova Scotia 四天三晚自驾：大西洋海岸线探索之旅 · 原稿页 9 / 阅读片段 2",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24811244.html",
+        "originalPdfPage": 9
+      },
+      {
+        "src": "journal_media/mafengwo-24811244/p09-s03.jpg",
+        "page": 34,
+        "alt": "Nova Scotia 四天三晚自驾：大西洋海岸线探索之旅 · 原稿页 9 / 阅读片段 3",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24811244.html",
+        "originalPdfPage": 9
+      },
+      {
+        "src": "journal_media/mafengwo-24811244/p09-s04.jpg",
+        "page": 35,
+        "alt": "Nova Scotia 四天三晚自驾：大西洋海岸线探索之旅 · 原稿页 9 / 阅读片段 4",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24811244.html",
+        "originalPdfPage": 9
+      },
+      {
+        "src": "journal_media/mafengwo-24811244/p10-s01.jpg",
+        "page": 36,
+        "alt": "Nova Scotia 四天三晚自驾：大西洋海岸线探索之旅 · 原稿页 10 / 阅读片段 1",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24811244.html",
+        "originalPdfPage": 10
+      },
+      {
+        "src": "journal_media/mafengwo-24811244/p10-s02.jpg",
+        "page": 37,
+        "alt": "Nova Scotia 四天三晚自驾：大西洋海岸线探索之旅 · 原稿页 10 / 阅读片段 2",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马蜂窝原帖",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24811244.html",
+        "originalPdfPage": 10
+      }
+    ],
+    "chapters": [
+      {
+        "p": 1,
+        "name": "出发与布雷顿角",
+        "detail": "从哈利法克斯前往布雷顿角"
+      },
+      {
+        "p": 8,
+        "name": "Cabot Trail 海岸路线",
+        "detail": "车窗之外的海洋、高地与栈道"
+      },
+      {
+        "p": 24,
+        "name": "哈利法克斯与佩吉湾",
+        "detail": "城市海滨和灯塔的收尾旅程"
+      }
+    ]
+  },
+  {
+    "id": "maritimes-2025-roadtrip",
+    "sourceUrl": "",
+    "author": "几何馨球（上海）",
+    "rights": "not_verified",
+    "rightsRef": "由用户上传3份马蜂窝截屏PDF按顺序合并；转载许可尚未核实",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/cover.jpg",
+        "credit": "几何馨球（上海）",
+        "alt": "大西洋海岸自驾风光",
+        "rightsRef": "not_verified",
+        "sourceUrl": ""
+      }
+    ],
+    "screenshots": [
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p01-s01.jpg",
+        "page": 1,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页1片段1",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 1
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p01-s02.jpg",
+        "page": 2,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页1片段2",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 1
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p01-s03.jpg",
+        "page": 3,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页1片段3",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 1
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p01-s04.jpg",
+        "page": 4,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页1片段4",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 1
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p01-s05.jpg",
+        "page": 5,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页1片段5",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 1
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p02-s01.jpg",
+        "page": 6,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页2片段1",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 2
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p02-s02.jpg",
+        "page": 7,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页2片段2",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 2
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p02-s03.jpg",
+        "page": 8,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页2片段3",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 2
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p02-s04.jpg",
+        "page": 9,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页2片段4",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 2
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p02-s05.jpg",
+        "page": 10,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页2片段5",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 2
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p03-s01.jpg",
+        "page": 11,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页3片段1",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 3
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p03-s02.jpg",
+        "page": 12,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页3片段2",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 3
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p03-s03.jpg",
+        "page": 13,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页3片段3",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 3
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p03-s04.jpg",
+        "page": 14,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页3片段4",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 3
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p03-s05.jpg",
+        "page": 15,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页3片段5",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 3
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p04-s01.jpg",
+        "page": 16,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页4片段1",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 4
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p04-s02.jpg",
+        "page": 17,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页4片段2",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 4
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p04-s03.jpg",
+        "page": 18,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页4片段3",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 4
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p04-s04.jpg",
+        "page": 19,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页4片段4",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 4
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p04-s05.jpg",
+        "page": 20,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页4片段5",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 4
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p05-s01.jpg",
+        "page": 21,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页5片段1",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 5
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p05-s02.jpg",
+        "page": 22,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页5片段2",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 5
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p05-s03.jpg",
+        "page": 23,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页5片段3",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 5
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p05-s04.jpg",
+        "page": 24,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页5片段4",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 5
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p05-s05.jpg",
+        "page": 25,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页5片段5",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 5
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p06-s01.jpg",
+        "page": 26,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页6片段1",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 6
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p06-s02.jpg",
+        "page": 27,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页6片段2",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 6
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p06-s03.jpg",
+        "page": 28,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页6片段3",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 6
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p06-s04.jpg",
+        "page": 29,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页6片段4",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 6
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p06-s05.jpg",
+        "page": 30,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页6片段5",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 6
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p07-s01.jpg",
+        "page": 31,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页7片段1",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 7
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p07-s02.jpg",
+        "page": 32,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页7片段2",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 7
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p07-s03.jpg",
+        "page": 33,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页7片段3",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 7
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p07-s04.jpg",
+        "page": 34,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页7片段4",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 7
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p07-s05.jpg",
+        "page": 35,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页7片段5",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 7
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p08-s01.jpg",
+        "page": 36,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页8片段1",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 8
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p08-s02.jpg",
+        "page": 37,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页8片段2",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 8
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p08-s03.jpg",
+        "page": 38,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页8片段3",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 8
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p08-s04.jpg",
+        "page": 39,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页8片段4",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 8
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p08-s05.jpg",
+        "page": 40,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页8片段5",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 8
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p09-s01.jpg",
+        "page": 41,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页9片段1",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 9
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p09-s02.jpg",
+        "page": 42,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页9片段2",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 9
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p09-s03.jpg",
+        "page": 43,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页9片段3",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 9
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p09-s04.jpg",
+        "page": 44,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页9片段4",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 9
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part1-p09-s05.jpg",
+        "page": 45,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第1部分 · 原稿页9片段5",
+        "caption": "第1部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 1,
+        "originalPdfPage": 9
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p01-s01.jpg",
+        "page": 46,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页1片段1",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 1
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p01-s02.jpg",
+        "page": 47,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页1片段2",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 1
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p01-s03.jpg",
+        "page": 48,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页1片段3",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 1
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p01-s04.jpg",
+        "page": 49,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页1片段4",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 1
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p01-s05.jpg",
+        "page": 50,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页1片段5",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 1
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p02-s01.jpg",
+        "page": 51,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页2片段1",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 2
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p02-s02.jpg",
+        "page": 52,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页2片段2",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 2
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p02-s03.jpg",
+        "page": 53,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页2片段3",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 2
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p02-s04.jpg",
+        "page": 54,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页2片段4",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 2
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p02-s05.jpg",
+        "page": 55,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页2片段5",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 2
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p03-s01.jpg",
+        "page": 56,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页3片段1",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 3
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p03-s02.jpg",
+        "page": 57,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页3片段2",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 3
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p03-s03.jpg",
+        "page": 58,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页3片段3",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 3
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p03-s04.jpg",
+        "page": 59,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页3片段4",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 3
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p03-s05.jpg",
+        "page": 60,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页3片段5",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 3
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p04-s01.jpg",
+        "page": 61,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页4片段1",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 4
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p04-s02.jpg",
+        "page": 62,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页4片段2",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 4
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p04-s03.jpg",
+        "page": 63,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页4片段3",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 4
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p04-s04.jpg",
+        "page": 64,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页4片段4",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 4
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p04-s05.jpg",
+        "page": 65,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页4片段5",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 4
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p05-s01.jpg",
+        "page": 66,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页5片段1",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 5
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p05-s02.jpg",
+        "page": 67,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页5片段2",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 5
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p05-s03.jpg",
+        "page": 68,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页5片段3",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 5
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p05-s04.jpg",
+        "page": 69,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页5片段4",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 5
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p05-s05.jpg",
+        "page": 70,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页5片段5",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 5
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p06-s01.jpg",
+        "page": 71,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页6片段1",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 6
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p06-s02.jpg",
+        "page": 72,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页6片段2",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 6
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p06-s03.jpg",
+        "page": 73,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页6片段3",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 6
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p06-s04.jpg",
+        "page": 74,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页6片段4",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 6
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p06-s05.jpg",
+        "page": 75,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页6片段5",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 6
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p07-s01.jpg",
+        "page": 76,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页7片段1",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 7
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p07-s02.jpg",
+        "page": 77,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页7片段2",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 7
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p07-s03.jpg",
+        "page": 78,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页7片段3",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 7
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p07-s04.jpg",
+        "page": 79,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页7片段4",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 7
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p07-s05.jpg",
+        "page": 80,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页7片段5",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 7
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p08-s01.jpg",
+        "page": 81,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页8片段1",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 8
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p08-s02.jpg",
+        "page": 82,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页8片段2",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 8
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p08-s03.jpg",
+        "page": 83,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页8片段3",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 8
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p08-s04.jpg",
+        "page": 84,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页8片段4",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 8
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p08-s05.jpg",
+        "page": 85,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页8片段5",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 8
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p09-s01.jpg",
+        "page": 86,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页9片段1",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 9
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p09-s02.jpg",
+        "page": 87,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页9片段2",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 9
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p09-s03.jpg",
+        "page": 88,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页9片段3",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 9
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p09-s04.jpg",
+        "page": 89,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页9片段4",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 9
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part2-p09-s05.jpg",
+        "page": 90,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第2部分 · 原稿页9片段5",
+        "caption": "第2部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 2,
+        "originalPdfPage": 9
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part3-p01-s01.jpg",
+        "page": 91,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第3部分 · 原稿页1片段1",
+        "caption": "第3部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 3,
+        "originalPdfPage": 1
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part3-p01-s02.jpg",
+        "page": 92,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第3部分 · 原稿页1片段2",
+        "caption": "第3部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 3,
+        "originalPdfPage": 1
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part3-p01-s03.jpg",
+        "page": 93,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第3部分 · 原稿页1片段3",
+        "caption": "第3部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 3,
+        "originalPdfPage": 1
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part3-p01-s04.jpg",
+        "page": 94,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第3部分 · 原稿页1片段4",
+        "caption": "第3部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 3,
+        "originalPdfPage": 1
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part3-p01-s05.jpg",
+        "page": 95,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第3部分 · 原稿页1片段5",
+        "caption": "第3部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 3,
+        "originalPdfPage": 1
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part3-p03-s01.jpg",
+        "page": 96,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第3部分 · 原稿页3片段1",
+        "caption": "第3部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 3,
+        "originalPdfPage": 3
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part3-p03-s02.jpg",
+        "page": 97,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第3部分 · 原稿页3片段2",
+        "caption": "第3部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 3,
+        "originalPdfPage": 3
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part3-p03-s03.jpg",
+        "page": 98,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第3部分 · 原稿页3片段3",
+        "caption": "第3部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 3,
+        "originalPdfPage": 3
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part3-p03-s04.jpg",
+        "page": 99,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第3部分 · 原稿页3片段4",
+        "caption": "第3部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 3,
+        "originalPdfPage": 3
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part3-p03-s05.jpg",
+        "page": 100,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第3部分 · 原稿页3片段5",
+        "caption": "第3部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 3,
+        "originalPdfPage": 3
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part3-p04-s01.jpg",
+        "page": 101,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第3部分 · 原稿页4片段1",
+        "caption": "第3部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 3,
+        "originalPdfPage": 4
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part3-p04-s02.jpg",
+        "page": 102,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第3部分 · 原稿页4片段2",
+        "caption": "第3部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 3,
+        "originalPdfPage": 4
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part3-p04-s03.jpg",
+        "page": 103,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第3部分 · 原稿页4片段3",
+        "caption": "第3部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 3,
+        "originalPdfPage": 4
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part3-p04-s04.jpg",
+        "page": 104,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第3部分 · 原稿页4片段4",
+        "caption": "第3部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 3,
+        "originalPdfPage": 4
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part3-p04-s05.jpg",
+        "page": 105,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第3部分 · 原稿页4片段5",
+        "caption": "第3部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 3,
+        "originalPdfPage": 4
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part3-p05-s01.jpg",
+        "page": 106,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第3部分 · 原稿页5片段1",
+        "caption": "第3部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 3,
+        "originalPdfPage": 5
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part3-p05-s02.jpg",
+        "page": 107,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第3部分 · 原稿页5片段2",
+        "caption": "第3部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 3,
+        "originalPdfPage": 5
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part3-p05-s03.jpg",
+        "page": 108,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第3部分 · 原稿页5片段3",
+        "caption": "第3部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 3,
+        "originalPdfPage": 5
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part3-p05-s04.jpg",
+        "page": 109,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第3部分 · 原稿页5片段4",
+        "caption": "第3部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 3,
+        "originalPdfPage": 5
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part3-p05-s05.jpg",
+        "page": 110,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第3部分 · 原稿页5片段5",
+        "caption": "第3部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 3,
+        "originalPdfPage": 5
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part3-p06-s01.jpg",
+        "page": 111,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第3部分 · 原稿页6片段1",
+        "caption": "第3部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 3,
+        "originalPdfPage": 6
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part3-p06-s02.jpg",
+        "page": 112,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第3部分 · 原稿页6片段2",
+        "caption": "第3部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 3,
+        "originalPdfPage": 6
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part3-p06-s03.jpg",
+        "page": 113,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第3部分 · 原稿页6片段3",
+        "caption": "第3部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 3,
+        "originalPdfPage": 6
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part3-p06-s04.jpg",
+        "page": 114,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第3部分 · 原稿页6片段4",
+        "caption": "第3部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 3,
+        "originalPdfPage": 6
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part3-p06-s05.jpg",
+        "page": 115,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第3部分 · 原稿页6片段5",
+        "caption": "第3部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 3,
+        "originalPdfPage": 6
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part3-p07-s01.jpg",
+        "page": 116,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第3部分 · 原稿页7片段1",
+        "caption": "第3部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 3,
+        "originalPdfPage": 7
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part3-p07-s02.jpg",
+        "page": 117,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第3部分 · 原稿页7片段2",
+        "caption": "第3部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 3,
+        "originalPdfPage": 7
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part3-p07-s03.jpg",
+        "page": 118,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第3部分 · 原稿页7片段3",
+        "caption": "第3部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 3,
+        "originalPdfPage": 7
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part3-p07-s04.jpg",
+        "page": 119,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第3部分 · 原稿页7片段4",
+        "caption": "第3部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 3,
+        "originalPdfPage": 7
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part3-p07-s05.jpg",
+        "page": 120,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第3部分 · 原稿页7片段5",
+        "caption": "第3部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 3,
+        "originalPdfPage": 7
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part3-p08-s01.jpg",
+        "page": 121,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第3部分 · 原稿页8片段1",
+        "caption": "第3部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 3,
+        "originalPdfPage": 8
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part3-p08-s02.jpg",
+        "page": 122,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第3部分 · 原稿页8片段2",
+        "caption": "第3部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 3,
+        "originalPdfPage": 8
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part3-p08-s03.jpg",
+        "page": 123,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第3部分 · 原稿页8片段3",
+        "caption": "第3部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 3,
+        "originalPdfPage": 8
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part3-p08-s04.jpg",
+        "page": 124,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第3部分 · 原稿页8片段4",
+        "caption": "第3部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 3,
+        "originalPdfPage": 8
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part3-p08-s05.jpg",
+        "page": 125,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第3部分 · 原稿页8片段5",
+        "caption": "第3部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 3,
+        "originalPdfPage": 8
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part3-p09-s01.jpg",
+        "page": 126,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第3部分 · 原稿页9片段1",
+        "caption": "第3部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 3,
+        "originalPdfPage": 9
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part3-p09-s02.jpg",
+        "page": 127,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第3部分 · 原稿页9片段2",
+        "caption": "第3部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 3,
+        "originalPdfPage": 9
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part3-p09-s03.jpg",
+        "page": 128,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第3部分 · 原稿页9片段3",
+        "caption": "第3部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 3,
+        "originalPdfPage": 9
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part3-p09-s04.jpg",
+        "page": 129,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第3部分 · 原稿页9片段4",
+        "caption": "第3部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 3,
+        "originalPdfPage": 9
+      },
+      {
+        "src": "journal_media/maritimes-2025-roadtrip/part3-p09-s05.jpg",
+        "page": 130,
+        "alt": "【孤独星球】2025夏·加拿大海洋三省自驾游，追逐大西洋 · 第3部分 · 原稿页9片段5",
+        "caption": "第3部分 · 原文图文",
+        "credit": "几何馨球（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "",
+        "originalPart": 3,
+        "originalPdfPage": 9
+      }
+    ],
+    "sourceParts": [
+      "part1.pdf",
+      "part2.pdf",
+      "part3.pdf"
+    ],
+    "chapters": [
+      {
+        "p": 1,
+        "name": "第一部分｜旅途启程",
+        "detail": "part1.pdf · 原稿第 1–9 页"
+      },
+      {
+        "p": 46,
+        "name": "第二部分｜自驾沿途",
+        "detail": "part2.pdf · 原稿第 1–9 页"
+      },
+      {
+        "p": 91,
+        "name": "第三部分｜大西洋海岸的更多故事",
+        "detail": "part3.pdf · 原稿第 1、3–9 页（已跳过网站页脚）"
+      }
+    ]
+  },
   {
     "id": "mafengwo-8326746",
     "sourceUrl": "https://www.mafengwo.cn/i/8326746.html",

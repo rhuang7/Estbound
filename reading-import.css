@@ -58,3 +58,9 @@
  #reading-grid .reading-import-card h3,#reading-extra-grid .reading-import-card h3{min-height:0}
  .reading-expand>summary{width:100%}
 }
+
+/* V29 · Keep the expand/collapse control after the LAST visible journal card.
+   The native <details> element remains functional with JavaScript disabled. */
+.reading-expand[open]{display:flex;flex-direction:column;}
+.reading-expand[open] > #reading-extra-grid{order:1;margin-top:22px;}
+.reading-expand[open] > summary{order:2;flex:none;margin-top:30px;}
