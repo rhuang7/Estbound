@@ -1,5 +1,65 @@
-/* EASTBOUND V31 · 13 articles · 3 new Mafengwo PDFs; rights pending. */
+/* EASTBOUND V32: 17 reader journals; publication rights pending. */
 window.EASTBOUND_REAL_REPORTS=[
+  {
+    "id": "mafengwo-7382594",
+    "title": "Lost in The Maritimes｜海洋三省吃喝玩乐",
+    "region": "maritimes",
+    "city": "halifax",
+    "source": "马蜂窝",
+    "url": "https://www.mafengwo.cn/i/7382594.html",
+    "author": "WannaBMrslp（原帖署名）",
+    "date": "2017-08-10",
+    "language": "zh",
+    "languageBasis": "user supplied original webpage PDF screenshot",
+    "summary": "从旅行准备、哈利法克斯出发，经过爱德华王子岛、夏洛特敦、蒙克顿与芬迪湾，分享餐厅、龙虾、海岸风景和海洋三省自驾体验。",
+    "rights": "not_verified",
+    "originNote": "原帖 PDF 截图由用户提供；文章及照片转载授权待核实"
+  },
+  {
+    "id": "mafengwo-10501842",
+    "title": "加拿大哈利法克斯：一个海滨小城的几日闲逛",
+    "region": "ns",
+    "city": "halifax",
+    "source": "马蜂窝",
+    "url": "https://www.mafengwo.cn/i/10501842.html",
+    "author": "emilyy（原帖署名）",
+    "date": "2018-09-13",
+    "language": "zh",
+    "languageBasis": "user supplied original webpage PDF screenshot",
+    "summary": "哈利法克斯城市漫步记录，从古堡、海滨步道和泰坦尼克展览，到教堂、公共花园、城市建筑与海边日常。",
+    "rights": "not_verified",
+    "originNote": "原帖 PDF 截图由用户提供；文章及照片转载授权待核实"
+  },
+  {
+    "id": "mafengwo-20985964",
+    "title": "美洲行｜加拿大 Halifax 龙虾之旅（2017.5）",
+    "region": "ns",
+    "city": "halifax",
+    "source": "马蜂窝",
+    "url": "https://www.mafengwo.cn/i/20985964.html",
+    "author": "马尔摩斯（上海）",
+    "date": "2020-10-12",
+    "language": "zh",
+    "languageBasis": "user supplied original webpage PDF screenshot",
+    "summary": "走进哈利法克斯的港湾餐馆与当地海鲜文化，从龙虾、海鲜汤到自然步道，记录一次以美食为主线的旅行。",
+    "rights": "not_verified",
+    "originNote": "原帖 PDF 截图由用户提供；文章及照片转载授权待核实"
+  },
+  {
+    "id": "mafengwo-24614452",
+    "title": "梦游哈法~~",
+    "region": "ns",
+    "city": "halifax",
+    "source": "马蜂窝",
+    "url": "https://www.mafengwo.cn/i/24614452.html",
+    "author": "平安喜乐（卡尔加里）",
+    "date": "2025-01-02",
+    "language": "zh",
+    "languageBasis": "user supplied original webpage PDF screenshot",
+    "summary": "跟随作者漫游哈利法克斯：港湾晚霞、街头建筑、城堡与海事博物馆，最后走向佩吉湾的灯塔与海岸。",
+    "rights": "not_verified",
+    "originNote": "原帖 PDF 截图由用户提供；文章及照片转载授权待核实"
+  },
   {
     "id": "mafengwo-10575422",
     "title": "环游新斯科舍省：苏格兰版的加拿大",

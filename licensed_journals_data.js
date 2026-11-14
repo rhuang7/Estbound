@@ -1,5 +1,2628 @@
-/* EASTBOUND V31 · 13 articles · 3 new Mafengwo PDFs; rights pending. */
+/* EASTBOUND V32: imported screenshots preserve source ordering; rights pending. */
 window.EASTBOUND_LICENSED_JOURNALS=[
+  {
+    "id": "mafengwo-7382594",
+    "sourceUrl": "https://www.mafengwo.cn/i/7382594.html",
+    "author": "WannaBMrslp（原帖署名）",
+    "rights": "not_verified",
+    "rightsRef": "马蜂窝原文及照片来自用户提供的 PDF 网页截图，转载授权未核实",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "journal_media/mafengwo-7382594/cover.jpg",
+        "credit": "WannaBMrslp（原帖署名）",
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      }
+    ],
+    "screenshots": [
+      {
+        "src": "journal_media/mafengwo-7382594/p01-s01.jpg",
+        "page": 1,
+        "originalPdfPage": 1,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 1 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p01-s02.jpg",
+        "page": 2,
+        "originalPdfPage": 1,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 1 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p02-s01.jpg",
+        "page": 3,
+        "originalPdfPage": 2,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 2 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p02-s02.jpg",
+        "page": 4,
+        "originalPdfPage": 2,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 2 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p02-s03.jpg",
+        "page": 5,
+        "originalPdfPage": 2,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 2 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p03-s01.jpg",
+        "page": 6,
+        "originalPdfPage": 3,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 3 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p03-s02.jpg",
+        "page": 7,
+        "originalPdfPage": 3,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 3 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p03-s03.jpg",
+        "page": 8,
+        "originalPdfPage": 3,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 3 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p04-s01.jpg",
+        "page": 9,
+        "originalPdfPage": 4,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 4 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p04-s02.jpg",
+        "page": 10,
+        "originalPdfPage": 4,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 4 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p04-s03.jpg",
+        "page": 11,
+        "originalPdfPage": 4,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 4 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p05-s01.jpg",
+        "page": 12,
+        "originalPdfPage": 5,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 5 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p05-s02.jpg",
+        "page": 13,
+        "originalPdfPage": 5,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 5 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p05-s03.jpg",
+        "page": 14,
+        "originalPdfPage": 5,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 5 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p06-s01.jpg",
+        "page": 15,
+        "originalPdfPage": 6,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 6 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p06-s02.jpg",
+        "page": 16,
+        "originalPdfPage": 6,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 6 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p06-s03.jpg",
+        "page": 17,
+        "originalPdfPage": 6,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 6 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p07-s01.jpg",
+        "page": 18,
+        "originalPdfPage": 7,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 7 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p07-s02.jpg",
+        "page": 19,
+        "originalPdfPage": 7,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 7 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p07-s03.jpg",
+        "page": 20,
+        "originalPdfPage": 7,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 7 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p08-s01.jpg",
+        "page": 21,
+        "originalPdfPage": 8,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 8 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p08-s02.jpg",
+        "page": 22,
+        "originalPdfPage": 8,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 8 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p08-s03.jpg",
+        "page": 23,
+        "originalPdfPage": 8,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 8 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p09-s01.jpg",
+        "page": 24,
+        "originalPdfPage": 9,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 9 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p09-s02.jpg",
+        "page": 25,
+        "originalPdfPage": 9,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 9 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p09-s03.jpg",
+        "page": 26,
+        "originalPdfPage": 9,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 9 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p10-s01.jpg",
+        "page": 27,
+        "originalPdfPage": 10,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 10 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p10-s02.jpg",
+        "page": 28,
+        "originalPdfPage": 10,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 10 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p10-s03.jpg",
+        "page": 29,
+        "originalPdfPage": 10,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 10 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p11-s01.jpg",
+        "page": 30,
+        "originalPdfPage": 11,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 11 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p11-s02.jpg",
+        "page": 31,
+        "originalPdfPage": 11,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 11 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p11-s03.jpg",
+        "page": 32,
+        "originalPdfPage": 11,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 11 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p12-s01.jpg",
+        "page": 33,
+        "originalPdfPage": 12,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 12 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p12-s02.jpg",
+        "page": 34,
+        "originalPdfPage": 12,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 12 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p12-s03.jpg",
+        "page": 35,
+        "originalPdfPage": 12,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 12 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p13-s01.jpg",
+        "page": 36,
+        "originalPdfPage": 13,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 13 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p13-s02.jpg",
+        "page": 37,
+        "originalPdfPage": 13,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 13 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p13-s03.jpg",
+        "page": 38,
+        "originalPdfPage": 13,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 13 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p14-s01.jpg",
+        "page": 39,
+        "originalPdfPage": 14,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 14 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p14-s02.jpg",
+        "page": 40,
+        "originalPdfPage": 14,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 14 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p14-s03.jpg",
+        "page": 41,
+        "originalPdfPage": 14,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 14 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p15-s01.jpg",
+        "page": 42,
+        "originalPdfPage": 15,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 15 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p15-s02.jpg",
+        "page": 43,
+        "originalPdfPage": 15,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 15 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p15-s03.jpg",
+        "page": 44,
+        "originalPdfPage": 15,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 15 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p16-s01.jpg",
+        "page": 45,
+        "originalPdfPage": 16,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 16 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p16-s02.jpg",
+        "page": 46,
+        "originalPdfPage": 16,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 16 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p16-s03.jpg",
+        "page": 47,
+        "originalPdfPage": 16,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 16 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p17-s01.jpg",
+        "page": 48,
+        "originalPdfPage": 17,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 17 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p17-s02.jpg",
+        "page": 49,
+        "originalPdfPage": 17,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 17 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p17-s03.jpg",
+        "page": 50,
+        "originalPdfPage": 17,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 17 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p18-s01.jpg",
+        "page": 51,
+        "originalPdfPage": 18,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 18 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p18-s02.jpg",
+        "page": 52,
+        "originalPdfPage": 18,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 18 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p18-s03.jpg",
+        "page": 53,
+        "originalPdfPage": 18,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 18 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p19-s01.jpg",
+        "page": 54,
+        "originalPdfPage": 19,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 19 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p19-s02.jpg",
+        "page": 55,
+        "originalPdfPage": 19,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 19 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p19-s03.jpg",
+        "page": 56,
+        "originalPdfPage": 19,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 19 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p20-s01.jpg",
+        "page": 57,
+        "originalPdfPage": 20,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 20 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p20-s02.jpg",
+        "page": 58,
+        "originalPdfPage": 20,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 20 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p20-s03.jpg",
+        "page": 59,
+        "originalPdfPage": 20,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 20 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p21-s01.jpg",
+        "page": 60,
+        "originalPdfPage": 21,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 21 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p21-s02.jpg",
+        "page": 61,
+        "originalPdfPage": 21,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 21 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p21-s03.jpg",
+        "page": 62,
+        "originalPdfPage": 21,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 21 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p22-s01.jpg",
+        "page": 63,
+        "originalPdfPage": 22,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 22 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p22-s02.jpg",
+        "page": 64,
+        "originalPdfPage": 22,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 22 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p22-s03.jpg",
+        "page": 65,
+        "originalPdfPage": 22,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 22 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p23-s01.jpg",
+        "page": 66,
+        "originalPdfPage": 23,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 23 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p23-s02.jpg",
+        "page": 67,
+        "originalPdfPage": 23,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 23 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p23-s03.jpg",
+        "page": 68,
+        "originalPdfPage": 23,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 23 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p24-s01.jpg",
+        "page": 69,
+        "originalPdfPage": 24,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 24 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p24-s02.jpg",
+        "page": 70,
+        "originalPdfPage": 24,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 24 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p24-s03.jpg",
+        "page": 71,
+        "originalPdfPage": 24,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 24 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p25-s01.jpg",
+        "page": 72,
+        "originalPdfPage": 25,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 25 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p25-s02.jpg",
+        "page": 73,
+        "originalPdfPage": 25,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 25 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p25-s03.jpg",
+        "page": 74,
+        "originalPdfPage": 25,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 25 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p26-s01.jpg",
+        "page": 75,
+        "originalPdfPage": 26,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 26 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p26-s02.jpg",
+        "page": 76,
+        "originalPdfPage": 26,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 26 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p26-s03.jpg",
+        "page": 77,
+        "originalPdfPage": 26,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 26 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p27-s01.jpg",
+        "page": 78,
+        "originalPdfPage": 27,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 27 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p27-s02.jpg",
+        "page": 79,
+        "originalPdfPage": 27,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 27 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p27-s03.jpg",
+        "page": 80,
+        "originalPdfPage": 27,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 27 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p28-s01.jpg",
+        "page": 81,
+        "originalPdfPage": 28,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 28 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p28-s02.jpg",
+        "page": 82,
+        "originalPdfPage": 28,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 28 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p28-s03.jpg",
+        "page": 83,
+        "originalPdfPage": 28,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 28 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p29-s01.jpg",
+        "page": 84,
+        "originalPdfPage": 29,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 29 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p29-s02.jpg",
+        "page": 85,
+        "originalPdfPage": 29,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 29 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p29-s03.jpg",
+        "page": 86,
+        "originalPdfPage": 29,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 29 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p30-s01.jpg",
+        "page": 87,
+        "originalPdfPage": 30,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 30 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p30-s02.jpg",
+        "page": 88,
+        "originalPdfPage": 30,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 30 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p30-s03.jpg",
+        "page": 89,
+        "originalPdfPage": 30,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 30 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      },
+      {
+        "src": "journal_media/mafengwo-7382594/p31-s01.jpg",
+        "page": 90,
+        "originalPdfPage": 31,
+        "alt": "Lost in The Maritimes｜海洋三省吃喝玩乐，原帖第 31 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "WannaBMrslp（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/7382594.html"
+      }
+    ],
+    "articleTextIncomplete": false,
+    "chapters": [
+      {
+        "p": 1,
+        "name": "旅行准备",
+        "detail": "交通、路线与行前资料"
+      },
+      {
+        "p": 6,
+        "name": "哈利法克斯与爱德华王子岛",
+        "detail": "跨海抵达海洋省份"
+      },
+      {
+        "p": 15,
+        "name": "爱德华王子岛的美味",
+        "detail": "龙虾、海鲜与岛屿体验"
+      },
+      {
+        "p": 24,
+        "name": "夏洛特敦和海边小镇",
+        "detail": "沿途民宿、港口与餐饮"
+      },
+      {
+        "p": 45,
+        "name": "蒙克顿、芬迪湾和海岸",
+        "detail": "从岛屿继续向新不伦瑞克"
+      },
+      {
+        "p": 63,
+        "name": "继续沿海探索",
+        "detail": "旅途街景、海岸与食物"
+      },
+      {
+        "p": 84,
+        "name": "旅程收尾",
+        "detail": "更多城市记录与返程"
+      }
+    ]
+  },
+  {
+    "id": "mafengwo-10501842",
+    "sourceUrl": "https://www.mafengwo.cn/i/10501842.html",
+    "author": "emilyy（原帖署名）",
+    "rights": "not_verified",
+    "rightsRef": "马蜂窝原文及照片来自用户提供的 PDF 网页截图，转载授权未核实",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "journal_media/mafengwo-10501842/cover.jpg",
+        "credit": "emilyy（原帖署名）",
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      }
+    ],
+    "screenshots": [
+      {
+        "src": "journal_media/mafengwo-10501842/p01-s01.jpg",
+        "page": 1,
+        "originalPdfPage": 1,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 1 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p01-s02.jpg",
+        "page": 2,
+        "originalPdfPage": 1,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 1 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p02-s01.jpg",
+        "page": 3,
+        "originalPdfPage": 2,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 2 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p02-s02.jpg",
+        "page": 4,
+        "originalPdfPage": 2,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 2 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p02-s03.jpg",
+        "page": 5,
+        "originalPdfPage": 2,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 2 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p03-s01.jpg",
+        "page": 6,
+        "originalPdfPage": 3,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 3 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p03-s02.jpg",
+        "page": 7,
+        "originalPdfPage": 3,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 3 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p03-s03.jpg",
+        "page": 8,
+        "originalPdfPage": 3,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 3 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p04-s01.jpg",
+        "page": 9,
+        "originalPdfPage": 4,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 4 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p04-s02.jpg",
+        "page": 10,
+        "originalPdfPage": 4,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 4 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p04-s03.jpg",
+        "page": 11,
+        "originalPdfPage": 4,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 4 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p05-s01.jpg",
+        "page": 12,
+        "originalPdfPage": 5,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 5 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p05-s02.jpg",
+        "page": 13,
+        "originalPdfPage": 5,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 5 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p05-s03.jpg",
+        "page": 14,
+        "originalPdfPage": 5,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 5 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p06-s01.jpg",
+        "page": 15,
+        "originalPdfPage": 6,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 6 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p06-s02.jpg",
+        "page": 16,
+        "originalPdfPage": 6,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 6 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p06-s03.jpg",
+        "page": 17,
+        "originalPdfPage": 6,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 6 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p07-s01.jpg",
+        "page": 18,
+        "originalPdfPage": 7,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 7 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p07-s02.jpg",
+        "page": 19,
+        "originalPdfPage": 7,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 7 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p07-s03.jpg",
+        "page": 20,
+        "originalPdfPage": 7,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 7 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p08-s01.jpg",
+        "page": 21,
+        "originalPdfPage": 8,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 8 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p08-s02.jpg",
+        "page": 22,
+        "originalPdfPage": 8,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 8 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p08-s03.jpg",
+        "page": 23,
+        "originalPdfPage": 8,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 8 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p09-s01.jpg",
+        "page": 24,
+        "originalPdfPage": 9,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 9 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p09-s02.jpg",
+        "page": 25,
+        "originalPdfPage": 9,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 9 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p09-s03.jpg",
+        "page": 26,
+        "originalPdfPage": 9,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 9 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p10-s01.jpg",
+        "page": 27,
+        "originalPdfPage": 10,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 10 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p10-s02.jpg",
+        "page": 28,
+        "originalPdfPage": 10,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 10 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p10-s03.jpg",
+        "page": 29,
+        "originalPdfPage": 10,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 10 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p11-s01.jpg",
+        "page": 30,
+        "originalPdfPage": 11,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 11 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p11-s02.jpg",
+        "page": 31,
+        "originalPdfPage": 11,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 11 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p11-s03.jpg",
+        "page": 32,
+        "originalPdfPage": 11,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 11 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p12-s01.jpg",
+        "page": 33,
+        "originalPdfPage": 12,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 12 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p12-s02.jpg",
+        "page": 34,
+        "originalPdfPage": 12,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 12 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p12-s03.jpg",
+        "page": 35,
+        "originalPdfPage": 12,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 12 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p13-s01.jpg",
+        "page": 36,
+        "originalPdfPage": 13,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 13 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p13-s02.jpg",
+        "page": 37,
+        "originalPdfPage": 13,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 13 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p13-s03.jpg",
+        "page": 38,
+        "originalPdfPage": 13,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 13 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p14-s01.jpg",
+        "page": 39,
+        "originalPdfPage": 14,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 14 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p14-s02.jpg",
+        "page": 40,
+        "originalPdfPage": 14,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 14 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p14-s03.jpg",
+        "page": 41,
+        "originalPdfPage": 14,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 14 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p15-s01.jpg",
+        "page": 42,
+        "originalPdfPage": 15,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 15 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p15-s02.jpg",
+        "page": 43,
+        "originalPdfPage": 15,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 15 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p15-s03.jpg",
+        "page": 44,
+        "originalPdfPage": 15,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 15 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p16-s01.jpg",
+        "page": 45,
+        "originalPdfPage": 16,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 16 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p16-s02.jpg",
+        "page": 46,
+        "originalPdfPage": 16,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 16 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p16-s03.jpg",
+        "page": 47,
+        "originalPdfPage": 16,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 16 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p17-s01.jpg",
+        "page": 48,
+        "originalPdfPage": 17,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 17 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p17-s02.jpg",
+        "page": 49,
+        "originalPdfPage": 17,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 17 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p17-s03.jpg",
+        "page": 50,
+        "originalPdfPage": 17,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 17 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p18-s01.jpg",
+        "page": 51,
+        "originalPdfPage": 18,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 18 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p18-s02.jpg",
+        "page": 52,
+        "originalPdfPage": 18,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 18 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p18-s03.jpg",
+        "page": 53,
+        "originalPdfPage": 18,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 18 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p19-s01.jpg",
+        "page": 54,
+        "originalPdfPage": 19,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 19 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p19-s02.jpg",
+        "page": 55,
+        "originalPdfPage": 19,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 19 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p19-s03.jpg",
+        "page": 56,
+        "originalPdfPage": 19,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 19 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p20-s01.jpg",
+        "page": 57,
+        "originalPdfPage": 20,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 20 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p20-s02.jpg",
+        "page": 58,
+        "originalPdfPage": 20,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 20 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p20-s03.jpg",
+        "page": 59,
+        "originalPdfPage": 20,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 20 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p21-s01.jpg",
+        "page": 60,
+        "originalPdfPage": 21,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 21 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p21-s02.jpg",
+        "page": 61,
+        "originalPdfPage": 21,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 21 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p21-s03.jpg",
+        "page": 62,
+        "originalPdfPage": 21,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 21 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p22-s01.jpg",
+        "page": 63,
+        "originalPdfPage": 22,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 22 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p22-s02.jpg",
+        "page": 64,
+        "originalPdfPage": 22,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 22 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p22-s03.jpg",
+        "page": 65,
+        "originalPdfPage": 22,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 22 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p23-s01.jpg",
+        "page": 66,
+        "originalPdfPage": 23,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 23 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p23-s02.jpg",
+        "page": 67,
+        "originalPdfPage": 23,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 23 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p23-s03.jpg",
+        "page": 68,
+        "originalPdfPage": 23,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 23 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p24-s01.jpg",
+        "page": 69,
+        "originalPdfPage": 24,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 24 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p24-s02.jpg",
+        "page": 70,
+        "originalPdfPage": 24,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 24 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p24-s03.jpg",
+        "page": 71,
+        "originalPdfPage": 24,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 24 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p25-s01.jpg",
+        "page": 72,
+        "originalPdfPage": 25,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 25 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p25-s02.jpg",
+        "page": 73,
+        "originalPdfPage": 25,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 25 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p25-s03.jpg",
+        "page": 74,
+        "originalPdfPage": 25,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 25 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p26-s01.jpg",
+        "page": 75,
+        "originalPdfPage": 26,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 26 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p26-s02.jpg",
+        "page": 76,
+        "originalPdfPage": 26,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 26 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      },
+      {
+        "src": "journal_media/mafengwo-10501842/p26-s03.jpg",
+        "page": 77,
+        "originalPdfPage": 26,
+        "alt": "加拿大哈利法克斯：一个海滨小城的几日闲逛，原帖第 26 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "emilyy（原帖署名）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/10501842.html"
+      }
+    ],
+    "articleTextIncomplete": false,
+    "chapters": [
+      {
+        "p": 1,
+        "name": "初到哈利法克斯",
+        "detail": "城市古堡与港湾"
+      },
+      {
+        "p": 12,
+        "name": "泰坦尼克的海事故事",
+        "detail": "博物馆与历史展览"
+      },
+      {
+        "p": 27,
+        "name": "城市街区与教堂",
+        "detail": "哈利法克斯历史建筑"
+      },
+      {
+        "p": 33,
+        "name": "公共花园与城市绿意",
+        "detail": "公园花卉及步行风景"
+      },
+      {
+        "p": 51,
+        "name": "城市生活与郊游",
+        "detail": "旅行中的街景与自然"
+      },
+      {
+        "p": 66,
+        "name": "海滨步道与旅程尾声",
+        "detail": "港口、城市与行程收尾"
+      }
+    ]
+  },
+  {
+    "id": "mafengwo-20985964",
+    "sourceUrl": "https://www.mafengwo.cn/i/20985964.html",
+    "author": "马尔摩斯（上海）",
+    "rights": "not_verified",
+    "rightsRef": "马蜂窝原文及照片来自用户提供的 PDF 网页截图，转载授权未核实",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "journal_media/mafengwo-20985964/cover.jpg",
+        "credit": "马尔摩斯（上海）",
+        "alt": "美洲行｜加拿大 Halifax 龙虾之旅（2017.5）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/20985964.html"
+      }
+    ],
+    "screenshots": [
+      {
+        "src": "journal_media/mafengwo-20985964/p01-s01.jpg",
+        "page": 1,
+        "originalPdfPage": 1,
+        "alt": "美洲行｜加拿大 Halifax 龙虾之旅（2017.5），原帖第 1 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马尔摩斯（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/20985964.html"
+      },
+      {
+        "src": "journal_media/mafengwo-20985964/p01-s02.jpg",
+        "page": 2,
+        "originalPdfPage": 1,
+        "alt": "美洲行｜加拿大 Halifax 龙虾之旅（2017.5），原帖第 1 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马尔摩斯（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/20985964.html"
+      },
+      {
+        "src": "journal_media/mafengwo-20985964/p02-s01.jpg",
+        "page": 3,
+        "originalPdfPage": 2,
+        "alt": "美洲行｜加拿大 Halifax 龙虾之旅（2017.5），原帖第 2 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马尔摩斯（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/20985964.html"
+      },
+      {
+        "src": "journal_media/mafengwo-20985964/p02-s02.jpg",
+        "page": 4,
+        "originalPdfPage": 2,
+        "alt": "美洲行｜加拿大 Halifax 龙虾之旅（2017.5），原帖第 2 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马尔摩斯（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/20985964.html"
+      },
+      {
+        "src": "journal_media/mafengwo-20985964/p02-s03.jpg",
+        "page": 5,
+        "originalPdfPage": 2,
+        "alt": "美洲行｜加拿大 Halifax 龙虾之旅（2017.5），原帖第 2 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马尔摩斯（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/20985964.html"
+      },
+      {
+        "src": "journal_media/mafengwo-20985964/p03-s01.jpg",
+        "page": 6,
+        "originalPdfPage": 3,
+        "alt": "美洲行｜加拿大 Halifax 龙虾之旅（2017.5），原帖第 3 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马尔摩斯（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/20985964.html"
+      },
+      {
+        "src": "journal_media/mafengwo-20985964/p03-s02.jpg",
+        "page": 7,
+        "originalPdfPage": 3,
+        "alt": "美洲行｜加拿大 Halifax 龙虾之旅（2017.5），原帖第 3 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马尔摩斯（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/20985964.html"
+      },
+      {
+        "src": "journal_media/mafengwo-20985964/p03-s03.jpg",
+        "page": 8,
+        "originalPdfPage": 3,
+        "alt": "美洲行｜加拿大 Halifax 龙虾之旅（2017.5），原帖第 3 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马尔摩斯（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/20985964.html"
+      },
+      {
+        "src": "journal_media/mafengwo-20985964/p04-s01.jpg",
+        "page": 9,
+        "originalPdfPage": 4,
+        "alt": "美洲行｜加拿大 Halifax 龙虾之旅（2017.5），原帖第 4 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马尔摩斯（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/20985964.html"
+      },
+      {
+        "src": "journal_media/mafengwo-20985964/p04-s02.jpg",
+        "page": 10,
+        "originalPdfPage": 4,
+        "alt": "美洲行｜加拿大 Halifax 龙虾之旅（2017.5），原帖第 4 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马尔摩斯（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/20985964.html"
+      },
+      {
+        "src": "journal_media/mafengwo-20985964/p04-s03.jpg",
+        "page": 11,
+        "originalPdfPage": 4,
+        "alt": "美洲行｜加拿大 Halifax 龙虾之旅（2017.5），原帖第 4 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马尔摩斯（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/20985964.html"
+      },
+      {
+        "src": "journal_media/mafengwo-20985964/p05-s01.jpg",
+        "page": 12,
+        "originalPdfPage": 5,
+        "alt": "美洲行｜加拿大 Halifax 龙虾之旅（2017.5），原帖第 5 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马尔摩斯（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/20985964.html"
+      },
+      {
+        "src": "journal_media/mafengwo-20985964/p05-s02.jpg",
+        "page": 13,
+        "originalPdfPage": 5,
+        "alt": "美洲行｜加拿大 Halifax 龙虾之旅（2017.5），原帖第 5 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马尔摩斯（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/20985964.html"
+      },
+      {
+        "src": "journal_media/mafengwo-20985964/p05-s03.jpg",
+        "page": 14,
+        "originalPdfPage": 5,
+        "alt": "美洲行｜加拿大 Halifax 龙虾之旅（2017.5），原帖第 5 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马尔摩斯（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/20985964.html"
+      },
+      {
+        "src": "journal_media/mafengwo-20985964/p06-s01.jpg",
+        "page": 15,
+        "originalPdfPage": 6,
+        "alt": "美洲行｜加拿大 Halifax 龙虾之旅（2017.5），原帖第 6 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马尔摩斯（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/20985964.html"
+      },
+      {
+        "src": "journal_media/mafengwo-20985964/p06-s02.jpg",
+        "page": 16,
+        "originalPdfPage": 6,
+        "alt": "美洲行｜加拿大 Halifax 龙虾之旅（2017.5），原帖第 6 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马尔摩斯（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/20985964.html"
+      },
+      {
+        "src": "journal_media/mafengwo-20985964/p06-s03.jpg",
+        "page": 17,
+        "originalPdfPage": 6,
+        "alt": "美洲行｜加拿大 Halifax 龙虾之旅（2017.5），原帖第 6 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马尔摩斯（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/20985964.html"
+      },
+      {
+        "src": "journal_media/mafengwo-20985964/p07-s01.jpg",
+        "page": 18,
+        "originalPdfPage": 7,
+        "alt": "美洲行｜加拿大 Halifax 龙虾之旅（2017.5），原帖第 7 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马尔摩斯（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/20985964.html"
+      },
+      {
+        "src": "journal_media/mafengwo-20985964/p07-s02.jpg",
+        "page": 19,
+        "originalPdfPage": 7,
+        "alt": "美洲行｜加拿大 Halifax 龙虾之旅（2017.5），原帖第 7 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马尔摩斯（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/20985964.html"
+      },
+      {
+        "src": "journal_media/mafengwo-20985964/p07-s03.jpg",
+        "page": 20,
+        "originalPdfPage": 7,
+        "alt": "美洲行｜加拿大 Halifax 龙虾之旅（2017.5），原帖第 7 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马尔摩斯（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/20985964.html"
+      },
+      {
+        "src": "journal_media/mafengwo-20985964/p08-s01.jpg",
+        "page": 21,
+        "originalPdfPage": 8,
+        "alt": "美洲行｜加拿大 Halifax 龙虾之旅（2017.5），原帖第 8 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马尔摩斯（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/20985964.html"
+      },
+      {
+        "src": "journal_media/mafengwo-20985964/p08-s02.jpg",
+        "page": 22,
+        "originalPdfPage": 8,
+        "alt": "美洲行｜加拿大 Halifax 龙虾之旅（2017.5），原帖第 8 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马尔摩斯（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/20985964.html"
+      },
+      {
+        "src": "journal_media/mafengwo-20985964/p08-s03.jpg",
+        "page": 23,
+        "originalPdfPage": 8,
+        "alt": "美洲行｜加拿大 Halifax 龙虾之旅（2017.5），原帖第 8 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "马尔摩斯（上海）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/20985964.html"
+      }
+    ],
+    "articleTextIncomplete": false,
+    "chapters": [
+      {
+        "p": 1,
+        "name": "哈利法克斯初印象",
+        "detail": "抵达城市与港口"
+      },
+      {
+        "p": 3,
+        "name": "当地龙虾和海鲜",
+        "detail": "海鲜料理与餐馆体验"
+      },
+      {
+        "p": 9,
+        "name": "寻找海鲜好味道",
+        "detail": "龙虾、青口和沿途美食"
+      },
+      {
+        "p": 15,
+        "name": "沿海城市与林间步道",
+        "detail": "生活风景与旅行尾声"
+      }
+    ]
+  },
+  {
+    "id": "mafengwo-24614452",
+    "sourceUrl": "https://www.mafengwo.cn/i/24614452.html",
+    "author": "平安喜乐（卡尔加里）",
+    "rights": "not_verified",
+    "rightsRef": "马蜂窝原文及照片来自用户提供的 PDF 网页截图，转载授权未核实",
+    "paragraphs": [],
+    "images": [
+      {
+        "src": "journal_media/mafengwo-24614452/cover.jpg",
+        "credit": "平安喜乐（卡尔加里）",
+        "alt": "梦游哈法~~",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      }
+    ],
+    "screenshots": [
+      {
+        "src": "journal_media/mafengwo-24614452/p01-s01.jpg",
+        "page": 1,
+        "originalPdfPage": 1,
+        "alt": "梦游哈法~~，原帖第 1 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p01-s02.jpg",
+        "page": 2,
+        "originalPdfPage": 1,
+        "alt": "梦游哈法~~，原帖第 1 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p02-s01.jpg",
+        "page": 3,
+        "originalPdfPage": 2,
+        "alt": "梦游哈法~~，原帖第 2 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p02-s02.jpg",
+        "page": 4,
+        "originalPdfPage": 2,
+        "alt": "梦游哈法~~，原帖第 2 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p02-s03.jpg",
+        "page": 5,
+        "originalPdfPage": 2,
+        "alt": "梦游哈法~~，原帖第 2 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p03-s01.jpg",
+        "page": 6,
+        "originalPdfPage": 3,
+        "alt": "梦游哈法~~，原帖第 3 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p03-s02.jpg",
+        "page": 7,
+        "originalPdfPage": 3,
+        "alt": "梦游哈法~~，原帖第 3 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p03-s03.jpg",
+        "page": 8,
+        "originalPdfPage": 3,
+        "alt": "梦游哈法~~，原帖第 3 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p04-s01.jpg",
+        "page": 9,
+        "originalPdfPage": 4,
+        "alt": "梦游哈法~~，原帖第 4 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p04-s02.jpg",
+        "page": 10,
+        "originalPdfPage": 4,
+        "alt": "梦游哈法~~，原帖第 4 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p04-s03.jpg",
+        "page": 11,
+        "originalPdfPage": 4,
+        "alt": "梦游哈法~~，原帖第 4 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p05-s01.jpg",
+        "page": 12,
+        "originalPdfPage": 5,
+        "alt": "梦游哈法~~，原帖第 5 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p05-s02.jpg",
+        "page": 13,
+        "originalPdfPage": 5,
+        "alt": "梦游哈法~~，原帖第 5 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p05-s03.jpg",
+        "page": 14,
+        "originalPdfPage": 5,
+        "alt": "梦游哈法~~，原帖第 5 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p06-s01.jpg",
+        "page": 15,
+        "originalPdfPage": 6,
+        "alt": "梦游哈法~~，原帖第 6 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p06-s02.jpg",
+        "page": 16,
+        "originalPdfPage": 6,
+        "alt": "梦游哈法~~，原帖第 6 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p06-s03.jpg",
+        "page": 17,
+        "originalPdfPage": 6,
+        "alt": "梦游哈法~~，原帖第 6 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p07-s01.jpg",
+        "page": 18,
+        "originalPdfPage": 7,
+        "alt": "梦游哈法~~，原帖第 7 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p07-s02.jpg",
+        "page": 19,
+        "originalPdfPage": 7,
+        "alt": "梦游哈法~~，原帖第 7 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p07-s03.jpg",
+        "page": 20,
+        "originalPdfPage": 7,
+        "alt": "梦游哈法~~，原帖第 7 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p08-s01.jpg",
+        "page": 21,
+        "originalPdfPage": 8,
+        "alt": "梦游哈法~~，原帖第 8 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p08-s02.jpg",
+        "page": 22,
+        "originalPdfPage": 8,
+        "alt": "梦游哈法~~，原帖第 8 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p08-s03.jpg",
+        "page": 23,
+        "originalPdfPage": 8,
+        "alt": "梦游哈法~~，原帖第 8 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p09-s01.jpg",
+        "page": 24,
+        "originalPdfPage": 9,
+        "alt": "梦游哈法~~，原帖第 9 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p09-s02.jpg",
+        "page": 25,
+        "originalPdfPage": 9,
+        "alt": "梦游哈法~~，原帖第 9 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p09-s03.jpg",
+        "page": 26,
+        "originalPdfPage": 9,
+        "alt": "梦游哈法~~，原帖第 9 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p10-s01.jpg",
+        "page": 27,
+        "originalPdfPage": 10,
+        "alt": "梦游哈法~~，原帖第 10 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p10-s02.jpg",
+        "page": 28,
+        "originalPdfPage": 10,
+        "alt": "梦游哈法~~，原帖第 10 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p10-s03.jpg",
+        "page": 29,
+        "originalPdfPage": 10,
+        "alt": "梦游哈法~~，原帖第 10 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p11-s01.jpg",
+        "page": 30,
+        "originalPdfPage": 11,
+        "alt": "梦游哈法~~，原帖第 11 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p11-s02.jpg",
+        "page": 31,
+        "originalPdfPage": 11,
+        "alt": "梦游哈法~~，原帖第 11 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p11-s03.jpg",
+        "page": 32,
+        "originalPdfPage": 11,
+        "alt": "梦游哈法~~，原帖第 11 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p12-s01.jpg",
+        "page": 33,
+        "originalPdfPage": 12,
+        "alt": "梦游哈法~~，原帖第 12 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p12-s02.jpg",
+        "page": 34,
+        "originalPdfPage": 12,
+        "alt": "梦游哈法~~，原帖第 12 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p12-s03.jpg",
+        "page": 35,
+        "originalPdfPage": 12,
+        "alt": "梦游哈法~~，原帖第 12 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p13-s01.jpg",
+        "page": 36,
+        "originalPdfPage": 13,
+        "alt": "梦游哈法~~，原帖第 13 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p13-s02.jpg",
+        "page": 37,
+        "originalPdfPage": 13,
+        "alt": "梦游哈法~~，原帖第 13 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p13-s03.jpg",
+        "page": 38,
+        "originalPdfPage": 13,
+        "alt": "梦游哈法~~，原帖第 13 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p14-s01.jpg",
+        "page": 39,
+        "originalPdfPage": 14,
+        "alt": "梦游哈法~~，原帖第 14 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p14-s02.jpg",
+        "page": 40,
+        "originalPdfPage": 14,
+        "alt": "梦游哈法~~，原帖第 14 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p14-s03.jpg",
+        "page": 41,
+        "originalPdfPage": 14,
+        "alt": "梦游哈法~~，原帖第 14 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p15-s01.jpg",
+        "page": 42,
+        "originalPdfPage": 15,
+        "alt": "梦游哈法~~，原帖第 15 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p15-s02.jpg",
+        "page": 43,
+        "originalPdfPage": 15,
+        "alt": "梦游哈法~~，原帖第 15 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p15-s03.jpg",
+        "page": 44,
+        "originalPdfPage": 15,
+        "alt": "梦游哈法~~，原帖第 15 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p16-s01.jpg",
+        "page": 45,
+        "originalPdfPage": 16,
+        "alt": "梦游哈法~~，原帖第 16 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p16-s02.jpg",
+        "page": 46,
+        "originalPdfPage": 16,
+        "alt": "梦游哈法~~，原帖第 16 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p16-s03.jpg",
+        "page": 47,
+        "originalPdfPage": 16,
+        "alt": "梦游哈法~~，原帖第 16 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p17-s01.jpg",
+        "page": 48,
+        "originalPdfPage": 17,
+        "alt": "梦游哈法~~，原帖第 17 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p17-s02.jpg",
+        "page": 49,
+        "originalPdfPage": 17,
+        "alt": "梦游哈法~~，原帖第 17 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p17-s03.jpg",
+        "page": 50,
+        "originalPdfPage": 17,
+        "alt": "梦游哈法~~，原帖第 17 页，第 3 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p18-s01.jpg",
+        "page": 51,
+        "originalPdfPage": 18,
+        "alt": "梦游哈法~~，原帖第 18 页，第 1 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24614452/p18-s02.jpg",
+        "page": 52,
+        "originalPdfPage": 18,
+        "alt": "梦游哈法~~，原帖第 18 页，第 2 段图文",
+        "caption": "原帖图文 · 按顺序阅读",
+        "credit": "平安喜乐（卡尔加里）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24614452.html"
+      }
+    ],
+    "articleTextIncomplete": false,
+    "chapters": [
+      {
+        "p": 1,
+        "name": "抵达哈法",
+        "detail": "城市海湾与夕照"
+      },
+      {
+        "p": 12,
+        "name": "走进历史街区",
+        "detail": "古堡和教堂建筑"
+      },
+      {
+        "p": 24,
+        "name": "哈利法克斯城市漫步",
+        "detail": "街角、公共建筑与海滨"
+      },
+      {
+        "p": 30,
+        "name": "大西洋海事博物馆",
+        "detail": "历史船舶与展陈"
+      },
+      {
+        "p": 42,
+        "name": "泰坦尼克与海事记忆",
+        "detail": "博物馆参观与城市故事"
+      },
+      {
+        "p": 48,
+        "name": "佩吉湾的海岸",
+        "detail": "灯塔、岩石与大西洋"
+      }
+    ]
+  },
   {
     "id": "mafengwo-10575422",
     "sourceUrl": "https://www.mafengwo.cn/i/10575422.html",
