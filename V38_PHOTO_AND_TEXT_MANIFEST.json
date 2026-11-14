@@ -1,0 +1,204 @@
+{
+  "metrics": {
+    "photos": 327,
+    "paragraphs": 272,
+    "chapter_photos": {
+      "1": 3,
+      "2": 47,
+      "3": 1,
+      "4": 19,
+      "5": 3,
+      "6": 32,
+      "7": 21,
+      "8": 31,
+      "9": 4,
+      "10": 2,
+      "11": 15,
+      "12": 11,
+      "13": 1,
+      "14": 12,
+      "15": 8,
+      "16": 6,
+      "17": 22,
+      "18": 18,
+      "19": 26,
+      "20": 10,
+      "21": 17,
+      "22": 9,
+      "23": 8,
+      "24": 1
+    },
+    "source_pdf_pages": 98
+  },
+  "chapters": [
+    {
+      "chapter": 1,
+      "id": "overview",
+      "title": "概述",
+      "loc": "",
+      "summary": ""
+    },
+    {
+      "chapter": 2,
+      "id": "ns-fortress",
+      "title": "NS｜💂🏻‍♀️从未被攻破的军事堡垒",
+      "loc": "Halifax Citadel",
+      "summary": ""
+    },
+    {
+      "chapter": 3,
+      "id": "chapter-03",
+      "title": "NS|🐳追寻泰坦尼克号踪迹",
+      "loc": "Titanic / Halifax",
+      "summary": ""
+    },
+    {
+      "chapter": 4,
+      "id": "chapter-04",
+      "title": "NS|🚶🏻‍♀️漫步活力四射的海滨栈道",
+      "loc": "Halifax Waterfront",
+      "summary": ""
+    },
+    {
+      "chapter": 5,
+      "id": "chapter-05",
+      "title": "NS|🚪通往加拿大的门户PIER 21",
+      "loc": "Canadian Museum of Immigration at Pier 21",
+      "summary": ""
+    },
+    {
+      "chapter": 6,
+      "id": "chapter-06",
+      "title": "NS|🏠联合国历史文化遗产小镇",
+      "loc": "Old Town Lunenburg",
+      "summary": ""
+    },
+    {
+      "chapter": 7,
+      "id": "chapter-07",
+      "title": "NS|👍绝不能错过的北美最上镜灯塔",
+      "loc": "Peggy’s Cove Lighthouse",
+      "summary": ""
+    },
+    {
+      "chapter": 8,
+      "id": "chapter-08",
+      "title": "NS|⛰️高山与大海的邂逅",
+      "loc": "Cabot Trail / Cape Breton",
+      "summary": ""
+    },
+    {
+      "chapter": 9,
+      "id": "chapter-09",
+      "title": "NS|☎️寻踪电话发明者贝尔",
+      "loc": "Alexander Graham Bell National Historic Site",
+      "summary": ""
+    },
+    {
+      "chapter": 10,
+      "id": "chapter-10",
+      "title": "NB|🦞世界上最大的龙虾",
+      "loc": "The World’s Largest Lobster",
+      "summary": ""
+    },
+    {
+      "chapter": 11,
+      "id": "chapter-11",
+      "title": "NB|🌎北美七大自然奇观之一",
+      "loc": "Hopewell Rocks / Bay of Fundy",
+      "summary": ""
+    },
+    {
+      "chapter": 12,
+      "id": "chapter-12",
+      "title": "NB|🇺🇸与美国隔河相望的小镇",
+      "loc": "Saint Andrews by-the-Sea",
+      "summary": ""
+    },
+    {
+      "chapter": 13,
+      "id": "chapter-13",
+      "title": "NB|🧲一个神奇的小山坡",
+      "loc": "Magnetic Hill",
+      "summary": ""
+    },
+    {
+      "chapter": 14,
+      "id": "chapter-14",
+      "title": "PEI|🐣加拿大联邦诞生地",
+      "loc": "Charlottetown",
+      "summary": ""
+    },
+    {
+      "chapter": 15,
+      "id": "chapter-15",
+      "title": "PEI|🎀红发安妮的故事",
+      "loc": "Green Gables Heritage Place",
+      "summary": ""
+    },
+    {
+      "chapter": 16,
+      "id": "chapter-16",
+      "title": "PEI|🌉世界上最长跨冻海大桥",
+      "loc": "Confederation Bridge",
+      "summary": ""
+    },
+    {
+      "chapter": 17,
+      "id": "chapter-17",
+      "title": "PEI|🚢尽享大西洋风光",
+      "loc": "Wood Islands Ferry",
+      "summary": ""
+    },
+    {
+      "chapter": 18,
+      "id": "chapter-18",
+      "title": "【哈法周边】🌈彩色的渔人码头",
+      "loc": "Fisherman’s Cove",
+      "summary": ""
+    },
+    {
+      "chapter": 19,
+      "id": "chapter-19",
+      "title": "【哈法周边】💐维多利亚式花园",
+      "loc": "Halifax Public Gardens",
+      "summary": ""
+    },
+    {
+      "chapter": 20,
+      "id": "chapter-20",
+      "title": "【哈法周边】🏖️水晶新月沙滩",
+      "loc": "Crystal Crescent Beach",
+      "summary": ""
+    },
+    {
+      "chapter": 21,
+      "id": "chapter-21",
+      "title": "【哈法周边】❓3P......公园",
+      "loc": "Point Pleasant Park",
+      "summary": ""
+    },
+    {
+      "chapter": 22,
+      "id": "chapter-22",
+      "title": "【哈法周边】📖Halifax藏书阁",
+      "loc": "Halifax Central Library",
+      "summary": ""
+    },
+    {
+      "chapter": 23,
+      "id": "chapter-23",
+      "title": "【哈法周边】👩‍🌾最古老农贸市场",
+      "loc": "Halifax Seaport Farmers’ Market",
+      "summary": ""
+    },
+    {
+      "chapter": 24,
+      "id": "chapter-24",
+      "title": "行程规划建议&其他",
+      "loc": "Planning Notes",
+      "summary": ""
+    }
+  ],
+  "source_pdf": "screencapture-mafengwo-cn-i-17047903-html-2026-11-14-03_52_30.pdf"
+}

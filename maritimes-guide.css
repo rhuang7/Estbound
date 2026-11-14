@@ -79,3 +79,52 @@
 .eb-guide-backtoc{display:inline-flex!important;margin-top:8px;color:#166697!important;font-size:13px;font-weight:780;text-decoration:underline!important;text-underline-offset:4px}
 @media(max-width:900px){.eb-guide-sidebar{max-height:none;overflow:visible}.eb-guide-chapter-intro{padding:13px 14px}.eb-guide-chapter-gallery{gap:20px}}
 @media(max-width:650px){.eb-guide-chapter-figure>a{border-radius:6px}.eb-guide-chapter-figure figcaption{display:block}.eb-guide-chapter-figure figcaption span{display:block}.eb-guide-article h2{font-size:29px}}
+
+/* EASTBOUND V37 · 原文提取与独立图像阅读 */
+.eb-guide-editor-note{margin:-40px 0 38px;max-width:1120px;border:1px solid #dbe6ed;background:#edf3f8;padding:16px 21px;border-radius:16px;font-size:13px;line-height:1.85;color:#496477}
+.eb-guide-chapter-heading{display:flex;align-items:flex-start;justify-content:space-between;gap:16px;flex-wrap:wrap;margin-bottom:22px}
+.eb-guide-chapter-heading h2{margin:0 0 9px;font-size:clamp(27px,3vw,38px);line-height:1.3}
+.eb-guide-location-tag{display:inline-block;font-size:12px;color:#51748b;letter-spacing:.02em}
+.eb-guide-count{font-size:12px;color:#79909f;white-space:nowrap;border:1px solid #e0e9f0;background:#f5f9fc;padding:6px 11px;border-radius:100px}
+.eb-guide-readable-intro{padding:21px 24px;border-radius:15px;background:#f3f7fa;margin:0 0 23px;border-left:3px solid #34769c}
+.eb-guide-readable-intro p{font-size:15px;line-height:1.95;color:#3c5a6c;margin:9px 0 0}
+.eb-guide-kicker{font-size:10px;font-weight:800;letter-spacing:.15em;color:#66879a}
+.eb-guide-extracted-copy{margin:25px 0 30px;padding-bottom:4px}
+.eb-guide-copy-heading,.eb-guide-photo-heading{border-bottom:1px solid #e8eef2;margin:0 0 20px;padding:0 0 13px}
+.eb-guide-copy-heading span,.eb-guide-photo-heading span{display:block;font-size:11px;font-weight:800;letter-spacing:.16em;color:#44728c}
+.eb-guide-copy-heading small{font-size:11px;color:#83949e}
+.eb-guide-extracted-copy p{font-size:16px;color:#354e5e;line-height:2.05;margin:18px 0;letter-spacing:.012em}
+.eb-guide-extracted-copy p.eb-guide-historical-note{font-size:12px;line-height:1.8;color:#8b6a55}
+.eb-guide-photo-heading{margin-top:20px}.eb-guide-photo-heading p{font-size:12px;color:#7b8b99;line-height:1.8;margin:5px 0 0}
+.eb-guide-quality-note,.eb-guide-image-warning{border-radius:10px;padding:12px 15px;background:#fff7ed;color:#91653e;font-size:12px;line-height:1.7;border:1px solid #eed8bd;margin-bottom:18px}
+.eb-guide-photo-wall{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px;align-items:start}
+.eb-guide-photo-card{margin:0;min-width:0}.eb-guide-photo-card.eb-photo-wide{grid-column:1/-1}.eb-guide-photo-card a{display:flex;align-items:center;justify-content:center;overflow:hidden;background:#ecf1f4;border-radius:13px;min-height:70px}
+.eb-guide-photo-card img{display:block;max-width:100%;height:auto;max-height:none;object-fit:contain;transition:transform .25s ease}
+.eb-guide-photo-card a:hover img{transform:scale(1.012)}
+.eb-guide-photo-card.eb-photo-mid a{background:#f1f4f6}
+.eb-guide-photo-card.eb-photo-small a{background:#f8fafb}
+.eb-guide-photo-card.eb-photo-small img{width:min(100%,280px)}
+.eb-guide-photo-card figcaption{display:flex;flex-wrap:wrap;gap:4px 12px;justify-content:space-between;color:#8498a3;font-size:10px;line-height:1.5;padding:8px 2px 0}
+.eb-guide-original-source{margin:27px 0 18px;padding:16px 19px;border:1px solid #e0e9ef;border-radius:14px;background:#f9fbfc}
+.eb-guide-original-source summary{cursor:pointer;color:#48687e;font-size:12px;font-weight:720}
+.eb-guide-original-source p{font-size:12px;line-height:1.8;color:#83939f}
+.eb-guide-original-source a{display:inline-block;margin:3px 16px 0 0;font-size:12px;color:#1f709d;text-decoration:underline;text-underline-offset:3px}
+@media(max-width:650px){.eb-guide-editor-note{margin:0 0 24px}.eb-guide-readable-intro{padding:17px}.eb-guide-extracted-copy p{font-size:15px}.eb-guide-photo-wall{gap:12px;grid-template-columns:1fr}.eb-guide-photo-card{grid-column:1/-1}.eb-guide-photo-card.eb-photo-small img{width:min(100%,320px)}.eb-guide-photo-card figcaption{font-size:10px}}
+
+.eb-guide-extracted-copy figure.eb-guide-photo-inline{margin:24px 0 29px;max-width:760px}.eb-guide-extracted-copy figure.eb-guide-photo-inline a{display:flex;justify-content:center;background:#eaf0f4;border-radius:13px;overflow:hidden}.eb-guide-extracted-copy figure.eb-guide-photo-inline img{display:block;width:100%;height:auto;max-width:100%}.eb-guide-extracted-copy figure.eb-guide-photo-inline figcaption{display:flex;justify-content:space-between;flex-wrap:wrap;gap:9px;font-size:10px;color:#8a9ca8;padding:8px 2px}.eb-guide-extracted-copy figure.eb-guide-photo-inline + p{margin-top:25px}
+
+/* EASTBOUND V38 — full-resolution source photos, selectable OCR text */
+.v38-article {scroll-margin-top:30px}
+.v38-article h2 {margin-bottom:16px}
+.v38-editor-summary {color:#536b7b;font-size:13px;line-height:1.9;background:#f3f7fa;border-left:3px solid #557b91;border-radius:0 10px 10px 0;padding:12px 17px;margin:10px 0 24px}
+.v38-storystream {max-width:810px;margin:0 auto;display:flex;flex-direction:column;gap:0}
+.v38-storypara {font-size:16px;line-height:2.03;letter-spacing:.015em;color:#304655;overflow-wrap:anywhere;white-space:normal;margin:12px 0 18px;max-width:760px}
+.v38-storypara + .v38-storypara {margin-top:0}
+.v38-photo {margin:23px 0 32px;max-width:780px}
+.v38-photo a {display:block;width:100%;line-height:0;border-radius:12px;overflow:hidden;background:#eef3f6;border:1px solid #e1e9ef}
+.v38-photo img {display:block;max-width:100%;width:100%;height:auto;object-fit:contain;image-rendering:auto}
+.v38-photo figcaption {display:flex;justify-content:space-between;flex-wrap:wrap;gap:5px 15px;font-size:11px;line-height:1.7;color:#8296a4;padding:9px 3px 0}
+.v38-article .eb-guide-original-source {margin-top:34px;max-width:810px}
+.v38-article .eb-guide-original-source p {font-size:12px;color:#788c9c;line-height:1.85}
+.eb-guide-editor-note {border-color:#dce9f1;background:#f1f7fb}
+@media(max-width:650px){.v38-storypara{font-size:15px;line-height:1.98;margin:10px 0 15px}.v38-photo{margin:18px 0 26px}.v38-photo a{border-radius:8px}.v38-photo figcaption{font-size:10px;display:block}.v38-photo figcaption span{display:block}.v38-editor-summary{font-size:12px;padding:10px 13px}}
