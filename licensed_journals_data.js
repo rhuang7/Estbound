@@ -1,5 +1,1629 @@
-/* EASTBOUND V24: source screenshot ordering preserved; verify republishing rights. */
+/* EASTBOUND V27: screenshot sequence preserved; verify republication rights. */
 window.EASTBOUND_LICENSED_JOURNALS=[
+  {
+    "id": "mafengwo-8326746",
+    "sourceUrl": "https://www.mafengwo.cn/i/8326746.html",
+    "author": "千风蓝爱旅行（北京）",
+    "rights": "not_verified",
+    "rightsRef": "由用户提供的马蜂窝整页 PDF 截图裁切；全文与图片转载授权待核实",
+    "paragraphs": [],
+    "screenshots": [
+      {
+        "src": "journal_media/mafengwo-8326746/p01.jpg",
+        "page": 1,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 1 页",
+        "caption": "原帖图文第 1 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p02.jpg",
+        "page": 2,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 2 页",
+        "caption": "原帖图文第 2 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p03.jpg",
+        "page": 3,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 3 页",
+        "caption": "原帖图文第 3 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p04.jpg",
+        "page": 4,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 4 页",
+        "caption": "原帖图文第 4 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p05.jpg",
+        "page": 5,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 5 页",
+        "caption": "原帖图文第 5 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p06.jpg",
+        "page": 6,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 6 页",
+        "caption": "原帖图文第 6 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p07.jpg",
+        "page": 7,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 7 页",
+        "caption": "原帖图文第 7 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p08.jpg",
+        "page": 8,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 8 页",
+        "caption": "原帖图文第 8 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p09.jpg",
+        "page": 9,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 9 页",
+        "caption": "原帖图文第 9 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p10.jpg",
+        "page": 10,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 10 页",
+        "caption": "原帖图文第 10 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p11.jpg",
+        "page": 11,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 11 页",
+        "caption": "原帖图文第 11 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p12.jpg",
+        "page": 12,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 12 页",
+        "caption": "原帖图文第 12 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p13.jpg",
+        "page": 13,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 13 页",
+        "caption": "原帖图文第 13 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p14.jpg",
+        "page": 14,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 14 页",
+        "caption": "原帖图文第 14 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p15.jpg",
+        "page": 15,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 15 页",
+        "caption": "原帖图文第 15 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p16.jpg",
+        "page": 16,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 16 页",
+        "caption": "原帖图文第 16 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p17.jpg",
+        "page": 17,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 17 页",
+        "caption": "原帖图文第 17 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p18.jpg",
+        "page": 18,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 18 页",
+        "caption": "原帖图文第 18 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p19.jpg",
+        "page": 19,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 19 页",
+        "caption": "原帖图文第 19 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p20.jpg",
+        "page": 20,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 20 页",
+        "caption": "原帖图文第 20 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p21.jpg",
+        "page": 21,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 21 页",
+        "caption": "原帖图文第 21 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p22.jpg",
+        "page": 22,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 22 页",
+        "caption": "原帖图文第 22 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p23.jpg",
+        "page": 23,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 23 页",
+        "caption": "原帖图文第 23 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p24.jpg",
+        "page": 24,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 24 页",
+        "caption": "原帖图文第 24 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p25.jpg",
+        "page": 25,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 25 页",
+        "caption": "原帖图文第 25 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p26.jpg",
+        "page": 26,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 26 页",
+        "caption": "原帖图文第 26 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p27.jpg",
+        "page": 27,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 27 页",
+        "caption": "原帖图文第 27 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p28.jpg",
+        "page": 28,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 28 页",
+        "caption": "原帖图文第 28 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p29.jpg",
+        "page": 29,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 29 页",
+        "caption": "原帖图文第 29 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p30.jpg",
+        "page": 30,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 30 页",
+        "caption": "原帖图文第 30 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p31.jpg",
+        "page": 31,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 31 页",
+        "caption": "原帖图文第 31 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p32.jpg",
+        "page": 32,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 32 页",
+        "caption": "原帖图文第 32 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p33.jpg",
+        "page": 33,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 33 页",
+        "caption": "原帖图文第 33 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p34.jpg",
+        "page": 34,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 34 页",
+        "caption": "原帖图文第 34 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p35.jpg",
+        "page": 35,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 35 页",
+        "caption": "原帖图文第 35 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p36.jpg",
+        "page": 36,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 36 页",
+        "caption": "原帖图文第 36 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p37.jpg",
+        "page": 37,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 37 页",
+        "caption": "原帖图文第 37 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p38.jpg",
+        "page": 38,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 38 页",
+        "caption": "原帖图文第 38 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p39.jpg",
+        "page": 39,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 39 页",
+        "caption": "原帖图文第 39 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p40.jpg",
+        "page": 40,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 40 页",
+        "caption": "原帖图文第 40 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p41.jpg",
+        "page": 41,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 41 页",
+        "caption": "原帖图文第 41 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p42.jpg",
+        "page": 42,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 42 页",
+        "caption": "原帖图文第 42 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p43.jpg",
+        "page": 43,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 43 页",
+        "caption": "原帖图文第 43 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p44.jpg",
+        "page": 44,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 44 页",
+        "caption": "原帖图文第 44 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p45.jpg",
+        "page": 45,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 45 页",
+        "caption": "原帖图文第 45 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p46.jpg",
+        "page": 46,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 46 页",
+        "caption": "原帖图文第 46 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p47.jpg",
+        "page": 47,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 47 页",
+        "caption": "原帖图文第 47 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p48.jpg",
+        "page": 48,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 48 页",
+        "caption": "原帖图文第 48 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p49.jpg",
+        "page": 49,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 49 页",
+        "caption": "原帖图文第 49 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p50.jpg",
+        "page": 50,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 50 页",
+        "caption": "原帖图文第 50 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p51.jpg",
+        "page": 51,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 51 页",
+        "caption": "原帖图文第 51 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p52.jpg",
+        "page": 52,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 52 页",
+        "caption": "原帖图文第 52 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p53.jpg",
+        "page": 53,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 53 页",
+        "caption": "原帖图文第 53 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p54.jpg",
+        "page": 54,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 54 页",
+        "caption": "原帖图文第 54 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p55.jpg",
+        "page": 55,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 55 页",
+        "caption": "原帖图文第 55 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p56.jpg",
+        "page": 56,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 56 页",
+        "caption": "原帖图文第 56 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p57.jpg",
+        "page": 57,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 57 页",
+        "caption": "原帖图文第 57 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p58.jpg",
+        "page": 58,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 58 页",
+        "caption": "原帖图文第 58 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p59.jpg",
+        "page": 59,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 59 页",
+        "caption": "原帖图文第 59 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p60.jpg",
+        "page": 60,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 60 页",
+        "caption": "原帖图文第 60 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p61.jpg",
+        "page": 61,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 61 页",
+        "caption": "原帖图文第 61 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p62.jpg",
+        "page": 62,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 62 页",
+        "caption": "原帖图文第 62 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p63.jpg",
+        "page": 63,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 63 页",
+        "caption": "原帖图文第 63 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p64.jpg",
+        "page": 64,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 64 页",
+        "caption": "原帖图文第 64 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p65.jpg",
+        "page": 65,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 65 页",
+        "caption": "原帖图文第 65 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p66.jpg",
+        "page": 66,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 66 页",
+        "caption": "原帖图文第 66 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p67.jpg",
+        "page": 67,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 67 页",
+        "caption": "原帖图文第 67 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p68.jpg",
+        "page": 68,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 68 页",
+        "caption": "原帖图文第 68 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p69.jpg",
+        "page": 69,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 69 页",
+        "caption": "原帖图文第 69 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p70.jpg",
+        "page": 70,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 70 页",
+        "caption": "原帖图文第 70 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p71.jpg",
+        "page": 71,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 71 页",
+        "caption": "原帖图文第 71 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p72.jpg",
+        "page": 72,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 72 页",
+        "caption": "原帖图文第 72 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p73.jpg",
+        "page": 73,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 73 页",
+        "caption": "原帖图文第 73 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p74.jpg",
+        "page": 74,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 74 页",
+        "caption": "原帖图文第 74 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p75.jpg",
+        "page": 75,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 75 页",
+        "caption": "原帖图文第 75 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p76.jpg",
+        "page": 76,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 76 页",
+        "caption": "原帖图文第 76 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p77.jpg",
+        "page": 77,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 77 页",
+        "caption": "原帖图文第 77 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p78.jpg",
+        "page": 78,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 78 页",
+        "caption": "原帖图文第 78 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p79.jpg",
+        "page": 79,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 79 页",
+        "caption": "原帖图文第 79 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p80.jpg",
+        "page": 80,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 80 页",
+        "caption": "原帖图文第 80 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p81.jpg",
+        "page": 81,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 81 页",
+        "caption": "原帖图文第 81 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p82.jpg",
+        "page": 82,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 82 页",
+        "caption": "原帖图文第 82 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p83.jpg",
+        "page": 83,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 83 页",
+        "caption": "原帖图文第 83 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p84.jpg",
+        "page": 84,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 84 页",
+        "caption": "原帖图文第 84 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p85.jpg",
+        "page": 85,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 85 页",
+        "caption": "原帖图文第 85 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p86.jpg",
+        "page": 86,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 86 页",
+        "caption": "原帖图文第 86 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p87.jpg",
+        "page": 87,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 87 页",
+        "caption": "原帖图文第 87 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p88.jpg",
+        "page": 88,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 88 页",
+        "caption": "原帖图文第 88 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p89.jpg",
+        "page": 89,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 89 页",
+        "caption": "原帖图文第 89 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p90.jpg",
+        "page": 90,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 90 页",
+        "caption": "原帖图文第 90 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      },
+      {
+        "src": "journal_media/mafengwo-8326746/p91.jpg",
+        "page": 91,
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地：原文图文第 91 页",
+        "caption": "原帖图文第 91 页",
+        "credit": "千风蓝爱旅行（北京）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html"
+      }
+    ],
+    "images": [
+      {
+        "src": "journal_media/mafengwo-8326746/cover.jpg",
+        "alt": "行摄哈利法克斯——追寻蓝海幻梦的应许之地封面",
+        "caption": "原帖封面截取",
+        "credit": "千风蓝爱旅行（北京）",
+        "sourceUrl": "https://www.mafengwo.cn/i/8326746.html",
+        "rightsRef": "not_verified"
+      }
+    ],
+    "articleTextIncomplete": false,
+    "chapters": [
+      {
+        "p": 1,
+        "name": "初识哈利法克斯",
+        "detail": "旅程引言与海港风光"
+      },
+      {
+        "p": 5,
+        "name": "旅程第一周",
+        "detail": "抵达与城市印象"
+      },
+      {
+        "p": 20,
+        "name": "城市街巷与大学",
+        "detail": "行走哈利法克斯的日常"
+      },
+      {
+        "p": 33,
+        "name": "灯塔与海岸风景",
+        "detail": "沿海景点与拍照"
+      },
+      {
+        "p": 44,
+        "name": "历史建筑和城市地标",
+        "detail": "从建筑细节走入城市"
+      },
+      {
+        "p": 59,
+        "name": "滨海见闻与日常",
+        "detail": "沿路景点、美食和人文"
+      },
+      {
+        "p": 75,
+        "name": "海滨生活与城市色彩",
+        "detail": "旅途人物和夏日见闻"
+      },
+      {
+        "p": 87,
+        "name": "旅途尾声",
+        "detail": "当地料理与作者后记"
+      }
+    ]
+  },
+  {
+    "id": "mafengwo-24420894",
+    "sourceUrl": "https://www.mafengwo.cn/i/24420894.html",
+    "author": "dianxin",
+    "rights": "not_verified",
+    "rightsRef": "由用户提供的马蜂窝整页 PDF 截图裁切；全文与图片转载授权待核实",
+    "paragraphs": [],
+    "screenshots": [
+      {
+        "src": "journal_media/mafengwo-24420894/p01.jpg",
+        "page": 1,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 1 页",
+        "caption": "原帖图文第 1 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p02.jpg",
+        "page": 2,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 2 页",
+        "caption": "原帖图文第 2 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p03.jpg",
+        "page": 3,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 3 页",
+        "caption": "原帖图文第 3 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p04.jpg",
+        "page": 4,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 4 页",
+        "caption": "原帖图文第 4 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p05.jpg",
+        "page": 5,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 5 页",
+        "caption": "原帖图文第 5 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p06.jpg",
+        "page": 6,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 6 页",
+        "caption": "原帖图文第 6 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p07.jpg",
+        "page": 7,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 7 页",
+        "caption": "原帖图文第 7 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p08.jpg",
+        "page": 8,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 8 页",
+        "caption": "原帖图文第 8 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p09.jpg",
+        "page": 9,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 9 页",
+        "caption": "原帖图文第 9 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p10.jpg",
+        "page": 10,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 10 页",
+        "caption": "原帖图文第 10 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p11.jpg",
+        "page": 11,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 11 页",
+        "caption": "原帖图文第 11 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p12.jpg",
+        "page": 12,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 12 页",
+        "caption": "原帖图文第 12 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p13.jpg",
+        "page": 13,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 13 页",
+        "caption": "原帖图文第 13 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p14.jpg",
+        "page": 14,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 14 页",
+        "caption": "原帖图文第 14 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p15.jpg",
+        "page": 15,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 15 页",
+        "caption": "原帖图文第 15 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p16.jpg",
+        "page": 16,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 16 页",
+        "caption": "原帖图文第 16 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p17.jpg",
+        "page": 17,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 17 页",
+        "caption": "原帖图文第 17 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p18.jpg",
+        "page": 18,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 18 页",
+        "caption": "原帖图文第 18 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p19.jpg",
+        "page": 19,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 19 页",
+        "caption": "原帖图文第 19 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p20.jpg",
+        "page": 20,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 20 页",
+        "caption": "原帖图文第 20 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p21.jpg",
+        "page": 21,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 21 页",
+        "caption": "原帖图文第 21 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p22.jpg",
+        "page": 22,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 22 页",
+        "caption": "原帖图文第 22 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p23.jpg",
+        "page": 23,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 23 页",
+        "caption": "原帖图文第 23 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p24.jpg",
+        "page": 24,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 24 页",
+        "caption": "原帖图文第 24 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p25.jpg",
+        "page": 25,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 25 页",
+        "caption": "原帖图文第 25 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p26.jpg",
+        "page": 26,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 26 页",
+        "caption": "原帖图文第 26 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p27.jpg",
+        "page": 27,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 27 页",
+        "caption": "原帖图文第 27 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p28.jpg",
+        "page": 28,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 28 页",
+        "caption": "原帖图文第 28 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p29.jpg",
+        "page": 29,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 29 页",
+        "caption": "原帖图文第 29 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p30.jpg",
+        "page": 30,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 30 页",
+        "caption": "原帖图文第 30 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p31.jpg",
+        "page": 31,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 31 页",
+        "caption": "原帖图文第 31 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p32.jpg",
+        "page": 32,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 32 页",
+        "caption": "原帖图文第 32 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p33.jpg",
+        "page": 33,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 33 页",
+        "caption": "原帖图文第 33 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p34.jpg",
+        "page": 34,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 34 页",
+        "caption": "原帖图文第 34 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p35.jpg",
+        "page": 35,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 35 页",
+        "caption": "原帖图文第 35 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p36.jpg",
+        "page": 36,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 36 页",
+        "caption": "原帖图文第 36 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p37.jpg",
+        "page": 37,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 37 页",
+        "caption": "原帖图文第 37 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p38.jpg",
+        "page": 38,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 38 页",
+        "caption": "原帖图文第 38 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p39.jpg",
+        "page": 39,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 39 页",
+        "caption": "原帖图文第 39 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p40.jpg",
+        "page": 40,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 40 页",
+        "caption": "原帖图文第 40 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p41.jpg",
+        "page": 41,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 41 页",
+        "caption": "原帖图文第 41 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p42.jpg",
+        "page": 42,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 42 页",
+        "caption": "原帖图文第 42 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p43.jpg",
+        "page": 43,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 43 页",
+        "caption": "原帖图文第 43 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p44.jpg",
+        "page": 44,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 44 页",
+        "caption": "原帖图文第 44 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p45.jpg",
+        "page": 45,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 45 页",
+        "caption": "原帖图文第 45 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p46.jpg",
+        "page": 46,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 46 页",
+        "caption": "原帖图文第 46 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p47.jpg",
+        "page": 47,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 47 页",
+        "caption": "原帖图文第 47 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p48.jpg",
+        "page": 48,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 48 页",
+        "caption": "原帖图文第 48 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p49.jpg",
+        "page": 49,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 49 页",
+        "caption": "原帖图文第 49 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p50.jpg",
+        "page": 50,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 50 页",
+        "caption": "原帖图文第 50 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p51.jpg",
+        "page": 51,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 51 页",
+        "caption": "原帖图文第 51 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p52.jpg",
+        "page": 52,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 52 页",
+        "caption": "原帖图文第 52 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p53.jpg",
+        "page": 53,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 53 页",
+        "caption": "原帖图文第 53 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p54.jpg",
+        "page": 54,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 54 页",
+        "caption": "原帖图文第 54 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p55.jpg",
+        "page": 55,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 55 页",
+        "caption": "原帖图文第 55 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p56.jpg",
+        "page": 56,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 56 页",
+        "caption": "原帖图文第 56 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p57.jpg",
+        "page": 57,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 57 页",
+        "caption": "原帖图文第 57 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p58.jpg",
+        "page": 58,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 58 页",
+        "caption": "原帖图文第 58 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p59.jpg",
+        "page": 59,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 59 页",
+        "caption": "原帖图文第 59 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24420894/p60.jpg",
+        "page": 60,
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春：原文图文第 60 页",
+        "caption": "原帖图文第 60 页",
+        "credit": "dianxin",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html"
+      }
+    ],
+    "images": [
+      {
+        "src": "journal_media/mafengwo-24420894/cover.jpg",
+        "alt": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春封面",
+        "caption": "原帖封面截取",
+        "credit": "dianxin",
+        "sourceUrl": "https://www.mafengwo.cn/i/24420894.html",
+        "rightsRef": "not_verified"
+      }
+    ],
+    "articleTextIncomplete": false,
+    "chapters": [
+      {
+        "p": 1,
+        "name": "哈利法克斯公共图书馆",
+        "detail": "城市与现代建筑"
+      },
+      {
+        "p": 7,
+        "name": "泰坦尼克的故事",
+        "detail": "博物馆资料与历史记忆"
+      },
+      {
+        "p": 10,
+        "name": "泰坦尼克墓园",
+        "detail": "雪季探访"
+      },
+      {
+        "p": 13,
+        "name": "城市冰球文化",
+        "detail": "球场与当地体育"
+      },
+      {
+        "p": 22,
+        "name": "城市街巷与公共空间",
+        "detail": "历史街区和海滨景观"
+      },
+      {
+        "p": 33,
+        "name": "沿海与自然地标",
+        "detail": "港湾和海岸路途"
+      },
+      {
+        "p": 43,
+        "name": "步行与城市日常",
+        "detail": "街区生活与城市风景"
+      },
+      {
+        "p": 49,
+        "name": "郊外山林",
+        "detail": "林地、步道与旅行收尾"
+      }
+    ]
+  },
+  {
+    "id": "mafengwo-24525382",
+    "sourceUrl": "https://www.mafengwo.cn/i/24525382.html",
+    "author": "Jerry（多伦多）",
+    "rights": "not_verified",
+    "rightsRef": "由用户提供的马蜂窝整页 PDF 截图裁切；全文与图片转载授权待核实",
+    "paragraphs": [],
+    "screenshots": [
+      {
+        "src": "journal_media/mafengwo-24525382/p01.jpg",
+        "page": 1,
+        "alt": "海洋省自驾露营19日 · Day 6：芬迪湾的海上日出：原文图文第 1 页",
+        "caption": "原帖图文第 1 页",
+        "credit": "Jerry（多伦多）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24525382.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24525382/p02.jpg",
+        "page": 2,
+        "alt": "海洋省自驾露营19日 · Day 6：芬迪湾的海上日出：原文图文第 2 页",
+        "caption": "原帖图文第 2 页",
+        "credit": "Jerry（多伦多）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24525382.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24525382/p03.jpg",
+        "page": 3,
+        "alt": "海洋省自驾露营19日 · Day 6：芬迪湾的海上日出：原文图文第 3 页",
+        "caption": "原帖图文第 3 页",
+        "credit": "Jerry（多伦多）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24525382.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24525382/p04.jpg",
+        "page": 4,
+        "alt": "海洋省自驾露营19日 · Day 6：芬迪湾的海上日出：原文图文第 4 页",
+        "caption": "原帖图文第 4 页",
+        "credit": "Jerry（多伦多）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24525382.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24525382/p05.jpg",
+        "page": 5,
+        "alt": "海洋省自驾露营19日 · Day 6：芬迪湾的海上日出：原文图文第 5 页",
+        "caption": "原帖图文第 5 页",
+        "credit": "Jerry（多伦多）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24525382.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24525382/p06.jpg",
+        "page": 6,
+        "alt": "海洋省自驾露营19日 · Day 6：芬迪湾的海上日出：原文图文第 6 页",
+        "caption": "原帖图文第 6 页",
+        "credit": "Jerry（多伦多）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24525382.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24525382/p07.jpg",
+        "page": 7,
+        "alt": "海洋省自驾露营19日 · Day 6：芬迪湾的海上日出：原文图文第 7 页",
+        "caption": "原帖图文第 7 页",
+        "credit": "Jerry（多伦多）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24525382.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24525382/p08.jpg",
+        "page": 8,
+        "alt": "海洋省自驾露营19日 · Day 6：芬迪湾的海上日出：原文图文第 8 页",
+        "caption": "原帖图文第 8 页",
+        "credit": "Jerry（多伦多）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24525382.html"
+      },
+      {
+        "src": "journal_media/mafengwo-24525382/p09.jpg",
+        "page": 9,
+        "alt": "海洋省自驾露营19日 · Day 6：芬迪湾的海上日出：原文图文第 9 页",
+        "caption": "原帖图文第 9 页",
+        "credit": "Jerry（多伦多）",
+        "rightsRef": "not_verified",
+        "sourceUrl": "https://www.mafengwo.cn/i/24525382.html"
+      }
+    ],
+    "images": [
+      {
+        "src": "journal_media/mafengwo-24525382/cover.jpg",
+        "alt": "海洋省自驾露营19日 · Day 6：芬迪湾的海上日出封面",
+        "caption": "原帖封面截取",
+        "credit": "Jerry（多伦多）",
+        "sourceUrl": "https://www.mafengwo.cn/i/24525382.html",
+        "rightsRef": "not_verified"
+      }
+    ],
+    "articleTextIncomplete": false,
+    "chapters": [
+      {
+        "p": 1,
+        "name": "芬迪湾的海上日出",
+        "detail": "清晨天色与海湾日出"
+      },
+      {
+        "p": 2,
+        "name": "营地清晨与野生动物",
+        "detail": "晨间散步与加拿大鹅"
+      },
+      {
+        "p": 3,
+        "name": "MacLaren Pond 散步",
+        "detail": "湖景与公园步道"
+      },
+      {
+        "p": 4,
+        "name": "Magnetic Hill 磁力山",
+        "detail": "蒙克顿附近的公路景点"
+      },
+      {
+        "p": 6,
+        "name": "离开新不伦瑞克",
+        "detail": "进入新斯科舍省"
+      },
+      {
+        "p": 7,
+        "name": "海岸步道和落脚点",
+        "detail": "住宿与沿途路线"
+      },
+      {
+        "p": 8,
+        "name": "抵达哈利法克斯",
+        "detail": "日落、轮渡与城市天际线"
+      }
+    ]
+  },
   {
     "id": "mafengwo-24760353",
     "sourceUrl": "https://www.mafengwo.cn/i/24760353.html",

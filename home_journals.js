@@ -11,7 +11,7 @@
   const city=document.getElementById('reading-city');
   const empty=document.getElementById('reading-no-match');
   if(!section||!first||!second||!more)return;
-  // Capture all six from the HTML itself. No external data scripts needed.
+  // Capture all journals from the HTML itself. No external data scripts needed.
   const originals=[];
   const seen=new Set();
   [...first.querySelectorAll('[data-journal-id]'),...second.querySelectorAll('[data-journal-id]')].forEach(node=>{

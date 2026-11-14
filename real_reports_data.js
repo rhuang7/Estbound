@@ -1,5 +1,50 @@
-/* EASTBOUND V24: 6 user-provided Mafengwo articles, permissions not verified. */
+/* EASTBOUND V27: 9 user supplied Mafengwo page archives; permissions not verified. */
 window.EASTBOUND_REAL_REPORTS=[
+  {
+    "title": "行摄哈利法克斯——追寻蓝海幻梦的应许之地",
+    "region": "ns",
+    "city": "halifax",
+    "author": "千风蓝爱旅行（北京）",
+    "date": "2018-01-27",
+    "summary": "从哈利法克斯港口与海岸开始，记录城市街巷、历史建筑、灯塔、旅途见闻及海边日落，沿着作者的多周行程慢慢展开。",
+    "id": "mafengwo-8326746",
+    "source": "马蜂窝",
+    "url": "https://www.mafengwo.cn/i/8326746.html",
+    "language": "zh",
+    "languageBasis": "user-provided full-page screenshot PDF",
+    "rights": "not_verified",
+    "originNote": "来源：用户提供的马蜂窝原帖网页截图；公开转载授权待核实"
+  },
+  {
+    "title": "走遍加拿大——哈利法克斯（Halifax）小记｜2024 春",
+    "region": "ns",
+    "city": "halifax",
+    "author": "dianxin",
+    "date": "2024-03-09",
+    "summary": "同系列的春季独立篇章：从公共图书馆、泰坦尼克纪念展和墓园，到冰球赛场、海滨城市建筑及林间步道。与此前的同名游记有部分开头重合，但后半段不同。",
+    "id": "mafengwo-24420894",
+    "source": "马蜂窝",
+    "url": "https://www.mafengwo.cn/i/24420894.html",
+    "language": "zh",
+    "languageBasis": "user-provided full-page screenshot PDF",
+    "rights": "not_verified",
+    "originNote": "来源：用户提供的马蜂窝原帖网页截图；公开转载授权待核实"
+  },
+  {
+    "title": "海洋省自驾露营19日 · Day 6：芬迪湾的海上日出",
+    "region": "nb",
+    "city": "fundy",
+    "author": "Jerry（多伦多）",
+    "date": "2024-08-04",
+    "summary": "在芬迪湾观海上日出，沿 MacLaren Pond 的步道亲近野生动物，探访 Magnetic Hill，最终驶入新斯科舍省并抵达哈利法克斯。",
+    "id": "mafengwo-24525382",
+    "source": "马蜂窝",
+    "url": "https://www.mafengwo.cn/i/24525382.html",
+    "language": "zh",
+    "languageBasis": "user-provided full-page screenshot PDF",
+    "rights": "not_verified",
+    "originNote": "来源：用户提供的马蜂窝原帖网页截图；公开转载授权待核实"
+  },
   {
     "id": "mafengwo-24760353",
     "title": "加拿大海洋省旅行记：哈利法克斯、卢嫩堡与大西洋海岸",
