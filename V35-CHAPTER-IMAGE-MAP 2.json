@@ -1,0 +1,290 @@
+{
+  "chapters": [
+    {
+      "number": 3,
+      "title": "NS|🐳追寻泰坦尼克号踪迹",
+      "images": [
+        {
+          "src": "screencapture-mafengwo-cn-i-17047903-html-2026-11-14-01_03_52-2(1).png",
+          "original": "assets/guides/maritimes-chapters/ch03-01-original.png",
+          "webp": "assets/guides/maritimes-chapters/ch03-01.webp",
+          "input_dimensions": [
+            720,
+            1811
+          ],
+          "display_dimensions": [
+            800,
+            2012
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "NS|🚶🏻‍♀️漫步活力四射的海滨栈道",
+      "images": [
+        {
+          "src": "screencapture-mafengwo-cn-i-17047903-html-2026-11-14-01_03_52-2(2).png",
+          "original": "assets/guides/maritimes-chapters/ch04-01-original.png",
+          "webp": "assets/guides/maritimes-chapters/ch04-01.webp",
+          "input_dimensions": [
+            100,
+            2048
+          ],
+          "display_dimensions": [
+            650,
+            13312
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "NS|🚪通往加拿大的门户PIER 21",
+      "images": [
+        {
+          "src": "image(20261114-071652).png",
+          "original": "assets/guides/maritimes-chapters/ch05-01-original.png",
+          "webp": "assets/guides/maritimes-chapters/ch05-01.webp",
+          "input_dimensions": [
+            701,
+            1802
+          ],
+          "display_dimensions": [
+            800,
+            2056
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "NS|🏠联合国历史文化遗产小镇",
+      "images": [
+        {
+          "src": "screencapture-mafengwo-cn-i-17047903-html-2026-11-14-01_03_52-2(3).png",
+          "original": "assets/guides/maritimes-chapters/ch06-01-original.png",
+          "webp": "assets/guides/maritimes-chapters/ch06-01.webp",
+          "input_dimensions": [
+            515,
+            2048
+          ],
+          "display_dimensions": [
+            800,
+            3181
+          ]
+        },
+        {
+          "src": "screencapture-mafengwo-cn-i-17047903-html-2026-11-14-01_03_52-3.png",
+          "original": "assets/guides/maritimes-chapters/ch06-02-original.png",
+          "webp": "assets/guides/maritimes-chapters/ch06-02.webp",
+          "input_dimensions": [
+            70,
+            2047
+          ],
+          "display_dimensions": [
+            455,
+            13306
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "NS|👍绝不能错过的北美最上镜灯塔",
+      "images": [
+        {
+          "src": "screencapture-mafengwo-cn-i-17047903-html-2026-11-14-01_03_52-3(1).png",
+          "original": "assets/guides/maritimes-chapters/ch07-01-original.png",
+          "webp": "assets/guides/maritimes-chapters/ch07-01.webp",
+          "input_dimensions": [
+            165,
+            2048
+          ],
+          "display_dimensions": [
+            800,
+            9930
+          ]
+        },
+        {
+          "src": "screencapture-mafengwo-cn-i-17047903-html-2026-11-14-01_03_52-4.png",
+          "original": "assets/guides/maritimes-chapters/ch07-02-original.png",
+          "webp": "assets/guides/maritimes-chapters/ch07-02.webp",
+          "input_dimensions": [
+            339,
+            2048
+          ],
+          "display_dimensions": [
+            800,
+            4833
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "NS|⛰️高山与大海的邂逅",
+      "images": [
+        {
+          "src": "screencapture-mafengwo-cn-i-17047903-html-2026-11-14-01_03_52-4(1).png",
+          "original": "assets/guides/maritimes-chapters/ch08-01-original.png",
+          "webp": "assets/guides/maritimes-chapters/ch08-01.webp",
+          "input_dimensions": [
+            93,
+            2047
+          ],
+          "display_dimensions": [
+            604,
+            13294
+          ]
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "NS|☎️寻踪电话发明者贝尔",
+      "images": [
+        {
+          "src": "image(20261114-072358).png",
+          "original": "assets/guides/maritimes-chapters/ch09-01-original.png",
+          "webp": "assets/guides/maritimes-chapters/ch09-01.webp",
+          "input_dimensions": [
+            659,
+            2048
+          ],
+          "display_dimensions": [
+            800,
+            2486
+          ]
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "NB|🦞世界上最大的龙虾",
+      "images": [
+        {
+          "src": "image(20261114-072427).png",
+          "original": "assets/guides/maritimes-chapters/ch10-01-original.png",
+          "webp": "assets/guides/maritimes-chapters/ch10-01.webp",
+          "input_dimensions": [
+            706,
+            1192
+          ],
+          "display_dimensions": [
+            800,
+            1351
+          ]
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "NB|🌎北美七大自然奇观之一",
+      "images": [
+        {
+          "src": "image(20261114-073052).png",
+          "original": "assets/guides/maritimes-chapters/ch11-01-original.png",
+          "webp": "assets/guides/maritimes-chapters/ch11-01.webp",
+          "input_dimensions": [
+            180,
+            2048
+          ],
+          "display_dimensions": [
+            800,
+            9102
+          ]
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "NB|🇺🇸与美国隔河相望的小镇",
+      "images": [
+        {
+          "src": "image(20261114-073153).png",
+          "original": "assets/guides/maritimes-chapters/ch12-01-original.png",
+          "webp": "assets/guides/maritimes-chapters/ch12-01.webp",
+          "input_dimensions": [
+            371,
+            2047
+          ],
+          "display_dimensions": [
+            800,
+            4414
+          ]
+        },
+        {
+          "src": "image(20261114-073222).png",
+          "original": "assets/guides/maritimes-chapters/ch12-02-original.png",
+          "webp": "assets/guides/maritimes-chapters/ch12-02.webp",
+          "input_dimensions": [
+            506,
+            2048
+          ],
+          "display_dimensions": [
+            800,
+            3238
+          ]
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "NB|🧲一个神奇的小山坡",
+      "images": [
+        {
+          "src": "image(20261114-073245).png",
+          "original": "assets/guides/maritimes-chapters/ch13-01-original.png",
+          "webp": "assets/guides/maritimes-chapters/ch13-01.webp",
+          "input_dimensions": [
+            704,
+            764
+          ],
+          "display_dimensions": [
+            800,
+            868
+          ]
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "PEI|🐣加拿大联邦诞生地",
+      "images": [
+        {
+          "src": "image(20261114-073350).png",
+          "original": "assets/guides/maritimes-chapters/ch14-01-original.png",
+          "webp": "assets/guides/maritimes-chapters/ch14-01.webp",
+          "input_dimensions": [
+            210,
+            2047
+          ],
+          "display_dimensions": [
+            800,
+            7798
+          ]
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "PEI|🎀红发安妮的故事",
+      "images": [
+        {
+          "src": "image(20261114-073509).png",
+          "original": "assets/guides/maritimes-chapters/ch15-01-original.png",
+          "webp": "assets/guides/maritimes-chapters/ch15-01.webp",
+          "input_dimensions": [
+            283,
+            2048
+          ],
+          "display_dimensions": [
+            800,
+            5789
+          ]
+        }
+      ]
+    }
+  ]
+}

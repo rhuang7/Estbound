@@ -1,0 +1,10 @@
+/* Whole reading card opens its dedicated illustrated-journal page. Individual external source links stay clickable. */
+.reading-card.travelogue-linked-card{position:relative;cursor:pointer;isolation:isolate}
+.travelogue-card-link{position:absolute;inset:0;border-radius:inherit;z-index:1}
+.travelogue-card-link:focus-visible{outline:3px solid #318bea;outline-offset:3px}
+.reading-card .city-source-list a,.reading-card .review-quote a{position:relative;z-index:3}
+.travelogue-card-cta{color:#1d3345;font-weight:780;font-size:12px;margin:12px 0;padding:13px 14px;border-radius:11px;background:#eaf0f5;display:flex;align-items:center;justify-content:space-between;gap:10px;transition:background .2s}
+.travelogue-linked-card:hover .travelogue-card-cta{background:#dbe9f2}
+.travelogue-card-cta span{font-size:17px}
+.journal-section-link{display:inline-flex;align-items:center;gap:10px;margin:4px 0 22px;padding:13px 19px;background:#1d2630;border-radius:100px;color:#fff!important;font-weight:750;font-size:12px;text-decoration:none}
+.journal-section-link:hover{background:#38485a}
