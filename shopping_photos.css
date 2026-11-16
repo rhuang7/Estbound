@@ -1,0 +1,11 @@
+/* EASTBOUND V42 · Verified official shopping-location photographs */
+.shop-card.has-shop-photo{overflow:hidden}
+.shop-card.has-shop-photo .shop-photo{height:178px;min-height:178px;display:block;position:relative;margin:-29px -29px 0;background:#e6edf0;overflow:hidden;border-radius:21px 21px 0 0}
+.shop-card .shop-photo img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .45s ease}
+.shop-card.has-shop-photo:hover .shop-photo img{transform:scale(1.045)}
+.shop-card .shop-photo-badge{position:absolute;left:13px;bottom:13px;z-index:1;color:#fff;background:rgba(24,33,44,.74);border:1px solid rgba(255,255,255,.22);font-size:10px;font-weight:720;letter-spacing:.04em;padding:6px 10px;border-radius:99px;backdrop-filter:blur(6px)}
+.shop-card .shop-photo.photo-unavailable{display:none}
+.shop-card.has-shop-photo .shop-index{margin:18px 0 15px}
+.shop-card .shop-photo-source{position:relative;z-index:2;display:inline-flex;align-self:flex-start;font-size:10px;line-height:1.5;letter-spacing:.01em;color:#617d94;text-decoration:underline;text-underline-offset:3px;margin-top:10px}
+.shop-card .shop-photo-source:hover{color:#1479b7}
+@media(max-width:600px){.shop-card.has-shop-photo .shop-photo{height:195px;min-height:195px}}

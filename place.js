@@ -17,9 +17,13 @@
  const cityInfo=db.cities[city],row=records[idx];
  const [name,category,third,descriptionOrSource]=row;
  const summary=isDining?row[2]:row[3],source=isDining?row[3]:'',find=isDining?'':row[2];
- const displayCity=cityInfo.name,placeQuery=`${name} ${cityInfo.search}`;
+ const displayCity=cityInfo.name;
+ const nearbyArea=isDining&&String(category).startsWith('周边扩展 · ')?String(category).slice('周边扩展 · '.length):'';
+ const referenceArea=nearbyArea||cityInfo.search;
+ const placeQuery=`${name} ${referenceArea}`;
  const googleUrl=`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(placeQuery)}`;
- const sourceLabel=isDining?'查看推荐依据':'查看当地相关资讯';
+ const candidateSearch=isDining&&/^https:\/\/www\.google\.com\/maps\/search\//.test(source);
+ const sourceLabel=isDining?(candidateSearch?'通过地图核实店铺':'查看推荐依据'):'查看当地相关资讯';
  const section=isDining?'精选餐厅':'购物与伴手礼';
  document.title=`${name} · ${displayCity} ${section}｜EASTBOUND`;
  el('crumb-section').href=`index.html#${isDining?'dining':'shopping'}`;el('crumb-section').textContent=section;
@@ -31,7 +35,7 @@
  el('place-subtitle').textContent=isDining?'一顿好饭，是认识城市的开始。':'从一份手信，记住这座城市。';
  el('place-description').textContent=summary;
  el('place-experience').textContent=isDining
-  ?`在${displayCity}的旅行中，可以把「${name}」与附近的景点、街区散步一起安排。这里的推荐重点是「${category}」。出发前建议通过餐厅官方页面核对菜单、营业日、订位和无障碍信息；本站不会将未核实的营业情况或顾客评分当作实时数据。`
+  ?`餐饮候选「${name}」${nearbyArea?'参考地区为 '+nearbyArea+'，不保证位于 '+displayCity+' 本地。':'可作为 '+displayCity+' 用餐的备选线索。'}本条属于「${category}」。出发前请到地图及餐厅官方页面核实店铺存在与否、准确地址、菜单、营业日、订位和无障碍信息；本站没有逐家验证新增店铺，也不提供实时顾客评分。`
   :`这里适合寻找「${find}」。${name}可能是商场、市集、街道、店铺集合或风景区域，并非每条推荐都代表一个拥有固定门牌号的独立商户。建议为购物预留足够步行时间，按当日商户营业情况灵活调整。`;
  el('place-tip-head').textContent=isDining?'用餐前建议确认':'购物前建议确认';
  el('place-tip').textContent=isDining
@@ -39,7 +43,8 @@
   :`推荐留意：${find}。如果这里是街区或市集，请先确认商家分布、活动日与交通方式；部分景区店铺有季节性营业安排。`;
  el('place-facts').innerHTML=[
   ['地点类型',isDining?'餐厅 · '+category:'购物 · '+category],
-  ['所属地区',displayCity+' · '+cityInfo.province],
+  ['所选目的地',displayCity+' · '+cityInfo.province],
+  ['餐厅参考地区',referenceArea],
   [isDining?'推荐体验':'值得寻找',isDining?summary:find],
   ['线上定位','通过 Google Maps 嵌入地图搜索，建议在 Google Maps 中确认具体地点'],
   ['出行方式','以实时地图路线、营业信息与目的地公告为准']
@@ -47,7 +52,7 @@
  el('action-back').href=`index.html#${isDining?'dining':'shopping'}`;
  for(const id of ['action-map','maps-navigation','maps-search'])el(id).href=googleUrl;
  if(isDining&&source&&/^https:\/\//.test(source)){el('action-source').hidden=false;el('action-source').href=source;el('action-source').textContent=sourceLabel+' ↗'}
- el('map-title').textContent=`${name} · ${cityInfo.en} · Canada`;
+ el('map-title').textContent=`${name} · ${referenceArea} · Canada`;
  // Google Maps iframe for restaurant / shopping details only.
  // Neither the old Mapbox public token nor Mapbox POI Search is required here.
  const mapStatus=el('map-status'),mapAddress=el('map-address');

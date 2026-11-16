@@ -13,7 +13,7 @@ const restaurantGuideData=()=>{
  return typeof RESTAURANT_GUIDES!=='undefined'?RESTAURANT_GUIDES:{};
 };
 const restaurantItems=(city)=>{const guides=restaurantGuideData();return city==='all'?REGIONS.flatMap(r=>r.cities.flatMap(key=>(guides[key]||[]).map(entry=>({city:key,entry})))):(guides[city]||[]).map(entry=>({city,entry}));};
-const restaurantCard=({city,entry:[name,category,description,source]})=>`<article class="eat-card place-clickable"><a class="place-card-stretch" href="place.html?type=restaurant&city=${encodeURIComponent(city)}&item=${(restaurantGuideData()[city]||[]).findIndex(r=>r[0]===name)}" aria-label="查看${esc(CITIES[city]?.name||city)}餐厅${esc(name)}的图片、介绍及地图"></a><div class="eat-head"><span>${esc(CITIES[city]?.name||city)}</span><span>LOCAL TABLE / EAT</span></div><h3>${esc(name)}</h3><span class="eat-kind">${esc(category)}</span><p>${esc(description)}</p><div class="eat-links">${safeLink(googleSearch(name+' '+CITIES[city].search),'地图／实际评价')}${safeLink(source,'推荐依据')}</div><span class="place-detail-label">查看餐厅完整详情 ↗</span></article>`;
+const restaurantCard=({city,entry:[name,category,description,source]})=>`<article class="eat-card place-clickable"><a class="place-card-stretch" href="place.html?type=restaurant&city=${encodeURIComponent(city)}&item=${(restaurantGuideData()[city]||[]).findIndex(r=>r[0]===name)}" aria-label="查看${esc(CITIES[city]?.name||city)}餐厅${esc(name)}的图片、介绍及地图"></a><div class="eat-head"><span>${esc(CITIES[city]?.name||city)}</span><span>LOCAL TABLE / EAT</span></div><h3>${esc(name)}</h3><span class="eat-kind">${esc(category)}</span><p>${esc(description)}</p><div class="eat-links">${safeLink(/^https:\/\/www\.google\.com\/maps\/search\//.test(source)?source:googleSearch(name+' '+CITIES[city].search),'地图搜索／核实')}${/^https:\/\/www\.google\.com\/maps\/search\//.test(source)?'':safeLink(source,'推荐依据')}</div><span class="place-detail-label">查看餐厅完整详情 ↗</span></article>`;
 function renderDining(){
  const city=el('dining-city')?.value||'all',total=restaurantItems(city),shown=total.slice(0,displayLimit(diningVisible,total.length));
  if(!total.length){
@@ -22,7 +22,7 @@ function renderDining(){
    return;
  }
  el('dining-grid').innerHTML=shown.map(restaurantCard).join('');
- el('dining-count').textContent=`${city==='all'?'19 个目的地':CITIES[city].name} · 共 ${total.length} 条餐厅建议（非实时营业或预订）`;
+ el('dining-count').textContent=`${city==='all'?'19 个目的地':CITIES[city].name} · 共 ${total.length} 条餐饮候选（周边选项已标注；请核实营业与位置）`;
  updateCollectionControls('dining',shown.length,total.length,'餐厅');
 }
 const reviewBase=(city,name)=>`${name} ${CITIES[city]?.search||'Eastern Canada'}`;
@@ -57,7 +57,7 @@ function initReading(){
  selector.value='all';
  selector.addEventListener('change',()=>{diningVisible=initialCollectionCount();renderDining()});
  renderDining();
- el('dining-more')?.addEventListener('click',()=>{const total=restaurantItems(selector.value).length;diningVisible=Math.min(total,diningVisible+initialCollectionCount());renderDining()});
+ el('dining-more')?.addEventListener('click',()=>{const total=restaurantItems(selector.value).length;diningVisible=Math.min(total,diningVisible+30);renderDining()});
  el('dining-collapse')?.addEventListener('click',()=>{diningVisible=initialCollectionCount();renderDining();returnToSection('dining')});
 }
 if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',initReading);else initReading();
