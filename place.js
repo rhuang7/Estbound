@@ -90,30 +90,38 @@
  function drawPhotos(photos){
   el('photo-grid').innerHTML=photos.slice(0,3).map((p,i)=>`<a class="photo-cell" href="${esc(p.url)}" target="_blank" rel="noopener noreferrer" aria-label="查看第 ${i+1} 张图片来源"><img src="${esc(p.src)}" alt="${esc(p.label)}" loading="${i?'lazy':'eager'}" onerror="this.style.opacity='.15'"/><span class="photo-num">0${i+1} / 03</span><span class="photo-stamp">${esc(p.label)}</span></a>`).join('');
   const real=photos.filter(p=>!p.fallback).length;
-  el('photo-note').textContent=real?`${real} 张地点搜索相关图片 · ${3-real} 张地区参考图 · 点击查看来源`:'3 张城市／周边参考图（非店铺实拍） · 点击查看图片来源';
+  el('photo-note').textContent=real?`${real} 张地点搜索相关图片 · ${3-real} 张地区参考图 · 点击查看来源`:'3 张城市／周边参考图（非商场实拍） · 点击查看图片来源';
  }
- drawPhotos(defaultPhotos);
- const extractText=s=>{const node=document.createElement('div');node.innerHTML=s||'';return(node.textContent||'').trim().slice(0,120)};
- async function commons(term){
-  const searchUrl=new URL('https://commons.wikimedia.org/w/api.php');
-  const args={action:'query',generator:'search',gsrsearch:`${term} filetype:bitmap`,gsrnamespace:'6',gsrlimit:'12',prop:'imageinfo',iiprop:'url|extmetadata|size',iiurlwidth:'1050',iiextmetadatafilter:'Artist|LicenseShortName',format:'json',origin:'*'};
-  Object.entries(args).forEach(([k,v])=>searchUrl.searchParams.set(k,v));
-  const controller=new AbortController(),timeout=setTimeout(()=>controller.abort(),8500);
-  try{
-   const r=await fetch(searchUrl,{signal:controller.signal});if(!r.ok)throw new Error('Image API '+r.status);
-   const d=await r.json();return Object.values(d.query?.pages||{}).sort((a,b)=>(a.index??999)-(b.index??999)).filter(p=>p.imageinfo?.[0]?.thumburl&&/\.(jpe?g|png|webp)$/i.test(p.title||'')).map(p=>({src:p.imageinfo[0].thumburl,url:p.imageinfo[0].descriptionurl,label:`${extractText(p.imageinfo[0].extmetadata?.Artist?.value)||p.title.replace(/^File:/,'')} · ${extractText(p.imageinfo[0].extmetadata?.LicenseShortName?.value)||'许可见原始文件'}`,fallback:false}));
-  }catch(_){return []}finally{clearTimeout(timeout)}
+ const knownDiningPhoto=isDining?window.EASTBOUND_DINING_PHOTOS?.[city+'::'+name]:null;
+ if(isDining){
+  const scene=knownDiningPhoto;
+  const tiles=scene?`<a class="photo-cell" href="${esc(scene[1])}" target="_blank" rel="noopener noreferrer"><img src="${esc(scene[0])}" loading="eager" alt="${esc(name)} 店面或室内实景" onerror="this.hidden=true;this.parentNode.classList.add('dining-photo-placeholder')"/><span class="photo-stamp">${esc(scene[2])} · 查看照片来源 ↗</span></a>`:'';
+  const unavailable=(title)=>`<a class="photo-cell dining-photo-placeholder" href="${esc(googleUrl)}" target="_blank" rel="noopener noreferrer"><strong>${esc(title)}</strong><span>暂无核实的该店实景照片</span><small>在 Google Maps 查看该店照片 ↗</small></a>`;
+  el('photo-grid').innerHTML=tiles+Array.from({length:scene?2:3},(_,i)=>unavailable(scene?'其他角度照片尚待核实':'店面或店内实景待补充')).join('');
+  el('photo-note').textContent=scene?'已匹配这家餐厅的店面／室内照片 · 点击查看原始来源 · 其他照片待核实':'目前尚无可靠匹配的该店照片 · 可点击访问 Google Maps 查看用户照片';
+  document.querySelector('.gallery-caption strong').textContent='RESTAURANT IMAGES / 餐厅实景';
+  const note=document.querySelector('.gallery-band .footnote');if(note)note.textContent='餐厅照片只在能对应到本店时展示；未核实的照片不会以城市风景或其他餐厅照片代替。使用第三方网站图片前，请另行确认著作权与展示许可。';
+ }else{
+  drawPhotos(defaultPhotos);
+  const extractText=s=>{const node=document.createElement('div');node.innerHTML=s||'';return(node.textContent||'').trim().slice(0,120)};
+  async function commons(term){
+   const searchUrl=new URL('https://commons.wikimedia.org/w/api.php');
+   const args={action:'query',generator:'search',gsrsearch:`${term} filetype:bitmap`,gsrnamespace:'6',gsrlimit:'12',prop:'imageinfo',iiprop:'url|extmetadata|size',iiurlwidth:'1050',iiextmetadatafilter:'Artist|LicenseShortName',format:'json',origin:'*'};
+   Object.entries(args).forEach(([k,v])=>searchUrl.searchParams.set(k,v));
+   const controller=new AbortController(),timeout=setTimeout(()=>controller.abort(),8500);
+   try{const r=await fetch(searchUrl,{signal:controller.signal});if(!r.ok)throw new Error('Image API '+r.status);
+    const d=await r.json();return Object.values(d.query?.pages||{}).sort((a,b)=>(a.index??999)-(b.index??999)).filter(p=>p.imageinfo?.[0]?.thumburl&&/\.(jpe?g|png|webp)$/i.test(p.title||'')).map(p=>({src:p.imageinfo[0].thumburl,url:p.imageinfo[0].descriptionurl,label:`${extractText(p.imageinfo[0].extmetadata?.Artist?.value)||p.title.replace(/^File:/,'')} · ${extractText(p.imageinfo[0].extmetadata?.LicenseShortName?.value)||'许可见原始文件'}`,fallback:false}));
+   }catch(_){return []}finally{clearTimeout(timeout)}
+  }
+  (async()=>{
+   const venue=await commons(`${name} ${cityInfo.en}`);
+   const cityPictures=venue.length<3?await commons(`${cityInfo.en} Canada`):[];
+   const used=new Set(venue.map(p=>p.url));
+   const local=cityPictures.filter(p=>{if(used.has(p.url))return false;used.add(p.url);return true})
+     .map(p=>({...p,fallback:true,label:`${cityInfo.name} · 城市参考图（非该店铺实拍） · ${p.label}`}));
+   drawPhotos([...venue.slice(0,3),...local,...defaultPhotos].slice(0,3));
+  })();
  }
- (async()=>{
-  const venue=await commons(`${name} ${cityInfo.en}`);
-  // When venue photography is scarce, look for photos of the *same city*, not another city.
-  const cityPictures=venue.length<3?await commons(`${cityInfo.en} Canada`):[];
-  const used=new Set(venue.map(p=>p.url));
-  const local=cityPictures.filter(p=>{if(used.has(p.url))return false;used.add(p.url);return true})
-    .map(p=>({...p,fallback:true,label:`${cityInfo.name} · 城市参考图（非该店铺实拍） · ${p.label}`}));
-  const photos=[...venue.slice(0,3),...local,...defaultPhotos].slice(0,3);
-  drawPhotos(photos);
- })();
  const related=[];
  for(const t of [type,isDining?'shopping':'restaurant']){
   (db[t==='restaurant'?'restaurants':'shopping'][city]||[]).forEach((r,i)=>{if(t===type&&i===idx)return;related.push({type:t,row:r,index:i});});

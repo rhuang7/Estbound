@@ -1,0 +1,23 @@
+/* EASTBOUND V43 – editorial, venue-matched dining imagery */
+.eat-card{overflow:hidden;padding-top:0!important;}
+.eat-card .eat-photo{position:relative;flex:none;display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:174px;aspect-ratio:16/9;margin:0 -23px 12px;overflow:hidden;background:#eef3f5;color:#697981}
+.eat-card .eat-photo img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:0;transition:transform .3s ease}
+.eat-card:hover .eat-photo img{transform:scale(1.04)}
+.eat-card .eat-photo-type{position:absolute;top:11px;left:11px;background:#101c25c9;color:#fff;border-radius:10px;padding:7px 10px;font-size:10px;font-weight:700;letter-spacing:.025em;z-index:1}
+.eat-card .eat-photo-source{position:absolute;right:11px;bottom:10px;z-index:3;background:#ffffffeb;color:#283844;border-radius:10px;padding:7px 9px;font-size:10px;font-weight:680}
+.eat-card .eat-photo-missing{gap:8px;background:radial-gradient(circle at 20% 20%,#e1edf1 0,transparent 48%),linear-gradient(130deg,#eef2f2,#e7ecee);text-align:center;padding:20px 8px}
+.eat-card .eat-photo-icon{display:block;font-size:48px;line-height:1;color:#b1c4cb;transform:rotate(-30deg)}
+.eat-card .eat-photo-label{color:#667782;font-size:12px;font-weight:710}
+.eat-card .eat-photo-missing a{font-size:11px;color:#1b6f91;text-decoration:underline;text-underline-offset:3px;position:relative;z-index:3}
+.eat-card .eat-photo-error{display:none}
+.eat-card .eat-photo-failed{background:#eaf1f4}
+.eat-card .eat-photo-failed .eat-photo-error{display:block;font-size:12px;text-align:center;max-width:80%;color:#67727e;padding:20px}
+.eat-card .eat-photo-failed .eat-photo-type{display:none}
+.eat-card .eat-photo~.eat-head,.eat-card .eat-photo~h3,.eat-card .eat-photo~.eat-kind,.eat-card .eat-photo~p,.eat-card .eat-photo~.eat-links,.eat-card .eat-photo~.place-detail-label{margin-left:0;margin-right:0}
+.modal-restaurants .eat-card .eat-photo{margin:0 -18px 11px;min-height:120px}
+@media(max-width:600px){.eat-card .eat-photo{margin:0 -22px 12px;min-height:180px}}
+/* Place details: no city stock images masquerading as restaurant interiors. */
+.photogrid .photo-cell.dining-photo-placeholder{display:flex;flex-direction:column;justify-content:center;align-items:center;gap:9px;color:#677987;background:linear-gradient(135deg,#e9eff3,#dae4e9);text-align:center;padding:24px;font-size:13px}
+.photogrid .photo-cell.dining-photo-placeholder span{position:static;border:0;background:none}
+.photogrid .photo-cell.dining-photo-placeholder strong{font-size:15px;color:#455a65}
+.photogrid .photo-cell.dining-photo-placeholder small{font-size:11px;text-decoration:underline}

@@ -21,23 +21,28 @@ function renderSpots(){
  updateCollectionControls('spots',shown.length,records.length,'景点');
  activateGalleries(el('spot-grid'));
 }
-function shoppingPhotoHTML(name){
+// V45: every shopping card always has a cover. Only a location-matched
+// photograph may display the "real scene" badge. Missing/broken photos retain
+// an explicitly labelled design placeholder instead of collapsing the layout.
+function shoppingPhotoHTML(name,category){
  const photo=typeof SHOPPING_OFFICIAL_PHOTOS==='object'?SHOPPING_OFFICIAL_PHOTOS[name]:null;
- if(!photo)return '';
- const [img,source,credit,type]=photo;
- // Keep image credit actionable, above the card's stretched detail link.
- return `<div class="shop-photo"><img src="${esc(img)}" alt="${esc(name)} · 对应地点官方照片" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.closest('.shop-photo').classList.add('photo-unavailable')"><span class="shop-photo-badge">官方实景照片</span></div>`;
+ const role=/市集|农产|食品|Market|Food/i.test(name+' '+category)?'market':/画廊|艺术|craft|Gallery|工艺/i.test(name+' '+category)?'arts':/商场|Outlet|Mall|Centre|Place/i.test(name+' '+category)?'mall':'street';
+ const artwork=`<span class="shop-cover-art" aria-hidden="true"><svg viewBox="0 0 160 118" width="160" height="118" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M24 50H136L127 29H33L24 50Z" stroke="currentColor" stroke-width="2.5" stroke-linejoin="round"/><path d="M30 53V103H130V53M20 103H140" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/><path d="M41 53V69C46 76 53 76 58 69V53M58 53V69C63 76 70 76 75 69V53M75 53V69C80 76 87 76 92 69V53M92 53V69C97 76 104 76 109 69V53M109 53V69C114 76 121 76 126 69V53" stroke="currentColor" stroke-width="2"/><path d="M43 103V80H76V103M86 80H115V94H86V80Z" stroke="currentColor" stroke-width="2.5" stroke-linejoin="round"/><path d="M46 24V15H114V24" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></span><span class="shop-cover-fallback-copy">对应地点实景照片待补充</span>`;
+ const photoScope=photo?(photo[3]||'地点实景'):'';
+ const coverLabel=photo?(photoScope.includes('区域')||photoScope.includes('周边')||photoScope.includes('参考')||photoScope.includes('代表')?'地区/商户实景':photoScope.includes('历史')?'历史地点照片':photoScope.includes('街区')?'街区实景照片':'对应地点实景'):'实景照片待补充';
+ // onload is deliberately limited to changing the visible label, and never changes its provenance.
+ return `<div class="shop-photo ${photo?'is-shop-image':'is-shop-fallback'} shop-cover--${role}">${photo?`<img src="${esc(photo[0])}" alt="${esc(photo[4]||name)} · ${esc(photoScope)}" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.closest('.shop-photo').classList.add('is-shop-fallback');this.closest('.shop-photo').classList.remove('is-shop-image');this.closest('.shop-card').classList.add('shop-image-unavailable');this.closest('.shop-photo').querySelector('.shop-photo-badge').textContent='照片暂不可用'">`:''}<div class="shop-photo-fallback">${artwork}</div><span class="shop-photo-badge">${photo?esc(coverLabel):'实景照片待补充'}</span></div>`;
 }
 function shoppingSourceHTML(name){
  const photo=typeof SHOPPING_OFFICIAL_PHOTOS==='object'?SHOPPING_OFFICIAL_PHOTOS[name]:null;
  if(!photo)return '';
- return `<a class="shop-photo-source" href="${esc(photo[1])}" target="_blank" rel="noopener noreferrer" aria-label="查看${esc(name)}的${esc(photo[3])}">图片来源：${esc(photo[2])} ↗</a>`;
+ return `<div class="shop-photo-credit">${photo[4]?`<span class="shop-photo-subject" title="${esc(photo[3])}">拍摄地点：${esc(photo[4])}</span>`:''}<a class="shop-photo-source" href="${esc(photo[1])}" target="_blank" rel="noopener noreferrer" aria-label="查看${esc(name)}图片来源">图片来源：${esc(photo[2])} ↗</a></div>`;
 }
 function renderShopping(){
  const city=el('shop-city').value;
  const shops=(city==='all'?REGIONS.flatMap(r=>r.cities.flatMap(key=>(SHOPPING_GUIDES[key]||[]).map(s=>({city:key,item:s})))):(SHOPPING_GUIDES[city]||[]).map(s=>({city,item:s})));
  const shown=shops.slice(0,displayLimit(shoppingVisible,shops.length));
- el('shopping-grid').innerHTML=shown.map(({city:place,item:[name,category,find,description]},i)=>`<article class="shop-card place-clickable${SHOPPING_OFFICIAL_PHOTOS[name]?' has-shop-photo':''}"><a class="place-card-stretch" href="place.html?type=shopping&city=${encodeURIComponent(place)}&item=${SHOPPING_GUIDES[place].findIndex(s=>s[0]===name)}" aria-label="查看${esc(name)}购物地点详情"></a>${shoppingPhotoHTML(name)}<div class="shop-index">${esc(cityName(place))} / ${String(i+1).padStart(2,'0')}</div><span class="shop-category">${esc(category)}</span><h3>${esc(name)}</h3><p>${esc(description)}</p><div class="shop-pick"><strong>推荐留意</strong><span>${esc(find)}</span></div>${extLink(mapSpotUrl(name,place),'地图与周边商店 ↗','shop-map-link')}${shoppingSourceHTML(name)}<span class="place-detail-label">查看购物地点完整详情 ↗</span></article>`).join('');
+ el('shopping-grid').innerHTML=shown.map(({city:place,item:[name,category,find,description]},i)=>`<article class="shop-card place-clickable has-shop-cover${SHOPPING_OFFICIAL_PHOTOS[name]?' has-shop-photo':''}"><a class="place-card-stretch" href="place.html?type=shopping&city=${encodeURIComponent(place)}&item=${SHOPPING_GUIDES[place].findIndex(s=>s[0]===name)}" aria-label="查看${esc(name)}购物地点详情"></a>${shoppingPhotoHTML(name,category)}<div class="shop-index">${esc(cityName(place))} / ${String(i+1).padStart(2,'0')}</div><span class="shop-category">${esc(category)}</span><h3>${esc(name)}</h3><p>${esc(description)}</p><div class="shop-pick"><strong>推荐留意</strong><span>${esc(find)}</span></div>${extLink(mapSpotUrl(name,place),'地图与周边商店 ↗','shop-map-link')}${shoppingSourceHTML(name)}<span class="place-detail-label">查看购物地点完整详情 ↗</span></article>`).join('');
  updateCollectionControls('shopping',shown.length,shops.length,'购物推荐');
 }
 

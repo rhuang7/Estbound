@@ -13,16 +13,25 @@ const restaurantGuideData=()=>{
  return typeof RESTAURANT_GUIDES!=='undefined'?RESTAURANT_GUIDES:{};
 };
 const restaurantItems=(city)=>{const guides=restaurantGuideData();return city==='all'?REGIONS.flatMap(r=>r.cities.flatMap(key=>(guides[key]||[]).map(entry=>({city:key,entry})))):(guides[city]||[]).map(entry=>({city,entry}));};
-const restaurantCard=({city,entry:[name,category,description,source]})=>`<article class="eat-card place-clickable"><a class="place-card-stretch" href="place.html?type=restaurant&city=${encodeURIComponent(city)}&item=${(restaurantGuideData()[city]||[]).findIndex(r=>r[0]===name)}" aria-label="查看${esc(CITIES[city]?.name||city)}餐厅${esc(name)}的图片、介绍及地图"></a><div class="eat-head"><span>${esc(CITIES[city]?.name||city)}</span><span>LOCAL TABLE / EAT</span></div><h3>${esc(name)}</h3><span class="eat-kind">${esc(category)}</span><p>${esc(description)}</p><div class="eat-links">${safeLink(/^https:\/\/www\.google\.com\/maps\/search\//.test(source)?source:googleSearch(name+' '+CITIES[city].search),'地图搜索／核实')}${/^https:\/\/www\.google\.com\/maps\/search\//.test(source)?'':safeLink(source,'推荐依据')}</div><span class="place-detail-label">查看餐厅完整详情 ↗</span></article>`;
+// V43: only display imagery positively associated with this exact venue.
+// A missing image is shown openly; never silently swap in stock food or a different restaurant.
+const restaurantCard=({city,entry:[name,category,description,source]})=>{
+ const index=(restaurantGuideData()[city]||[]).findIndex(r=>r[0]===name);
+ const isNearby=category.startsWith('周边扩展 · '),place=isNearby?category.slice('周边扩展 · '.length):(CITIES[city]?.search||city);
+ const maps=googleSearch(name+' '+place+' Canada');
+ const image=window.EASTBOUND_DINING_PHOTOS?.[city+'::'+name];
+ const photo=image?`<div class="eat-photo"><img src="${esc(image[0])}" alt="${esc(name)} 实景照片" loading="lazy" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.eat-photo').classList.add('eat-photo-failed')"/><span class="eat-photo-type">店面 / 室内实景</span><a class="eat-photo-source" href="${esc(image[1])}" target="_blank" rel="noopener noreferrer">图片来源 ↗</a><span class="eat-photo-error">图片暂不可载入 · 请查看图片来源</span></div>`:`<div class="eat-photo eat-photo-missing"><span class="eat-photo-icon" aria-hidden="true">⌁</span><span class="eat-photo-label">该店实景照片待核实</span><a href="${esc(maps)}" target="_blank" rel="noopener noreferrer">前往地图查看店面与室内照片 ↗</a></div>`;
+ return `<article class="eat-card place-clickable"><a class="place-card-stretch" href="place.html?type=restaurant&city=${encodeURIComponent(city)}&item=${index}" aria-label="查看${esc(CITIES[city]?.name||city)}餐厅${esc(name)}的图片、介绍及地图"></a>${photo}<div class="eat-head"><span>${esc(CITIES[city]?.name||city)}</span><span>LOCAL TABLE / EAT</span></div><h3>${esc(name)}</h3><span class="eat-kind">${esc(category)}</span><p>${esc(description)}</p><div class="eat-links">${safeLink(maps,'地图与店景')}${/^https:\/\/[^ ]+/.test(source)?safeLink(source,'餐厅资料来源'):''}</div><span class="place-detail-label">查看餐厅完整详情 ↗</span></article>`;
+};
 function renderDining(){
  const city=el('dining-city')?.value||'all',total=restaurantItems(city),shown=total.slice(0,displayLimit(diningVisible,total.length));
  if(!total.length){
-   // Preserve the server-rendered fallback cards instead of wiping them.
+   // Display clear load error instead of showing deleted legacy restaurants.
    el('dining-count').textContent='餐厅数据暂时无法加载，请刷新页面后重试。';
    return;
  }
  el('dining-grid').innerHTML=shown.map(restaurantCard).join('');
- el('dining-count').textContent=`${city==='all'?'19 个目的地':CITIES[city].name} · 共 ${total.length} 条餐饮候选（周边选项已标注；请核实营业与位置）`;
+ el('dining-count').textContent=`${city==='all'?'19 个目的地':CITIES[city].name} · 共 ${total.length} 家新选餐厅 · ${shown.filter(x=>window.EASTBOUND_DINING_PHOTOS?.[x.city+'::'+x.entry[0]]).length} 张已匹配实景图（当前已展示） · 周边地点已标注`;
  updateCollectionControls('dining',shown.length,total.length,'餐厅');
 }
 const reviewBase=(city,name)=>`${name} ${CITIES[city]?.search||'Eastern Canada'}`;

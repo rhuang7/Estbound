@@ -1,11 +1,26 @@
-/* EASTBOUND V42 · Verified official shopping-location photographs */
-.shop-card.has-shop-photo{overflow:hidden}
-.shop-card.has-shop-photo .shop-photo{height:178px;min-height:178px;display:block;position:relative;margin:-29px -29px 0;background:#e6edf0;overflow:hidden;border-radius:21px 21px 0 0}
-.shop-card .shop-photo img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .45s ease}
-.shop-card.has-shop-photo:hover .shop-photo img{transform:scale(1.045)}
-.shop-card .shop-photo-badge{position:absolute;left:13px;bottom:13px;z-index:1;color:#fff;background:rgba(24,33,44,.74);border:1px solid rgba(255,255,255,.22);font-size:10px;font-weight:720;letter-spacing:.04em;padding:6px 10px;border-radius:99px;backdrop-filter:blur(6px)}
-.shop-card .shop-photo.photo-unavailable{display:none}
-.shop-card.has-shop-photo .shop-index{margin:18px 0 15px}
+/* EASTBOUND V44 — all shopping cards have uniform covers. The illustrated fallback
+   is not a photo; never label it as a storefront or an official photograph. */
+.shop-card.has-shop-cover{overflow:hidden}
+.shop-card.has-shop-cover .shop-photo{height:178px;min-height:178px;flex:none;display:block;position:relative;margin:-29px -29px 0;overflow:hidden;border-radius:21px 21px 0 0;background:#e6ebef}
+.shop-card.has-shop-cover .shop-photo img{position:absolute;z-index:1;inset:0;width:100%;height:100%;object-fit:cover;display:block;transition:transform .45s ease}
+.shop-card.has-shop-cover:hover .shop-photo.is-shop-image img{transform:scale(1.045)}
+.shop-card .shop-photo-badge{position:absolute;left:13px;bottom:13px;z-index:2;color:#fff;background:rgba(24,33,44,.78);border:1px solid rgba(255,255,255,.25);font-size:10px;font-weight:720;letter-spacing:.02em;padding:6px 10px;border-radius:99px;backdrop-filter:blur(6px)}
+.shop-card.has-shop-cover .shop-index{margin:18px 0 15px}
 .shop-card .shop-photo-source{position:relative;z-index:2;display:inline-flex;align-self:flex-start;font-size:10px;line-height:1.5;letter-spacing:.01em;color:#617d94;text-decoration:underline;text-underline-offset:3px;margin-top:10px}
 .shop-card .shop-photo-source:hover{color:#1479b7}
-@media(max-width:600px){.shop-card.has-shop-photo .shop-photo{height:195px;min-height:195px}}
+/* Decorative placeholder only; no generic city photo can be mistaken for this venue. */
+.shop-card .shop-photo-fallback{display:flex;position:absolute;inset:0;align-items:center;justify-content:center;flex-direction:column;gap:2px;color:#6e8195;background:radial-gradient(ellipse at 86% 8%,#d7e9ec 0,transparent 52%),linear-gradient(140deg,#e9eef2 0%,#dbe4e9 100%)}
+.shop-card .shop-photo.is-shop-fallback .shop-photo-fallback{display:flex}
+.shop-card .shop-photo.is-shop-fallback img{display:none}
+.shop-card .shop-photo.is-shop-fallback .shop-photo-badge{background:rgba(66,83,99,.77)}
+.shop-card .shop-photo.is-shop-fallback .shop-cover-art{height:105px;display:grid;place-items:center;opacity:.66}
+.shop-card .shop-photo.is-shop-fallback .shop-cover-fallback-copy{font-size:10px;color:#4d667a;letter-spacing:.035em;font-weight:650;margin-top:-3px}
+.shop-card .shop-cover--market .shop-photo-fallback{background:radial-gradient(ellipse at 80% 0,#d9e6cf 0,transparent 50%),linear-gradient(140deg,#edf1e9 0%,#dce7df 100%);color:#678977}
+.shop-card .shop-cover--arts .shop-photo-fallback{background:radial-gradient(ellipse at 90% 10%,#eee4d4 0,transparent 54%),linear-gradient(140deg,#f3eee7 0%,#e7ddcf 100%);color:#997b6e}
+.shop-card .shop-cover--mall .shop-photo-fallback{background:radial-gradient(ellipse at 85% 0,#dce5f5 0,transparent 50%),linear-gradient(145deg,#eaf0f6 0%,#d8e2ed 100%);color:#6d86a7}
+@media(max-width:600px){.shop-card.has-shop-cover .shop-photo{height:195px;min-height:195px}}
+
+/* V45: keep the attribution readable on narrow and desktop cards. */
+.shop-card .shop-photo-credit{position:relative;z-index:2;display:flex;flex-direction:column;align-items:flex-start;gap:3px;margin-top:11px;overflow-wrap:anywhere;}
+.shop-card .shop-photo-credit .shop-photo-source{margin-top:0;}
+.shop-card .shop-photo-subject{font-size:10px;line-height:1.45;color:#768491;}
